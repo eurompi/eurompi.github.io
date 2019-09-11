@@ -1,0 +1,154 @@
+full_title: 26th European MPI User's Group
+short_title: EuroMPI/USA 2020
+email: eurompi2020@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  EuroMPI.... 
+location: Austin, TX
+date: September 21-24, 2020
+logo_path: ./assets/images/logo.pdf
+slideshow:
+  - id: 0
+    image_path: ./assets/images/slideshow/Austin skyline.jpg
+    description: Austin skyline
+    photographer_name: Jean-Michel Defaux
+    photographer_link: 
+    active: True
+  - id: 1
+    image_path: ./assets/images/slideshow/Texas State Capitol Building.jpg
+    description: Texas State Capitol Building
+    photographer_name: Austin Convention & Visitors Bureau
+    photographer_link: 
+  - id: 2
+    image_path: ./assets/images/slideshow/Texas State Capitol Building-2.jpg
+    description: Evening at Texas State Capitol Building
+    photographer_name: Austin Convention & Visitors Bureau
+    photographer_link: 
+  - id: 3
+    image_path: ./assets/images/slideshow/Austin Skyline with kayaker  dog.jpg
+    description: Austin Skyline with kayaker & dog
+    photographer_name: Austin Convention & Visitors Bureau
+    photographer_link: 
+  - id: 4
+    image_path: ./assets/images/slideshow/Sunset over downtown Austin skyline.jpg
+    description: Downtown Austin skyline and Lady Bird Lake
+    photographer_name: Geoff Duncan
+    photographer_link: 
+  - id: 5
+    image_path: ./assets/images/slideshow/Historic Sixth Street Mural.jpg
+    description: Sixth Street Mural
+    photographer_name: Carmen M Fischer
+    photographer_link: 
+  - id: 6
+    image_path: ./assets/images/slideshow/View from Mount Bonnell.jpg
+    description: The view from the top of Mount Bonnell over Lake Austin in the daytime
+    photographer_name: Austin Convention & Visitors Bureau
+    photographer_link: 
+navbar:
+  - id: 0
+    label: Home
+    path: /
+    visible: True
+  - id: 1
+    label: Organization
+    path: /organization.html
+    visible: True
+  - id: 2
+    label: Call for Papers
+    path: /cfp.html
+    visible: True
+  - id: 3
+    label: Call for Posters
+    path: /cfposter.html
+    visible: True
+  - id: 4
+    label: Submission
+    path: /submission.html
+    visible: True
+  - id: 5
+    label: Programs
+    path: /program.html
+    visible: True
+  - id: 6
+    label: Venue
+    path: /venue.html
+    visible: True
+  - id: 7
+    label: Registration
+    path: /registration.html
+    visible: True
+  - id: 8
+    label: Conference Archive
+    path: /archive.html
+    visible: True
+deadlines:
+  - date: 2020-4-22
+    timezone: AOE
+    text: Full paper Submission
+    pass_due: False
+  - date: 2020-7-1
+    text: Notification of acceptance
+    pass_due: False
+#news:
+#  - date: 2017-10-14
+#    text: Workshop has been successfully held
+#  - date: 2017-05-12
+#    text: Submission site online
+#  - date: 2017-03-08
+#    text: Website online
+#sponsors:
+#  - name: ACM
+#    logo_path: ./assets/images/sponsors/acm-logo.png
+#  - name: IEEE
+#    logo_path: ./assets/images/sponsors/ieee-logo.gif
+#social_media:
+#  facebook_link: https://www.facebook.com/eurompi2020/
+#  twitter_linki:
+general_chair:
+  - name: Wesley Bland, Intel Corporation, USA
+program_chairs:
+  - name: Kathryn Mohror, Lawrence Livermore National Laboratory, USA 
+  - name: Toni Pena, Barcelona Supercomputing Center, Spain
+Tutorial_Workshop_chair:
+  - name: Ryan Grant, Sandia National Laboratory, USA
+Publicity_chairs:
+  - name: Atsushi Hori, RIKEN, Japan
+  - name: Guillaume Mercier, INRIA, France
+Proceedings_chair: 
+  - name: Yanfei Guo, Oak Ridge National Laboratory, USA
+Finance_registration_chair:
+  - name: Min Si, Argonne National Laboratory, USA
+Local_organization:
+  - name: Kent Milfeld, TACC
+Web_chair:
+  - name: Nawrin Sultana, Auburn University, USA
+technical_program_committees:
+  - name: Hartwig Anzt, Karlsruhe Institute of Technology
+  - name: Marc Casas, Barcelona Supercomputing Center
+  - name: Adrián Castelló, Universitat Jaume Ⅰ
+  - name: Taru Doodi, Intel Corporation
+  - name: Javier Garcia Blas, Carlos Ⅲ University
+  - name: Richard Graham, Mellanox Technologies
+  - name: Ryan E. Grant, Sandia National Laboratories
+  - name: William Gropp, University of Illinois at Urbana-Champaign
+  - name: Marc-André Hermanns, RWTH Aachen University
+  - name: Dan Holmes, The University of Edinburgh
+  - name: Sergio Iserte, Universitat Jaume Ⅰ
+  - name: Tanzima Islam, Texas State University
+  - name: Surabhi Jain, Intel Corporation
+  - name: Nikhil Jain, Nvidia
+  - name: Stefano Markidis, KTH Royal Institute of Technology
+  - name: Guillaume Mercier, ENSEIRB/INRIA
+  - name: Misbah Mubarak, Amazon Web Services
+  - name: Xiang Ni, IBM
+  - name: Bogdan Nicolae, Argonne National Laboratory
+  - name: Lena Oden, Fernuniversität Hagen
+  - name: Olga Pearce, Lawrence Livermore National Laboratory
+  - name: Ken Raffenetti, Argonne National Laboratory
+  - name: Raghunath Raja Chandrasekar, Amazon Web Services
+  - name: Kento Sato, RIKEN R-CCS
+  - name: Min Si, Argonne National Laboratory
+  - name: Jeff Squyres, Cisco
+  - name: Hari Subramoni, The Ohio State University
+  - name: Rajeev Thakur, Argonne National Laboratory
+  - name: Jesper Larsson Träff, Vienna University of Technology
+  - name: Matthias Weber, TU Dresden 
