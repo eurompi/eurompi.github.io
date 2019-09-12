@@ -108,13 +108,16 @@ general_chair:
 program_chairs:
   - name: Kathryn Mohror, Lawrence Livermore National Laboratory, USA 
   - name: Toni Pena, Barcelona Supercomputing Center, Spain
+poster_chairs:
+  - name: Marc-André Hermanns, RWTH Aachen University, Germany
+  - name: George Bosilca, University of Tennessee, Knoxville, USA
 Tutorial_Workshop_chair:
   - name: Ryan Grant, Sandia National Laboratory, USA
 Publicity_chairs:
   - name: Atsushi Hori, RIKEN, Japan
   - name: Guillaume Mercier, INRIA, France
 Proceedings_chair: 
-  - name: Yanfei Guo, Oak Ridge National Laboratory, USA
+  - name: Yanfei Guo, Argonne National Laboratory, USA
 Finance_registration_chair:
   - name: Min Si, Argonne National Laboratory, USA
 Local_organization:
