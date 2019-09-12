@@ -8,41 +8,46 @@ date: September 21-24, 2020
 logo_path: ./assets/images/logo.pdf
 slideshow:
   - id: 0
-    image_path: ./assets/images/slideshow/Austin skyline.jpg
-    description: Austin skyline
-    photographer_name: Jean-Michel Defaux
+    image_path: ./assets/images/slideshow/Austin_panorama.png
+    description: Austin Panorama
+    photographer_name: TheCaliBook
     photographer_link: 
-    active: True
-  - id: 1
-    image_path: ./assets/images/slideshow/Texas State Capitol Building.jpg
-    description: Texas State Capitol Building
-    photographer_name: Austin Convention & Visitors Bureau
-    photographer_link: 
-  - id: 2
-    image_path: ./assets/images/slideshow/Texas State Capitol Building-2.jpg
-    description: Evening at Texas State Capitol Building
-    photographer_name: Austin Convention & Visitors Bureau
-    photographer_link: 
-  - id: 3
-    image_path: ./assets/images/slideshow/Austin Skyline with kayaker  dog.jpg
-    description: Austin Skyline with kayaker & dog
-    photographer_name: Austin Convention & Visitors Bureau
-    photographer_link: 
-  - id: 4
-    image_path: ./assets/images/slideshow/Sunset over downtown Austin skyline.jpg
-    description: Downtown Austin skyline and Lady Bird Lake
-    photographer_name: Geoff Duncan
-    photographer_link: 
-  - id: 5
-    image_path: ./assets/images/slideshow/Historic Sixth Street Mural.jpg
-    description: Sixth Street Mural
-    photographer_name: Carmen M Fischer
-    photographer_link: 
-  - id: 6
-    image_path: ./assets/images/slideshow/View from Mount Bonnell.jpg
-    description: The view from the top of Mount Bonnell over Lake Austin in the daytime
-    photographer_name: Austin Convention & Visitors Bureau
-    photographer_link: 
+    #  - id: 1
+    #    image_path: ./assets/images/slideshow/Texas State Capitol Building.jpg
+    #    description: Texas State Capitol Building
+    #    photographer_name: Austin Convention & Visitors Bureau
+    #    photographer_link: 
+    #  - id: 2
+    #    image_path: ./assets/images/slideshow/Texas State Capitol Building-2.jpg
+    #    description: Evening at Texas State Capitol Building
+    #    photographer_name: Austin Convention & Visitors Bureau
+    #    photographer_link: 
+    #  - id: 3
+    #    image_path: ./assets/images/slideshow/Austin Skyline with kayaker  dog.jpg
+    #    description: Austin Skyline with kayaker & dog
+    #    photographer_name: Austin Convention & Visitors Bureau
+    #    photographer_link: 
+    #  - id: 4
+    #    image_path: ./assets/images/slideshow/Sunset over downtown Austin skyline.jpg
+    #    description: Downtown Austin skyline and Lady Bird Lake
+    #    photographer_name: Geoff Duncan
+    #    photographer_link: 
+    #  - id: 5
+    #    image_path: ./assets/images/slideshow/Historic Sixth Street Mural.jpg
+    #    description: Sixth Street Mural
+    #    photographer_name: Carmen M Fischer
+    #    photographer_link: 
+    #  - id: 6
+    #    image_path: ./assets/images/slideshow/View from Mount Bonnell.jpg
+    #    description: The view from the top of Mount Bonnell over Lake Austin in the daytime
+    #    photographer_name: Austin Convention & Visitors Bureau
+    #    photographer_link: 
+    #  - id: 7
+    #    image_path: ./assets/images/slideshow/Austin skyline.jpg
+    #    description: Austin skyline
+    #    photographer_name: Jean-Michel Defaux
+    #    photographer_link: 
+    #    active: True
 navbar:
   - id: 0
     label: Home

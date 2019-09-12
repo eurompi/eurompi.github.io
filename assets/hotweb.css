@@ -9,7 +9,7 @@
 
 .jumbotron,
 .carousel-item {
-    height: 270px;
+    height: 240px;
     border-radius: 0;
 }
 
@@ -37,7 +37,7 @@
 
 
 .carousel-caption {
-    bottom: 1rem;
+    bottom: 0.2rem;
     opacity: 0.9;
     height: 1rem;
 }
