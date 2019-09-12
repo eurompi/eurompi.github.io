@@ -40,6 +40,24 @@ slide_id: 1
                     <p class="card-subtitle text-muted" style="font-size: 90%;">TBA</p>
                 </div>
                 {% endif %}
+            </div>
+ 
+            <!--####### Poster Co-chairs #####-->
+           <div class="card">
+               <div class="card-header text-white bg-inverse"><strong>Poster Co-chair</strong></div>
+               {% if site.data.conference.poster_chairs %}
+                {% for committee in site.data.conference.poster_chairs %}
+                 <div class="card-block bg-faded committee">
+                    <p><a href="{{ committee.homepage }}"><strong>{{ committee.name }}</strong></a><p>
+                </div>
+                {% endfor %}
+                {% else %}
+                <div class="card-block bg-faded committee">
+                    <p class="card-title">TBA</p>
+                    <p><strong>TBA</strong><p>
+                    <p class="card-subtitle text-muted" style="font-size: 90%;">TBA</p>
+                </div>
+                {% endif %}
             </div>  
 
             <!--######### Tutorial and workshop chair ##########-->
