@@ -66,22 +66,26 @@ navbar:
     path: /cfposter.html
     visible: True
   - id: 4
+    label: Call for Workshops and Tutorials
+    path: /cfwt.html
+    visible: True
+  - id: 5
     label: Submission
     path: /submission.html
     visible: True
-  - id: 5
+  - id: 6
     label: Programs
     path: /program.html
     visible: True
-  - id: 6
+  - id: 7
     label: Venue
     path: /venue.html
     visible: True
-  - id: 7
+  - id: 8
     label: Registration
     path: /registration.html
     visible: True
-  - id: 8
+  - id: 9
     label: Conference Archive
     path: /archive.html
     visible: True
@@ -91,7 +95,11 @@ deadlines:
     text: Full paper Submission
     pass_due: False
   - date: 2020-7-1
-    text: Notification of acceptance
+    text: Notification of acceptance (Paper)
+    pass_due: False
+  - date: 2020-2-24
+    timezone: AOE
+    text: Workshops and Tutorials Submission
     pass_due: False
 #news:
 #  - date: 2017-10-14
