@@ -1,6 +1,6 @@
 ---
 layout: page
-slide_id: 1
+slide_id: 0
 ---
 
     <div class="row">
@@ -12,7 +12,7 @@ slide_id: 1
                 {% if site.data.conference.general_chair %}
                 {% for committee in site.data.conference.general_chair %}
                  <div class="card-block bg-faded committee">
-                    <p><a href="{{ committee.homepage }}"><strong>{{ committee.name }}</strong></a><p>
+                    <p><strong>{{ committee.name }}</strong><p>
                 </div>  
                 {% endfor %}
                 {% else %}
@@ -30,7 +30,7 @@ slide_id: 1
                {% if site.data.conference.program_chairs %}
                 {% for committee in site.data.conference.program_chairs %}
                  <div class="card-block bg-faded committee">
-                    <p><a href="{{ committee.homepage }}"><strong>{{ committee.name }}</strong></a><p>
+                    <p><strong>{{ committee.name }}</strong><p>
                 </div>
                 {% endfor %}
                 {% else %}
@@ -48,7 +48,7 @@ slide_id: 1
                {% if site.data.conference.poster_chairs %}
                 {% for committee in site.data.conference.poster_chairs %}
                  <div class="card-block bg-faded committee">
-                    <p><a href="{{ committee.homepage }}"><strong>{{ committee.name }}</strong></a><p>
+                    <p><strong>{{ committee.name }}</strong><p>
                 </div>
                 {% endfor %}
                 {% else %}
@@ -66,7 +66,7 @@ slide_id: 1
                 {% if site.data.conference.Tutorial_Workshop_chair %}
                 {% for committee in site.data.conference.Tutorial_Workshop_chair %}
                 <div class="card-block bg-faded committee">
-                    <p><a href="{{ committee.homepage }}"><strong>{{ committee.name }}</strong></a><p>
+                    <p><strong>{{ committee.name }}</strong><p>
                     <p class="card-subtitle text-muted" style="font-size: 90%;">{{ committee.org }}</p>
                 </div>  
                 {% endfor %}
@@ -83,7 +83,7 @@ slide_id: 1
                 {% if site.data.conference.Publicity_chairs %}
                 {% for committee in site.data.conference.Publicity_chairs %}
                  <div class="card-block bg-faded committee">
-                    <p><a href="{{ committee.homepage }}"><strong>{{ committee.name }}</strong></a><p>
+                    <p><strong>{{ committee.name }}</strong><p>
                 </div>  
                 {% endfor %}
                 {% else %}
@@ -100,7 +100,7 @@ slide_id: 1
                 {% if site.data.conference.Proceedings_chair %}
                 {% for committee in site.data.conference.Proceedings_chair %}
                  <div class="card-block bg-faded committee">
-                    <p><a href="{{ committee.homepage }}"><strong>{{ committee.name }}</strong></a><p>
+                    <p><strong>{{ committee.name }}</strong><p>
                 </div>
                 {% endfor %}
                 {% else %}
@@ -117,7 +117,7 @@ slide_id: 1
                 {% if site.data.conference.Finance_registration_chair %}
                 {% for committee in site.data.conference.Finance_registration_chair %}
                  <div class="card-block bg-faded committee">
-                    <p><a href="{{ committee.homepage }}"><strong>{{ committee.name }}</strong></a><p>
+                    <p><strong>{{ committee.name }}</strong><p>
                 </div>
                 {% endfor %}    
                 {% else %}
@@ -134,7 +134,7 @@ slide_id: 1
                 {% if site.data.conference.Local_organization %}
                 {% for committee in site.data.conference.Local_organization %}
                  <div class="card-block bg-faded committee">
-                    <p><a href="{{ committee.homepage }}"><strong>{{ committee.name }}</strong></a><p>
+                    <p><strong>{{ committee.name }}</strong><p>
                 </div>
                 {% endfor %}
                 {% else %}
@@ -151,7 +151,7 @@ slide_id: 1
                 {% if site.data.conference.Web_chair %}
                 {% for committee in site.data.conference.Web_chair %}
                  <div class="card-block bg-faded committee">
-                    <p><a href="{{ committee.homepage }}"><strong>{{ committee.name }}</strong></a><p>
+                    <p><strong>{{ committee.name }}</strong><p>
                 </div>
                 {% endfor %}
                 {% else %}
@@ -171,7 +171,7 @@ slide_id: 1
                 {% if site.data.conference.technical_program_committees %}
                 {% for committee in site.data.conference.technical_program_committees %}
                  <div class="card-block bg-faded committee">
-                    <p><a href="{{ committee.homepage }}"><strong>{{ committee.name }}</strong></a><p>
+                    <p><strong>{{ committee.name }}</strong><p>
                     <p class="card-subtitle text-muted" style="font-size: 90%;">{{ committee.org }}</p>
                 </div>  
                 {% endfor %}
