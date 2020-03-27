@@ -90,17 +90,23 @@ navbar:
     path: /archive.html
     visible: True
 deadlines:
-  - date: 2020-4-22
+  - date: 2020-5-13
     timezone: AOE
     text: Full paper Submission
     pass_due: False
-  - date: 2020-7-1
+  - date: 2020-7-10
     text: Notification of acceptance (Paper)
+    pass_due: False
+  - date: 2020-7-25
+    text: Poster Submission
+    pass_due: False
+  - date: 2020-8-15
+    text: Notification of acceptance (Poster)
     pass_due: False
   - date: 2020-2-24
     timezone: AOE
     text: Workshops and Tutorials Submission
-    pass_due: False
+    pass_due: True
 #news:
 #  - date: 2017-10-14
 #    text: Workshop has been successfully held
