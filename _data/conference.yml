@@ -165,6 +165,7 @@ technical_program_committees:
   - name: Bogdan Nicolae, Argonne National Laboratory
   - name: Lena Oden, Fernuniversität Hagen
   - name: Olga Pearce, Lawrence Livermore National Laboratory
+  - name: Rolf Rabenseifner, High Performance Computing Center Stuttgart (HLRS)
   - name: Ken Raffenetti, Argonne National Laboratory
   - name: Raghunath Raja Chandrasekar, Amazon Web Services
   - name: Kento Sato, RIKEN R-CCS
@@ -173,4 +174,3 @@ technical_program_committees:
   - name: Hari Subramoni, The Ohio State University
   - name: Rajeev Thakur, Argonne National Laboratory
   - name: Jesper Larsson Träff, Vienna University of Technology
-  - name: Matthias Weber, TU Dresden 
