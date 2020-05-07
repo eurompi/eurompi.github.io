@@ -107,9 +107,13 @@ deadlines:
     timezone: AOE
     text: Workshops and Tutorials Submission
     pass_due: True
-#news:
-#  - date: 2017-10-14
-#    text: Workshop has been successfully held
+news:
+  - date:
+    text: The organizing committee of EuroMPI/USA 2020 is currently evaluating all options to hold the conference in-person,
+          virtually, or as a hybrid of the two. No decision has yet been made, however, we will be working in cooperation with
+          the local organizing team and monitoring local restrictions and guidelines to determine our plans as the conference
+          approaches. Regardless of the format, the organizing team is committed to holding a high-quality conference including
+          an excellent technical program and ensuring that authors are able to present their work to the community.
 #  - date: 2017-05-12
 #    text: Submission site online
 #  - date: 2017-03-08
