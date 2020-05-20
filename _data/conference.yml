@@ -90,8 +90,8 @@ navbar:
     path: /archive.html
     visible: True
 deadlines:
-  - date: 2020-5-13
-    newdate: 2020-5-20
+  - date: 2020-5-20
+    newdate: 2020-5-24
     timezone: AOE
     text: Full paper Submission
     pass_due: False
