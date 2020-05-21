@@ -92,25 +92,25 @@ navbar:
 deadlines:
   - date: 2020-5-24
     timezone: AOE
-    text: Abstracts due
+    text: Abstracts Submission Due
     pass_due: False
   - date: 2020-5-24
     newdate: 2020-5-27
     timezone: AOE
-    text: Full paper Submission due
+    text: Full Paper Submission Due
     pass_due: False
   - date: 2020-7-10
-    text: Notification of acceptance (Paper)
+    text: Notification of Acceptance (Paper)
     pass_due: False
   - date: 2020-7-25
-    text: Poster Submission
+    text: Poster Submission Due
     pass_due: False
   - date: 2020-8-15
-    text: Notification of acceptance (Poster)
+    text: Notification of Acceptance (Poster)
     pass_due: False
   - date: 2020-2-24
     timezone: AOE
-    text: Workshops and Tutorials Submission
+    text: Workshops and Tutorials Submission Due
     pass_due: True
 news:
   - date:
