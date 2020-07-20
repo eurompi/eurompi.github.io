@@ -150,36 +150,44 @@ Proceedings_chair:
 Finance_registration_chair:
   - name: Min Si, Argonne National Laboratory, USA
 Local_organization:
-  - name: Kent Milfeld, TACC
+  - name: Kent Milfeld, Texas Advanced Computing Center, USA
 Web_chair:
   - name: Nawrin Sultana, Intel Corporation, USA
 technical_program_committees:
-  - name: Hartwig Anzt, Karlsruhe Institute of Technology
-  - name: Marc Casas, Barcelona Supercomputing Center
-  - name: Adrián Castelló, Universitat Jaume Ⅰ
-  - name: Taru Doodi, Intel Corporation
-  - name: Javier Garcia Blas, Carlos Ⅲ University
-  - name: Richard Graham, Mellanox Technologies
-  - name: Ryan E. Grant, Sandia National Laboratories
-  - name: William Gropp, University of Illinois at Urbana-Champaign
-  - name: Marc-André Hermanns, RWTH Aachen University
-  - name: Dan Holmes, The University of Edinburgh
-  - name: Sergio Iserte, Universitat Jaume Ⅰ
-  - name: Tanzima Islam, Texas State University
-  - name: Surabhi Jain, Intel Corporation
-  - name: Nikhil Jain, Nvidia
-  - name: Stefano Markidis, KTH Royal Institute of Technology
-  - name: Guillaume Mercier, ENSEIRB/INRIA
-  - name: Xiang Ni, IBM
-  - name: Bogdan Nicolae, Argonne National Laboratory
-  - name: Lena Oden, Fernuniversität Hagen
-  - name: Olga Pearce, Lawrence Livermore National Laboratory
-  - name: Rolf Rabenseifner, High Performance Computing Center Stuttgart (HLRS)
-  - name: Ken Raffenetti, Argonne National Laboratory
-  - name: Raghunath Raja Chandrasekar, Amazon Web Services
-  - name: Kento Sato, RIKEN R-CCS
-  - name: Min Si, Argonne National Laboratory
-  - name: Jeff Squyres, Cisco
-  - name: Hari Subramoni, The Ohio State University
-  - name: Rajeev Thakur, Argonne National Laboratory
-  - name: Jesper Larsson Träff, Vienna University of Technology
+  - name: Hartwig Anzt, Karlsruhe Institute of Technology, Germany
+  - name: Marc Casas, Barcelona Supercomputing Center, Spain
+  - name: Adrián Castelló, Universitat Jaume Ⅰ, Spain
+  - name: Taru Doodi, Intel Corporation, USA
+  - name: Javier Garcia Blas, Carlos Ⅲ University, Spain
+  - name: Richard Graham, Mellanox Technologies, USA
+  - name: Ryan E. Grant, Sandia National Laboratories, USA
+  - name: William Gropp, University of Illinois at Urbana-Champaign, USA
+  - name: Marc-André Hermanns, RWTH Aachen University, Germany
+  - name: Dan Holmes, The University of Edinburgh, Scotland
+  - name: Sergio Iserte, Universitat Jaume Ⅰ, Spain
+  - name: Tanzima Islam, Texas State University, USA
+  - name: Surabhi Jain, Microsoft Corporation, USA
+  - name: Nikhil Jain, Nvidia, USA
+  - name: Stefano Markidis, KTH Royal Institute of Technology, Sweden
+  - name: Guillaume Mercier, ENSEIRB/INRIA, France
+  - name: Xiang Ni, IBM, USA
+  - name: Bogdan Nicolae, Argonne National Laboratory, USA
+  - name: Lena Oden, Fernuniversität Hagen, Germany
+  - name: Olga Pearce, Lawrence Livermore National Laboratory, USA
+  - name: Rolf Rabenseifner, High Performance Computing Center Stuttgart (HLRS), Germany
+  - name: Ken Raffenetti, Argonne National Laboratory, USA
+  - name: Raghunath Raja Chandrasekar, Amazon Web Services, USA
+  - name: Kento Sato, RIKEN R-CCS, Japan
+  - name: Min Si, Argonne National Laboratory, USA
+  - name: Jeff Squyres, Cisco, USA
+  - name: Hari Subramoni, The Ohio State University, USA
+  - name: Rajeev Thakur, Argonne National Laboratory, USA
+  - name: Jesper Larsson Träff, Vienna University of Technology, Austria
+poster_committees:
+  - name: Claudia Blaas-Schenner, TU Wien, Austria
+  - name: Anja Gerbes, Goethe Universität Frankfurt, Germany
+  - name: Julien Jaeger, CEA, France
+  - name: Emmanuel Jeannot, INRIA, France
+  - name: Radita Liem, RWTH Aachen University, Germany
+  - name: Nuria Losada, Universidade de Crouña, Spain
+  - name: Servio Rivas-Gomez, EPFL, Switzerland
