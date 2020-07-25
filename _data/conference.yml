@@ -104,6 +104,7 @@ deadlines:
     pass_due: False
   - date: 2020-7-25
     newdate: 2020-8-1
+    timezone: AOE
     text: Poster Submission Due
     pass_due: False
   - date: 2020-8-15
