@@ -103,6 +103,7 @@ deadlines:
     text: Notification of Acceptance (Paper)
     pass_due: False
   - date: 2020-7-25
+    newdate: 2020-8-1
     text: Poster Submission Due
     pass_due: False
   - date: 2020-8-15
