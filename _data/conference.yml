@@ -114,6 +114,12 @@ deadlines:
     timezone: AOE
     text: Workshops and Tutorials Submission Due
     pass_due: True
+  - date: 2020-8-14
+    text: Author Registration Deadline (Main Conference Papers)
+    pass_due: False
+  - date: 2020-8-29
+    text: Author Registration Deadline (Workshops and Posters)
+    pass_due: False
 news:
   - date:
     text: Due to the restrictions currently in place because of the COVID-19 pandemic, the organizing committee of EuroMPI/USA
