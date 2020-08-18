@@ -6,55 +6,184 @@ slide_id: 0
 <div class="row">
 
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10 offset-lg-1 col-xl-10 offset-xl-1">
-        <h5>PROGRAM</h5>
-        <p>TBA</p>
-        {% for day in site.data.schedule %}
-        <div>
-            <h4 class="schedule-table-heading">{{ day.dateReadable }} - Day {{ forloop.index }}</h4>
-            <table class="table table-bordered table-striped table-hover table-responsive table-sm">
-            {% for timeslot in day.timeslots %}
-                    <thead>
-                            <tr>
-                                <th class="bg-info text-center">
-                                        <div>{{timeslot.startTime}}-{{timeslot.endTime}}</div>
-                                </th>
-                                {% if timeslot.type == "service" %}
-                                    <th class="bg-warning text-center">
-                                            <p class="text-muted">{{timeslot.title}}</p>
-                                    </th>
-                                {% else %}
-                                    <th class="bg-primary text-center">
-                                            <h5>{{timeslot.title}}</h5>
-                                            {% if timeslot.speaker %}
-                                            <h5>{{timeslot.speaker}}</h5>
-                                            {% endif %}
-                                            {% if timeslot.chair %}
-                                                <h6>Session chair:{{timeslot.chair}}</h6>
-                                            {% endif %}
-                                    </th>
-                                {% endif %}
-                            </tr>
-                    </thead>
-                    {% if timeslot.events %}
-                    <tbody>
-                        {% for event in timeslot.events %}
-                            <tr>
-                                <td width="20%">
-                                </td>
-                                <td>
-                                    <p><b>{{event.title}}</b></p>
-                                    <p><i>{{event.speakers}}</i></p>
-                                </td>
-                            </tr>
-                        {% endfor %}
-                    </tbody>
-                    {% endif %}
-            {% endfor %}
-            </table>
-        </div>
-        {% endfor %}
+      <p class="lead">Program</p>
+      <p> </p>
+      <p></p>
+      <p><strong>Please note:</strong> all times are in Eastern US time.</p>
+      <p></p>
+      <p></p>
+        <table class="program" style="border:0px;"><tbody>
+          <tr style="font-weight:bold;font-size:1.5em">
+            <td colspan="3">September 21</td>
+          </tr>
+          <tr style="height:40px;background-color: #f2f2f2">
+            <td style="border-right:1px solid gray;text-align:center;width:120px">
+              <p>10:00 – 14:00</p>
+            </td>
+            <td style="padding-left:4px;padding-right:4px;width:720px">E4S Workshop</td>
+            <td style="border-left:1px solid gray;width:120px;text-align:center">Join Meeting</td>
+          </tr>
+          <tr style="height:15px">
+            <td colspan="3"></td>
+          </tr>
+          <tr style="font-weight:bold;font-size:1.5em">
+            <td colspan="3">September 22</td>
+          </tr>
+          <tr style="height:40px">
+            <td style="border-right:1px solid gray;text-align:center;width:120px">
+              <p>10:00 – 10:30</p>
+            </td>
+            <td style="padding-left:4px;padding-right:4px;width:720px">
+              <div style="font-weight:bold">Opening Remarks</div>
+              <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">Wesley Bland</div>
+            </td>
+            <td style="border-left:1px solid gray;width:120px;text-align:center">Join Meeting</td>
+          </tr>
+          <tr style="height:40px;background-color: #f2f2f2">
+            <td style="border-right:1px solid gray;text-align:center;width:120px">
+              <p>10:30 – 11:30</p>
+            </td>
+            <td style="padding-left:4px;padding-right:4px;width:720px">
+              <div style="font-weight:bold">Keynote</div>
+              <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">Martin Schulz</div>
+            </td>
+            <td style="border-left:1px solid gray;width:120px;text-align:center">Join Meeting</td>
+          </tr>
+          <tr style="height:40px">
+            <td style="border-right:1px solid gray;text-align:center;width:120px">
+              <p>11:30 – 13:00</p>
+            </td>
+            <td style="padding-left:4px;padding-right:4px;width:720px">
+              <div style="font-weight:bold">Paper Session 1: Improving MPI Collectives</div>
+              <table style="border:0px; width:100%"><tbody>
+                <tr>
+                  <td>
+                    <div style="font-weight:bold;padding-left:4px">Using Advanced Vector Extensions AVX-512 for MPI Reduction</div>
+                    <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">Dong Zhong, Qinglei Cao, George Bosilca and Jack Dongarra.</div>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <div style="font-weight:bold;padding-left:4px">Implementation and performance evaluation of MPI persistent collectives in MPC : a case study</div>
+                    <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">Stéphane Bouhrour and Julien Jaeger.</div>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <div style="font-weight:bold;padding-left:4px">Signature datatypes for type correct collective operations, revisited</div>
+                    <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">Jesper Larsson Träff.</div>
+                  </td>
+              </tr></tbody></table>
+            </td>
+            <td style="border-left:1px solid gray;width:120px;text-align:center">Join Meeting</td>
+          </tr>
+          <tr style="height:40px;background-color: #f2f2f2">
+            <td style="border-right:1px solid gray;text-align:center;width:120px">
+              <p>13:00 – 14:00</p>
+            </td>
+            <td style="padding-left:4px;padding-right:4px;width:720px">
+              <div style="font-weight:bold">Paper Session 2: Asynchrony and MPI</div>
+              <table style="border:0px; width:100%"><tbody>
+                <tr>
+                  <td>
+                    <div style="font-weight:bold;padding-left:4px">Fibers are not (P)Threads: The Case for Loose Coupling of Asynchronous Programming Models and MPI Through Continuations</div>
+                    <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">Joseph Schuchart, Christoph Niethammer and José Gracia.</div>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <div style="font-weight:bold;padding-left:4px">MPI Detach - Asynchronous Local Completion</div>
+                    <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">Joachim Protze, Marc-André Hermanns, Ali Demiralp, Matthias S. Mueller and Torsten Kuhlen.</div>
+                  </td>
+                </tr></tbody></table>
+            </td>
+            <td style="border-left:1px solid gray;width:120px;text-align:center">Join Meeting</td>
+          </tr>
+          <tr style="height:15px">
+            <td colspan="3"></td>
+          </tr>
 
-        <!--{% include contact-us.html %}-->
+          <tr style="font-weight:bold;font-size:1.5em">
+            <td colspan="3">September 23</td>
+          </tr>
+          </tr>
+          <tr style="height:40px">
+            <td style="border-right:1px solid gray;text-align:center;width:120px">
+              <p>10:00 – 11:00</p>
+            </td>
+            <td style="padding-left:4px;padding-right:4px;width:720px">
+              <div style="font-weight:bold">Paper Session 3: Rethinking the Fundamentals of MPI</div>
+              <table style="border:0px; width:100%"><tbody>
+                <tr>
+                  <td>
+                    <div style="font-weight:bold;padding-left:4px">Collectives and Communicators: A Case for Orthogonality</div>
+                    <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">Jesper Larsson Träff, Sascha Hunold, Guillaume Mercier and Daniel J. Holmes.</div>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <div style="font-weight:bold;padding-left:4px">Why is MPI (perceived to be) so complex?</div>
+                    <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">Daniel Holmes, Anthony Skjellum and Derek Schafer.</div>
+                  </td>
+                </tr></tbody></table>
+            </td>
+            <td style="border-left:1px solid gray;width:120px;text-align:center">Join Meeting</td>
+          </tr>
+          <tr style="height:40px;background-color: #f2f2f2">
+            <td style="border-right:1px solid gray;text-align:center;width:120px">
+              <p>11:00 – 12:00</p>
+            </td>
+            <td style="padding-left:4px;padding-right:4px;width:720px">
+              <div style="font-weight:bold">Paper Session 4: Evaluating MPI Performance</div>
+              <table style="border:0px; width:100%"><tbody>
+                <tr>
+                  <td>
+                    <div style="font-weight:bold;padding-left:4px">Communication and Timing Issues with MPI Virtualization</div>
+                    <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">Alexandr Nigay, Lukas Mosimann, Timo Schneider and Torsten Hoefler.</div>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <div style="font-weight:bold;padding-left:4px">Evaluating MPI Message Size Summary Statistics</div>
+                    <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">Kurt Ferreira and Scott Levy.</div>
+                  </td>
+                </tr></tbody></table>
+            </td>
+            <td style="border-left:1px solid gray;width:120px;text-align:center">Join Meeting</td>
+          </tr>
+          <tr style="height:40px">
+            <td style="border-right:1px solid gray;text-align:center;width:120px">
+              <p>12:00 – 13:00</p>
+            </td>
+            <td style="padding-left:4px;padding-right:4px;width:720px">
+              <div style="font-weight:bold">Posters</div>
+            </td>
+            <td style="border-left:1px solid gray;width:120px;text-align:center">Join Meeting</td>
+          </tr>
+          <tr style="height:40px;background-color: #f2f2f2">
+            <td style="border-right:1px solid gray;text-align:center;width:120px">
+              <p>13:00 – 13:30</p>
+            </td>
+            <td style="padding-left:4px;padding-right:4px;width:720px">
+              <div style="font-weight:bold">Closing Remarks</div>
+              <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">Wesley Bland</div>
+            </td>
+            <td style="border-left:1px solid gray;width:120px;text-align:center">Join Meeting</td>
+          </tr>
+          <tr style="height:15px">
+            <td colspan="3"></td>
+          </tr>
+          <tr style="font-weight:bold;font-size:1.5em">
+            <td colspan="3">September 24</td>
+          </tr>
+          <tr style="height:40px">
+            <td style="border-right:1px solid gray;text-align:center;width:120px">
+              <p>10:00 – 14:00</p>
+            </td>
+            <td style="padding-left:4px;padding-right:4px;width:720px">Micro-Tutorials</td>
+            <td style="border-left:1px solid gray;width:120px;text-align:center">Join Meeting</td>
+          </tr>
+          </tbody></table>
     </div>
 
 </div>
