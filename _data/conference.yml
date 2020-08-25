@@ -113,7 +113,7 @@ deadlines:
   - date: 2020-2-24
     timezone: AOE
     text: Workshops and Tutorials Submission Due
-    pass_due: True
+    pass_due: False
   - date: 2020-8-14
     text: Author Registration Deadline (Main Conference Papers)
     pass_due: False
@@ -124,10 +124,10 @@ news:
   - date:
     text: Due to the restrictions currently in place because of the COVID-19 pandemic, the organizing committee of EuroMPI/USA
           2020 has decided to hold this year's conference entirely virtually. While there will be no in-person gathering, we
-          will still conduct a full technical program and are discussing the best ways to bring that program to the community.
-          We are still in the planning phase for how sessions will be held. When those plans are finalized, more details will
-          be made available. We look forward to seeing all presenters and attendees virtually this year and to being able to
-          regather for a full, in-person conference in the future.
+          will still conduct a full technical program which you can discover on the conference's program website. Registration
+          for non-author attendees is free and now open (including workshop/tutorial registration) and is required for each day
+          individually. This year's conference will utilize a mixture of live and pre-recorded presentations from contributing
+          authors. We hope to be able to reach more people than ever before and look forward to your participation.
 #  - date: 2017-05-12
 #    text: Submission site online
 #  - date: 2017-03-08
