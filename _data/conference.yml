@@ -122,12 +122,11 @@ deadlines:
     pass_due: False
 news:
   - date:
-    text: Due to the restrictions currently in place because of the COVID-19 pandemic, the organizing committee of EuroMPI/USA
-          2020 has decided to hold this year's conference entirely virtually. While there will be no in-person gathering, we
-          will still conduct a full technical program which you can discover on the conference's program website. Registration
-          for non-author attendees is free and now open (including workshop/tutorial registration) and is required for each day
-          individually. This year's conference will utilize a mixture of live and pre-recorded presentations from contributing
-          authors. We hope to be able to reach more people than ever before and look forward to your participation.
+    text: Thank you all for attending EuroMPI/USA 2020. We hope you had a wonderful time and look
+          forward to seeing you next year (hopefully) in-person on September 7th in Garching, Germany.
+          The date is currently tentative and may change over the next few months. For more information,
+          see Martin Schulz's announcement during the closing of the conference which is linked from the
+          "Programs" section of the website.
 #  - date: 2017-05-12
 #    text: Submission site online
 #  - date: 2017-03-08
