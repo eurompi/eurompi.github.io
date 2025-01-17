@@ -9,7 +9,7 @@ permalink: posters
 
 <div class="text-justify conference-text">
 
-<p>EuroMPI 2023 invites submissions for posters and short papers that showcase innovative contributions related to the Message Passing Interface (MPI) and related or competing models. We welcome contributions from both academia and industry, including early-stage work that presents new ideas, interesting preliminary results, or new directions for research.</p>
+<p>EuroMPI 2025 invites submissions for posters and short papers that showcase innovative contributions related to the Message Passing Interface (MPI) and related or competing models. We welcome contributions from both academia and industry, including early-stage work that presents new ideas, interesting preliminary results, or new directions for research.</p>
 
 <p>Posters and short papers provide an excellent opportunity to present your work to the community, receive constructive feedback, and establish collaborations with researchers and practitioners in the field of parallel programming. We encourage submissions from all areas of message-passing parallel programming, including but not limited to:</p>
 
@@ -47,11 +47,7 @@ Tools, Models and Monitoring:
 
 
 <h1>Important Dates</h1>
-<ul>
-<li> Short papers and posters submission deadline: <b><s>1st</s> 7th July 2023 AoE</b></li>
-<li> Short papers and posters notification: 10th July 2023 AoE</li>
-<!-- <li> Camera-ready version: TBD</li> -->
-</ul>
+Deadlines will be posted soon.
 
 <h1>Submission Guidelines</h1>
 
