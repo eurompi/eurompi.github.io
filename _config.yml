@@ -19,11 +19,11 @@ locale                   : "en-US"
 title                    : "EuroMPI conference"
 title_separator          : "-"
 subtitle                 : "" 
-name                     : "Emmanuelle Saillard"
-description              : "EUROMPI 2023"
+name                     : "Joseph Schuchart"
+description              : "EUROMPI/USA 2025"
 url                      : "https://eurompi23.github.io"
 baseurl                  : # "/_pages/2020/index"
-repository               : "eurompi23/eurompi23.github.io"
+repository               : "eurompi23/eurompi25.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/logo_no_frame.png"
 masthead_title           : " "
@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Emmanuelle Saillard"
+  name             : "Joseph Schuchart"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : ""
-  email            :
+  email            : joseph.schuchart at stonybrook.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
