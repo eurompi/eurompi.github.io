@@ -51,9 +51,9 @@ permalink: index
 </div>
 
 
+<!---
 <div class="text-justify conference-text">
 
-<!---
 <h2>Sponsors</h2>
 Thanks to our sponsors for their contribution to the success of the event.
 <p> </p>
@@ -63,5 +63,5 @@ Thanks to our sponsors for their contribution to the success of the event.
     <div style="margin-left: 150px;"><img src="assets/LOGO_CEA.png" alt="CEA" width="140" height="140" /></div>
     <div style="margin-left: 150px; margin-top: 40px"><img src="assets/University_of_Bristol_logo.png" alt="Univ" width="190" height="190" /></div>
 </div>
---->
 </div>
+--->
