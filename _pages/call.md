@@ -2,15 +2,15 @@
 permalink: call
 ---
 
-![Banner](/assets/banner-B.png){:height="auto" width="100%"}
+![Banner](/assets/unc_campus.png){:height="auto" width="100%"}
 
 <h1>Call for Paper</h1>
 
 <div class="text-justify conference-text">
 
-<p>EuroMPI 2025 will continue to focus on advancing the ubiquitous Message Passing Interface (MPI) model and specification of parallel programming. It will also encompass extensions and alternative interfaces for high-performance heterogeneous and hybrid systems, benchmarks, tools, parallel I/O, fault tolerance, and parallel applications using MPI and other interfaces.</p>  
+<p>EuroMPI/USA 2025 will continue to focus on advancing the ubiquitous Message Passing Interface (MPI) model and specification of parallel programming. It will also encompass extensions and alternative interfaces for high-performance heterogeneous and hybrid systems, benchmarks, tools, parallel I/O, fault tolerance, and parallel applications using MPI and other interfaces.</p>  
 
-<p>EuroMPI 2023 will be hosted by the University of North Carolina, Charlotte  and will be co-located with IWOMP 2025 (week of September 29 - October 3, 2025), with joint tutorials, and opportunities for interaction between the two communities.</p>
+<p>EuroMPI/USA 2025 will be hosted by the University of North Carolina, Charlotte  and will be co-located with IWOMP 2025 (week of September 29 - October 3, 2025), with joint tutorials, and opportunities for interaction between the two communities.</p>
 
 <p>Through the presentation of full papers, position papers, posters, and invited talks, the meeting will provide ample opportunities for attendees to interact and share ideas and experiences to contribute to the improvement and furthering of message-passing and related parallel programming paradigms.</p>
 
@@ -45,7 +45,7 @@ permalink: call
 <p>Papers will be reviewed for quality, originality, clarity, correctness, technical strength, and relevance to the topics of the meeting. Each paper will receive at least three reviews from members of the program committee. Reviews are <b>blind</b> (but not double-blind); the names of the authors will be seen by the program committee.</p>
 
 <!---
-<p>Among the papers selected for presentation, a few of the best papers will, as has been the tradition for the last couple of years, be selected by the program committee and recommended for publication in a EuroMPI 2023 Special Issue of a Journal, more details about the journal special issue coming here soon. These papers will go through a separate round of reviews, and are intended as extended, more polished archival versions of the conference versions.</p>
+<p>Among the papers selected for presentation, a few of the best papers will, as has been the tradition for the last couple of years, be selected by the program committee and recommended for publication in a EuroMPI 2025 Special Issue of a Journal, more details about the journal special issue coming here soon. These papers will go through a separate round of reviews, and are intended as extended, more polished archival versions of the conference versions.</p>
 -->
 
 
@@ -71,8 +71,8 @@ Deadlines will be announced soon.
 <p>The Overleaf template for LaTeX users can be found <a href="https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty">here</a> (updated to point to the two-column format). Please make sure to use the "sigconf" template style.</p>
 <p>The page limit includes figures, tables, and appendices, but does not include references, for which there is no page limit. Margins, spacing, and font sizes should not be modified from the template.</p>
 
-Authors should submit their work through the <a href="https://easychair.org/conferences/?conf=eurompi23">EuroMPI 2023</a> Submission Site at easychair.
-Note that at least one of the authors of each paper accepted for presentation in EuroMPI 2023 must be registered.
+<!-- Authors should submit their work through the <a href="https://easychair.org/conferences/?conf=eurompi23">EuroMPI 2023</a> Submission Site at easychair.
+Note that at least one of the authors of each paper accepted for presentation in EuroMPI 2023 must be registered. -->
 
 </div>
 
