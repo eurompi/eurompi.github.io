@@ -2,34 +2,24 @@
 permalink: venue
 ---
 
-![Banner](/assets/banner-B.png){:height="auto" width="100%"}
+![Banner](/assets/unc_campus.png){:height="auto" width="100%"}
 
 <h1>Venue</h1>
 
-<p>EuroMPI 2023, IWOMP and the MPI Forum will be located on the <a href="https://www.bristol.ac.uk">University of Bristol</a> at:</p>
-
-<p>
-Bill Brown Design Suite, Queen’s Building, Woodland Road<br>
-Bristol, BS8 1TH, 
-United Kingdom<br>
-</p>
-
+<p>EuroMPI/USA 2025, IWOMP and the MPI Forum will be located on the <a href="https://www.charlotte.edu/">University of North Carolina, Charlotte</a>.</p>
 
 
 <h3>Travelling to Bristol</h3>
 
-Bristol is a city straddling the River Avon in the southwest of England with a prosperous maritime history.<br> 
-Detailed travel information for visiting Bristol and the University can be found on the <a href="https://www.bristol.ac.uk/maps/directions/">University of Bristol Directions</a> page. For anyone travelling by car the nearest car park is the <a href="https://www.google.com/maps/place/Trenchard+Street+Car+Park/@51.4563016,-2.6031788,17z/data=!4m6!3m5!1s0x48718dd73ed2b8c3:0x5253c44ed6590c3a!8m2!3d51.4549041!4d-2.5997521!16s%2Fg%2F1tfp1xlg?entry=ttu">Trenchard Street Car Park</a>.
+The High Performance Computing and Systems lab at UNC performs cutting-edge research on topics facilitating the development, optimization, and expansion of the fastest computers in the world. Their faculty members work in a wide breadth of areas including compilers, algorithms, file systems, storage, memory, compression, and parallel computing. <a href="https://admissions.charlotte.edu/explore/academics#:~:text=We%20are%20a%20respected%20academic,degrees%2C%20and%2024%20Doctoral%20degrees">More here</a>.
 
 <h3>Accommodation</h3>
 
-Bristol is well served by a range of hotels within close proximity of the venue.  For additional information on visiting Bristol and finding local accommodation we would recommend trying <a href="https://visitbristol.co.uk">https://visitbristol.co.uk</a>. 
+We will provide information on accomodation soon.
 
 <h3>Social event : EuroMPI and Iwomp Joint Dinner</h3>
 
-Wednesday, September 13th 2023, at 7:00pm.<br>
-<a href="https://www.browns-restaurants.co.uk/restaurants/southwest/bristol#/">Browns Brasserie and Bar (Bristol)</a><br>
-Location: 38 Queens Road, Clifton, UK, BS8 1RE (a 5 min walk from the conference venue)<br>
+TBD
 
 
 <h3>VISA Invitation Letters</h3>
