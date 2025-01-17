@@ -43,7 +43,7 @@ Tools, Models and Monitoring:
 
 <p>All submissions will undergo a peer-review process, with each submission receiving at least two reviews. The reviews are single-blind, and the names of the authors will be seen by the reviewers.</p> 
  
-<p>Accepted posters and short papers will be presented during the poster session at EuroMPI 2023, providing an excellent opportunity for networking and discussions with the conference attendees. The accepted short papers and posters will be published informally on the conference website. We encourage all researchers and practitioners to submit their innovative work for poster or short paper presentation at EuroMPI 2023. We look forward to your submissions and to seeing you in Bristol.</p>
+<p>Accepted posters and short papers will be presented during the poster session at EuroMPI/USA 2025, providing an excellent opportunity for networking and discussions with the conference attendees. The accepted short papers and posters will be published informally on the conference website. We encourage all researchers and practitioners to submit their innovative work for poster or short paper presentation at EuroMPI/USA 2025. We look forward to your submissions and to seeing you in Bristol.</p>
 
 
 <h1>Important Dates</h1>
@@ -65,8 +65,8 @@ Deadlines will be posted soon.
 <li> A short paper (5 pages maximum, including figures and references, formatted according to the "acmconf" style in the <a href="http://www.acm.org/publications/proceedings-template">ACM 2017 Template</a>. The Overleaf template for LaTeX users can be found <a href="https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc">here</a>).</li>
 </ul>
 
-Authors should submit their work through the <a href="https://easychair.org/conferences/?conf=eurompi23">EuroMPI 2023</a> Submission Site at easychair.
-Note that at least one of the authors of each poster and short paper accepted for presentation in EuroMPI 2023 must be registered. 
+<!-- Authors should submit their work through the <a href="https://easychair.org/conferences/?conf=eurompi23">EuroMPI 2023</a> Submission Site at easychair.
+Note that at least one of the authors of each poster and short paper accepted for presentation in EuroMPI 2023 must be registered. -->
 
 </div>
 
