@@ -29,7 +29,7 @@ permalink: index
   </div>
 
   <div id="divcard"> 
-  <!--{% include card-important-dates.html %}-->
+  <!-- {% include card-important-dates.html %} -->
 
   <div class="text-justify conference-text">
   <h2>Register</h2>
