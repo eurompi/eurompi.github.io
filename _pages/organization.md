@@ -2,7 +2,7 @@
 permalink: organization
 ---
 
-![Banner](/assets/banner-B.png){:height="auto" width="100%"}
+![Banner](/assets/unc_campus.png){:height="auto" width="100%"}
 
 <h1>Organizers</h1>
 
