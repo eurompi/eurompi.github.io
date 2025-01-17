@@ -1,0 +1,30 @@
+# main links
+main:
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+
+    - title: "Home"
+      url: /index
+
+    - title: "Program"
+      url: program
+
+    - title: "Call for Papers"
+      url: call
+
+    - title: "Call for Posters"
+      url: posters
+
+    - title: "Organizers"
+      url: organization
+
+    - title: "Venue"
+      url: venue
+
+    - title: "Register"
+      url: register
+
+    - title: "Archive"
+      url: archive
