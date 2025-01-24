@@ -23,20 +23,19 @@ permalink: call
 <ul>
 <li> <b>Implementation Issues and Algorithms</b>: Efficient and scalable implementations of message-passing constructs.</li>
 <li> <b>Architectures and systems</b>: Towards exascale computing, efficient use of accelerators and other features of modern, large-scale systems, hardware-software interaction.</li>
-<li> <b>Programming models and paradigms</b> for large-scale, parallel, distributed memory systems, hierarchical and hybrid models, partitioned global address space (PGAS) models.</li>
+<li> <b>Programming models and paradigms</b> related to MPI targeting large-scale, parallel, distributed memory systems, hierarchical and hybrid models, partitioned global address space (PGAS) models.</li>
 <li> <b>Extensions to and shortcomings of MPI</b>: alternative interfaces and solutions.</li>
 <li> <b>New, parallel (MPI-)I/O mechanisms optimizations</b>.</li>
 <li> <b>Hybrid and heterogeneous programming</b> with MPI and other interfaces.</li>
 <li> Message passing interface support for <b>data-intensive parallel applications</b>.</li>
 <li> <b>Fault tolerance</b> in message-passing implementations and systems.</li>
 <li> MPI parallel programming in <b>clouds and non-dedicated systems</b>.</li>
-<li> <b>Applications and Performance</b>.</li>
 <li> <b>Performance evaluation</b> for MPI and MPI-based applications.</li>
 <li> <b>Automatic performance tuning</b> of applications and implementations.</li>
 <li> <b>Verification</b> of message-passing applications and protocols.</li>
-<li> <b>Applications</b> using message passing, in particular in computational science and scientific computing.</li>
+<li> <b>Applications</b> using advanced message passing, in particular in computational science and scientific computing.</li>
 <li> <b>Parallel algorithms</b> in the message-passing paradigm.</li>
-<li> <b>Interactions</b> between the message-passing library and runtime systems.</li> 
+<li> <b>Interactions</b> between the message-passing library and runtime systems.</li>
 <li> Use of MPI in <b>Artificial Intelligence (AI) and Large Language Models (LLM)</b> and its challenges</li>
 <li> Integration and comparisons with competing industry standards (e.g., NCCL, RCCL)</li>
 </ul>
