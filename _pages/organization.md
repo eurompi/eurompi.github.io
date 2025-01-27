@@ -13,19 +13,16 @@ permalink: organization
 <div id="divcommittee">
 
   <div style="display: flex; flex-direction:row;">
-    <!-- <div><img src="assets/julien.jpg" alt="Julien" width="120" height="120" /></div> -->
      <div style="margin-top: 10px;"><img src="assets/Schuchart4-crop.jpg" alt="Joseph" width="120" height="120" /></div>
     <div style="margin-left: 30px;"> <p><b>Joseph Schuchart</b>, Stony Brook University</p> <p>General chair, Publication co-chair</p> </div> 
   </div> 
 
   <div style="display: flex; flex-direction:row;"> 
-    <!-- <div style="margin-top: 10px;"><img src="assets/Hugo.jpg" alt="Hugo" width="120" height="120" /></div> -->
-     <div style="margin-top: 10px;"><img src="assets/silhouette.png" alt="Christoph" width="120" height="120" /></div>
+     <div style="margin-top: 10px;"><img src="assets/ChristophNiethammer.png" alt="Christoph" width="120" height="120" /></div>
     <div style="margin-left: 30px; margin-top: 10px;"><p><b>Christoph Niethammer</b>, HLRS</p> <p>Program chair</p></div>
   </div>
 
   <div style="display: flex; flex-direction:row;"> 
-    <!-- <div style="margin-top: 10px;"><img src="assets/Hugo.jpg" alt="Hugo" width="120" height="120" /></div> -->
      <div style="margin-top: 10px;"><img src="assets/silhouette.png" alt="Sascha" width="120" height="120" /></div>
     <div style="margin-left: 30px; margin-top: 10px;"><p><b>Sascha Hunold</b>, TU Wien</p> <p>Publication chair</p></div>
   </div>
@@ -36,8 +33,7 @@ permalink: organization
   </div>
 
    <div style="display: flex; flex-direction:row;">
-     <!-- <div style="margin-top: 10px;"><img src="assets/Emma.jpeg" alt="Emma" width="120" height="120" /></div> -->
-     <div style="margin-top: 10px;"><img src="assets/silhouette.png" alt="Guillaume" width="120" height="120" /></div>
+     <div style="margin-top: 10px;"><img src="assets/silhouette.png" alt="Aurelien" width="120" height="120" /></div>
      <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Aurelien Boutellier</b>, UTK</p> <p> Poster chair</p> </div> 
    </div> 
 
