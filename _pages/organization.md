@@ -14,7 +14,7 @@ permalink: organization
 
   <div style="display: flex; flex-direction:row;">
     <!-- <div><img src="assets/julien.jpg" alt="Julien" width="120" height="120" /></div> -->
-     <div style="margin-top: 10px;"><img src="assets/silhouette.png" alt="Joseph" width="120" height="120" /></div>
+     <div style="margin-top: 10px;"><img src="assets/Schuchart4-crop.jpg" alt="Joseph" width="120" height="120" /></div>
     <div style="margin-left: 30px;"> <p><b>Joseph Schuchart</b>, Stony Brook University</p> <p>General chair, Publication co-chair</p> </div> 
   </div> 
 
