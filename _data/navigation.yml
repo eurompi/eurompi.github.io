@@ -11,8 +11,8 @@ main:
   #  - title: "Program"
   #    url: program
 
-  #  - title: "Call for Papers"
-  #    url: call
+    - title: "Call for Papers"
+      url: call
 
   #  - title: "Call for Posters"
   #    url: posters
