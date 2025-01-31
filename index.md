@@ -44,9 +44,9 @@ permalink: index
 
 <h2>Contact</h2>
 
-<p>For queries relating to the conference, please contact joseph(dot)schuchart (at) stonybrook.edu</p>
+<p>For queries relating to the conference, please contact eurompiconference@gmail.com</p>
 
-<p>For queries concerning research papers (submission, deadlines, publishing, etc.) please contact: niethammer (at) hlrs.de or joseph(dot)schuchart (at) stonybrook.edu</p>
+<p>For queries concerning research papers (submission, deadlines, publishing, etc.) please contact: eurompiconference@gmail.com</p>
 
 </div>
 
