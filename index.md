@@ -2,7 +2,7 @@
 permalink: index
 ---
 
-![Banner](/assets/unc_campus.png){:height="auto" width="100%"} 
+![Banner](/assets/Charlotte1.png){:height="auto" width="100%"} 
 <!-- ![Banner](/assets/banner_hamburg.jpg){:height="auto" width="100%"} -->
 
 <h1>Welcome to EuroMPI/USA'25</h1> 
