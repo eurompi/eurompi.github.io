@@ -23,7 +23,7 @@ permalink: organization
   </div>
 
   <div style="display: flex; flex-direction:row;"> 
-     <div style="margin-top: 10px;"><img src="assets/silhouette.png" alt="Sascha" width="120" height="120" /></div>
+     <div style="margin-top: 10px;"><img src="assets/hunsa_2024.jpeg" alt="Sascha" width="120" height="120" /></div>
     <div style="margin-left: 30px; margin-top: 10px;"><p><b>Sascha Hunold</b>, TU Wien</p> <p>Publication chair</p></div>
   </div>
 
