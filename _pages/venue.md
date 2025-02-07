@@ -2,7 +2,7 @@
 permalink: venue
 ---
 
-![Banner](/assets/unc_campus.png){:height="auto" width="100%"}
+![Banner](/assets/Charlotte1.png){:height="auto" width="100%"}
 
 <h1>Venue</h1>
 
