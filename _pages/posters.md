@@ -2,7 +2,7 @@
 permalink: posters
 ---
 
-![Banner](/assets/unc_campus.png){:height="auto" width="100%"}
+![Banner](/assets/Charlotte1.png){:height="auto" width="100%"}
 
 
 <h1>Call for Poster</h1>
