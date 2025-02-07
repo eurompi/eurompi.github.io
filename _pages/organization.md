@@ -40,6 +40,12 @@ permalink: organization
      <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Brian Smith</b>, Cornelis Networks</p> <p>Finance and Registration chair</p></div> 
    </div> 
 
+   <div style="display: flex; flex-direction:row;">
+     <div style="margin-top: 10px;"><img src="assets/yanyh2018.jpg" alt="Yonghong" width="120" height="120" /></div> 
+     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Yonghong Yan</b>, University of North Carolina, Charlotte</p> <p>Local Chair</p></div> 
+   </div> 
+   
+
 </div>
 
 <div id="divcard">
