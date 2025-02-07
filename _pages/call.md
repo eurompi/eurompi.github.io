@@ -77,7 +77,6 @@ Note that at least one of the authors of each paper accepted for presentation in
 <h2>Posters</h2>
 <p></p>We welcome the submission of abstracts for posters to be presented during a dedicated poster session. These abstracts should not exceed 2 pages (excluding references) and should use the <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">Springer LNCS</a> proceedings template, submitted through the <a href="https://easychair.org/conferences?conf=eurompiusa2025">EasyChair submission site</a> and marked as poster submission. The deadline for submitting poster abstracts is <b>July 16, 2025</b>.</p>
 
-Authors of selected papers that have been rejected during the review will be invited to submit a poster instead.
 
 <!-- <p> To be considered, papers must be formatted according to the "sigconf" template style of the <a href="https://www.acm.org/publications/proceedings-template">ACM Primary Article Template</a>. Full papers may be up to 10 pages in length in PDF format.</p>-->
 
