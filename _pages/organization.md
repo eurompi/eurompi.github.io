@@ -34,7 +34,7 @@ permalink: organization
 
    <div style="display: flex; flex-direction:row;">
      <div style="margin-top: 10px;"><img src="assets/silhouette.png" alt="Aurelien" width="120" height="120" /></div>
-     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Aurelien Boutellier</b>, UTK</p> <p> Poster chair</p> </div> 
+     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Aurelien Bouteiller</b>, UTK</p> <p> Poster chair</p> </div> 
    </div> 
 
    <div style="display: flex; flex-direction:row;">
@@ -44,7 +44,7 @@ permalink: organization
 
 </div>
 
-
+<!--
 <div id="divcard">
 <div class="card text-justify conference-text">
       <div class="card-header text-white bg-inverse">
@@ -109,4 +109,4 @@ permalink: organization
       </div>
 
 </div>
-
+-->
