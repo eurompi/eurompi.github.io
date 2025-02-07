@@ -6,9 +6,7 @@ permalink: organization
 
 <h1>Organizers</h1>
 
-<p> </p>
-
-
+<!---
 
 <div id="divcommittee">
 
@@ -44,7 +42,6 @@ permalink: organization
 
 </div>
 
-<!--
 <div id="divcard">
 <div class="card text-justify conference-text">
       <div class="card-header text-white bg-inverse">
@@ -109,4 +106,4 @@ permalink: organization
       </div>
 
 </div>
--->
+--->
