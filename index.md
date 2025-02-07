@@ -44,9 +44,7 @@ permalink: index
 
 <h2>Contact</h2>
 
-<p>For queries relating to the conference, please contact eurompiconference@gmail.com</p>
-
-<p>For queries concerning research papers (submission, deadlines, publishing, etc.) please contact: eurompiconference@gmail.com</p>
+<p>For queries relating to the conference or research papers (submission, deadlines, publishing, etc.) please contact <a href="eurompiconference@gmail.com">eurompiconference@gmail.com</a></p>
 
 </div>
 
