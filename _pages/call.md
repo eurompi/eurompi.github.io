@@ -10,7 +10,7 @@ permalink: call
 
 <p>EuroMPI/USA 2025 will continue to focus on advancing the ubiquitous Message Passing Interface (MPI) model and specification of parallel programming. It will also encompass extensions and alternative interfaces for high-performance heterogeneous and hybrid systems, benchmarks, tools, parallel I/O, fault tolerance, and parallel applications using MPI and other interfaces.</p>  
 
-<p>EuroMPI/USA 2025 will be hosted by the University of North Carolina, Charlotte and will be co-located with [IWOMP 2025](https://www.iwomp.org/) (October 1 - October 3, 2025), with joint tutorials, and opportunities for interaction between the two communities.</p>
+<p>EuroMPI/USA 2025 will be hosted by the University of North Carolina, Charlotte and will be co-located with <a href="https://www.iwomp.org/">IWOMP 2025</a> (October 1 - October 3, 2025), with joint tutorials, and opportunities for interaction between the two communities.</p>
 
 <p>Through the presentation of full papers, position papers, posters, and invited talks, the meeting will provide ample opportunities for attendees to interact and share ideas and experiences to contribute to the improvement and furthering of message-passing and related parallel programming paradigms.</p>
 
@@ -23,6 +23,7 @@ permalink: call
 <ul>
 <li> <b>Implementation Issues and Algorithms</b>: Efficient and scalable implementations of message-passing constructs.</li>
 <li> <b>Architectures and systems</b>: Towards exascale computing, efficient use of accelerators and other features of modern, large-scale systems, hardware-software interaction.</li>
+<li> <b>Message Passing for accelerator-based compute architectures</b>, including multi-GPU, TPU, and AI-accelerator systems.
 <li> <b>Programming models and paradigms</b> related to MPI targeting large-scale, parallel, distributed memory systems, hierarchical and hybrid models, partitioned global address space (PGAS) models.</li>
 <li> <b>Extensions to and shortcomings of MPI</b>: alternative interfaces and solutions.</li>
 <li> <b>New, parallel (MPI-)I/O mechanisms optimizations</b>.</li>
@@ -41,7 +42,7 @@ permalink: call
 </ul>
 
 
-<p>Papers will be reviewed for quality, originality, clarity, correctness, technical strength, and relevance to the topics of the meeting. Each paper will receive at least three reviews from members of the program committee. Reviews are <b>blind</b> (but not double-blind); the names of the authors will be seen by the program committee.</p>
+<p>Papers will be reviewed for quality, originality, clarity, correctness, technical strength, and relevance to the topics of the meeting. Each paper will receive at least three reviews from members of the program committee. Reviews are <b>single-anonymous</b> (but not double-anonymous); the names of the authors will be seen by the program committee.</p>
 
 <p>Among the papers selected for presentation, a few of the best papers will, as has been the tradition in past years, be selected by the program committee and recommended for publication in a EuroMPI/USA 2025 Special Issue of a Journal. More details about the journal special issue will be provided soon. These papers will go through a separate round of reviews, and are intended as extended, more polished archival versions of the conference versions.</p>
 
@@ -64,7 +65,13 @@ permalink: call
 
 <h1>Submission Guidelines</h1>
 
-To be announced soon.
+To be considered, papers must use the <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">Springer LNCS</a> proceedings template. An <a href="https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi">Overleaf template</a> is available as well. Full papers should be at least 12 and at most 16 pages, including figures and tables but excluding references. Short papers may be between 6 and 9 pages. Margins, spacing, and font sizes should not be modified from the template.
+
+
+Authors should submit their work through the <a href="https://easychair.org/conferences?conf=eurompiusa2025">EuroMPI/USA 2025</a> Submission Site at easychair.
+Note that at least one of the authors of each paper accepted for presentation in EuroMPI/USA 2025 must be registered.
+
+Authors of selected full and short papers may be invited to submit an extended version of their article to a special issue.
 
 <!-- <p> To be considered, papers must be formatted according to the "sigconf" template style of the <a href="https://www.acm.org/publications/proceedings-template">ACM Primary Article Template</a>. Full papers may be up to 10 pages in length in PDF format.</p>-->
 
