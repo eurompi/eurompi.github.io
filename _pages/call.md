@@ -65,13 +65,19 @@ permalink: call
 
 <h1>Submission Guidelines</h1>
 
-To be considered, papers must use the <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">Springer LNCS</a> proceedings template. An <a href="https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi">Overleaf template</a> is available as well. Full papers should be at least 12 and at most 16 pages, including figures and tables but excluding references. Short papers may be between 6 and 9 pages. Margins, spacing, and font sizes should not be modified from the template.
+<h2>Papers</h2>
 
+<p>To be considered, papers must use the <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">Springer LNCS</a> proceedings template. An <a href="https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi">Overleaf template</a> is available as well. Full papers should be <b>at least 12 and at most 16 pages</b>, including figures and tables but excluding references. Short papers may be <b>between 6 and 9 pages</b>. Margins, spacing, and font sizes should not be modified from the template.</p>
 
-Authors should submit their work through the <a href="https://easychair.org/conferences?conf=eurompiusa2025">EuroMPI/USA 2025</a> Submission Site at easychair.
-Note that at least one of the authors of each paper accepted for presentation in EuroMPI/USA 2025 must be registered.
+<p>Authors should submit their work through the <a href="https://easychair.org/conferences?conf=eurompiusa2025">EuroMPI/USA 2025</a> submission site at easychair.
+Note that at least one of the authors of each paper accepted for presentation in EuroMPI/USA 2025 must be registered.</p>
 
-Authors of selected full and short papers may be invited to submit an extended version of their article to a special issue.
+<p>Authors of selected full and short papers may be invited to submit an extended version of their article to a special issue.</p>
+
+<h2>Posters</h2>
+<p></p>We welcome the submission of abstracts for posters to be presented during a dedicated poster session. These abstracts should not exceed 2 pages (excluding references) and should use the <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">Springer LNCS</a> proceedings template, submitted through the <a href="https://easychair.org/conferences?conf=eurompiusa2025">EasyChair submission site</a> and marked as poster submission. The deadline for submitting poster abstracts is <b>July 16, 2025</b>.</p>
+
+Authors of selected papers that have been rejected during the review will be invited to submit a poster instead.
 
 <!-- <p> To be considered, papers must be formatted according to the "sigconf" template style of the <a href="https://www.acm.org/publications/proceedings-template">ACM Primary Article Template</a>. Full papers may be up to 10 pages in length in PDF format.</p>-->
 
@@ -81,5 +87,4 @@ Authors of selected full and short papers may be invited to submit an extended v
 <!-- Authors should submit their work through the <a href="https://easychair.org/conferences/?conf=eurompi23">EuroMPI 2023</a> Submission Site at easychair.
 Note that at least one of the authors of each paper accepted for presentation in EuroMPI 2023 must be registered. -->
 
-</div>
 
