@@ -6,8 +6,6 @@ permalink: organization
 
 <h1>Organizers</h1>
 
-<!---
-
 <div id="divcommittee">
 
   <div style="display: flex; flex-direction:row;">
@@ -48,12 +46,14 @@ permalink: organization
 
 </div>
 
+<!---
+
 <div id="divcard">
 <div class="card text-justify conference-text">
       <div class="card-header text-white bg-inverse">
          <i class="mr"></i><strong>Technical Program Committee (Paper)</strong>
       </div>
-         <div class="card-block bg-faded committee" style="padding: 5px">
+      <div class="card-block bg-faded committee" style="padding: 5px">
           <p>Bland Wesley, Meta, USA</p>
           <p>Subramoni Hari, Ohio State University, USA</p>
           <p>Hermanns Marc-André, RWTH, Germany</p>
@@ -83,15 +83,6 @@ permalink: organization
           <p>Casas Marc, BSC, Spain</p>
           <p>Capra Antoine, Atos, France</p>
 	  <p>Koziol Quincey, Amazon, USA</p>
-   	  <!-- <p>Koziol Quincey, Amazon, USA</p>
-          <p>Leon Edgar, Lawrence Livermore National Laboratory, USA</p>
-          <p>Hammond Jeff, XXX, XXX</p>
-          <p>Protze Joachim, RWTH, Germany</p>
-          <p>Dosanj Matthew, SNL, XXX</p>
-          <p>Schonberg Whitney, SNL, XXX</p>
-          <p>Castel Adrien, Universitat Jaume 1, XXX</p>
-          <p>Schuchart Joseph, UTK, XXX</p>
-          <p>Schneider Timo, ETH Zurich, Switzerland</p> -->
       </div>
       </div>
 
@@ -99,7 +90,7 @@ permalink: organization
       <div class="card-header text-white bg-inverse">
          <i class="mr"></i><strong>Technical Program Committee (Poster)</strong>
       </div>
-         <div class="card-block bg-faded committee" style="padding: 5px">
+      <div class="card-block bg-faded committee" style="padding: 5px">
 	  <p>Julien Adam, ParaTools SAS, France</p>
 	  <p>Matthieu Dorier, Argonne National Lab, USA</p>
 	  <p>Rob Latham, Argonne National Lab, USA</p>
