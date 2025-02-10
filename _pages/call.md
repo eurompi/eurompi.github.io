@@ -51,12 +51,10 @@ permalink: call
 
 
 <h1>Important Dates</h1>
-<!-- - Submission deadline: 21st February 2022 AoE -->
-<!-- - Submission deadline: ~~21st February 2022 AoE~~ 28th February 2022 AoE -->
 <ul>
-<li> Abstract deadline: <b>May 2, 2025 AoE</b></li>
-<li> Submission deadline: <b>May 9, 2025 AoE</b></li>
-<li> Paper notification: <b>June 15, 2025 AoE</b></li>
+<li> Abstract deadline: <b>May 16, 2025 AoE</b></li>
+<li> Submission deadline: <b>May 23, 2025 AoE</b></li>
+<li> Paper notification: <b>June 20, 2025 AoE</b></li>
 <li> Poster submission deadline: <b> July 11, 2025 AoE</b></li>
 <li> Poster notification: <b>July 25, 2025 AoE</b></li>
 <!-- <li> Camera-ready version: TBD</li> -->
