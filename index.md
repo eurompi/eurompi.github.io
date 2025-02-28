@@ -6,7 +6,7 @@ permalink: index
 <!-- ![Banner](/assets/banner_hamburg.jpg){:height="auto" width="100%"} -->
 
 <h1>Welcome to EuroMPI/USA'25</h1> 
-  <p class="lead">September 29 - October 3 2025, Charlotte, NC, USA</p>
+  <p class="lead">October 1 - October 3 2025, Charlotte, NC, USA</p>
 
 
 <div style="display: flex; flex-direction:row;">
@@ -15,7 +15,7 @@ permalink: index
 
 
   <p>
-  In 2025, EuroMPI Conference will take place in Charlotte, NC in the week of September 29 - October 3, 2025. The conference will be co-located with the <a href="https://www.iwomp.org">21th International Workshop on OpenMP (IWOMP 2025)</a> that will be held the same week. The MPI Forum will also meet following the EuroMPI Conference. The dates will be updated once we get closer to the event.
+  In 2025, EuroMPI Conference will take place in Charlotte, NC in the week of October 1 - October 3, 2025. The conference will be co-located with the <a href="https://www.iwomp.org">21th International Workshop on OpenMP (IWOMP 2025)</a> that will be held the same week. The MPI Forum will also meet following the EuroMPI Conference. The dates will be updated once we get closer to the event.
   </p>
 
   <p>
