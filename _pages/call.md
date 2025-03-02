@@ -23,7 +23,7 @@ permalink: call
 <ul>
 <li> <b>Implementation Issues and Algorithms</b>: Efficient and scalable implementations of message-passing constructs.</li>
 <li> <b>Architectures and systems</b>: Towards exascale computing, efficient use of accelerators and other features of modern, large-scale systems, hardware-software interaction.</li>
-<li> <b>Message Passing for accelerator-based compute architectures</b>, including multi-GPU, TPU, and AI-accelerator systems.
+<li> <b>Message Passing for accelerator-based compute architectures</b>, including multi-GPU, TPU, and AI-accelerator systems.</li>
 <li> <b>Programming models and paradigms</b> related to MPI targeting large-scale, parallel, distributed memory systems, hierarchical and hybrid models, partitioned global address space (PGAS) models.</li>
 <li> <b>Extensions to and shortcomings of MPI</b>: alternative interfaces and solutions.</li>
 <li> <b>New, parallel (MPI-)I/O mechanisms optimizations</b>.</li>
