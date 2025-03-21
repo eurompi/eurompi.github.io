@@ -76,7 +76,7 @@ Note that at least one of the authors of each paper accepted for presentation in
 <p></p>We welcome the submission of abstracts for posters to be presented during a dedicated poster session. These abstracts should not exceed 2 pages (excluding references) and should use the <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">Springer LNCS</a> proceedings template, submitted through the <a href="https://easychair.org/conferences?conf=eurompiusa2025">EasyChair submission site</a> and marked as poster submission. The deadline for submitting poster abstracts is <b>July 16, 2025</b>.</p>
 
 
-<!-- <p> To be considered, papers must be formatted according to the "sigconf" template style of the <a href="https://www.acm.org/publications/proceedings-template">ACM Primary Article Template</a>. Full papers may be up to 10 pages in length in PDF format.</p>-->
+<!-- <p> To be considered, papers must be formatted according to the "sigconf" template style of the <a href="https://www.acm.org/publications/proceedings-template">ACM Primary Article Template</a>. Full papers may be up to 10 pages in length in PDF format.</p> -->
 
 <!-- <p>The Overleaf template for LaTeX users can be found <a href="https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty">here</a> (updated to point to the two-column format). Please make sure to use the "sigconf" template style.</p>
 <p>The page limit includes figures, tables, and appendices, but does not include references, for which there is no page limit. Margins, spacing, and font sizes should not be modified from the template.</p> -->
