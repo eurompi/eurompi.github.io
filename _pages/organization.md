@@ -46,7 +46,6 @@ permalink: organization
 
 </div>
 
-<!---
 
 <div id="divcard">
 <div class="card text-justify conference-text">
@@ -54,6 +53,35 @@ permalink: organization
          <i class="mr"></i><strong>Technical Program Committee (Paper)</strong>
       </div>
       <div class="card-block bg-faded committee" style="padding: 5px">
+         <p>Stefano Markidis, KTH Royal Institute of Technology</p>
+         <p>Kento Sato, RIKEN R-CCS</p>
+         <p>Rajeev Thakur, Argonne National Laboratory</p>
+         <p>Martin Schreiber, Université Grenoble Alpes / Inria / Laboratoire Jean-Kuntzmann</p>
+         <p>Claudia Blaas-Schenner, VSC Research Center, TU Wien</p>
+         <p>Wesley Bland, Meta</p>
+         <p>Hui Zhou, Argonne National Laboratory</p>
+         <p>Hari Subramoni, The Ohio State University</p>
+         <p>Shinji Sumimoto, The University of Tokyo</p>
+         <p>Martin Schulz, Technical University of Munich</p>
+         <p>Jeff Hammond, NVIDIA</p>
+         <p>Ahmad Tarraf, TU Darmstadt</p>
+         <p>Tobias Haas, University of Stuttgart</p>							
+         <p>Jesper Larsson Träff, TU Wien</p>							
+         <p>William Gropp, University of Illinois at Urbana-Champaign</p>
+         <p>Ryan E. Grant, Queen's University</p>
+         <p>Matthew Dosanjh, Sandia National Laboratories</p>
+         <p>Jeff Squyres, Cisco</p>
+         <p>Howard Pritchard, Los Alamos National Laboratory</p>
+         <p>Al Geist, Oak Ridge National Laboratory</p>
+         <p>Guillaume Mercier, ENSEIRB/INRIA</p>
+         <p>Edgar Gabriel, Advanced Micro Devices, Inc.</p>
+         <p>George Bosilca, NVIDIA Inc.</p>
+         <p>Aaron Welch, Oak Ridge National Laboratory</p>
+         <p>Marc-Andre Hermanns, RWTH Aachen University</p>
+         <p>Chen Wang, Lawrence Livermore National Laboratory</p>
+         <p>Jed	Brown, University of Colorado Boulder</p>
+       
+<!---
           <p>Bland Wesley, Meta, USA</p>
           <p>Subramoni Hari, Ohio State University, USA</p>
           <p>Hermanns Marc-André, RWTH, Germany</p>
@@ -83,9 +111,12 @@ permalink: organization
           <p>Casas Marc, BSC, Spain</p>
           <p>Capra Antoine, Atos, France</p>
 	  <p>Koziol Quincey, Amazon, USA</p>
+--->
       </div>
-      </div>
+</div>
+      
 
+<!---
 <div class="card text-justify conference-text">
       <div class="card-header text-white bg-inverse">
          <i class="mr"></i><strong>Technical Program Committee (Poster)</strong>
