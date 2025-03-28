@@ -80,6 +80,8 @@ permalink: organization
          <p>Marc-Andre Hermanns, RWTH Aachen University</p>
          <p>Chen Wang, Lawrence Livermore National Laboratory</p>
          <p>Jed	Brown, University of Colorado Boulder</p>
+	 <p>Quincey Koziol, NVIDIA Inc.</p>
+         <p>Sayan Ghosh, PNNL</p>
        
 <!---
           <p>Bland Wesley, Meta, USA</p>
