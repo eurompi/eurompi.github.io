@@ -30,13 +30,13 @@ permalink: organization
 
    <div style="display: flex; flex-direction:row;">
      <div style="margin-top: 10px;"><img src="assets/silhouette.png" alt="Aurelien" width="120" height="120" /></div>
-     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Aurelien Bouteiller</b>, UTK</p> <p> Poster chair</p> </div> 
+     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Aurelien Bouteiller</b>, AMD</p> <p> Poster chair</p> </div> 
    </div> 
 
    <div style="display: flex; flex-direction:row;">
      <div style="margin-top: 10px;"><img src="assets/BrianSmith.png" alt="Brian" width="120" height="120" /></div> 
-     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Brian Smith</b>, Cornelis Networks</p> <p>Finance and Registration chair</p></div> 
-   </div> 
+     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Brian Smith</b>, Oak Ridge National Laboraties</p> <p>Finance and Registration chair</p></div> 
+   </div>
 
    <div style="display: flex; flex-direction:row;">
      <div style="margin-top: 10px;"><img src="assets/yanyh2018.jpg" alt="Yonghong" width="120" height="120" /></div> 
