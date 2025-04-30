@@ -29,7 +29,7 @@ permalink: organization
   </div>
 
    <div style="display: flex; flex-direction:row;">
-     <div style="margin-top: 10px;"><img src="assets/silhouette.png" alt="Aurelien" width="120" height="120" /></div>
+     <div style="margin-top: 10px;"><img src="assets/abouteiller.png" alt="Aurelien" width="120" height="120" /></div>
      <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Aurelien Bouteiller</b>, AMD</p> <p> Poster chair</p> </div> 
    </div> 
 
