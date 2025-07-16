@@ -54,9 +54,10 @@ permalink: call
 <ul>
 <li> Abstract deadline (<b>extended</b>): <s>May 16, 2025 AoE</s> <b>June 6, 2025</b></li>
 <li> Submission deadline (<b>extended</b>): <s>May 23, 2025 AoE</s> <b>June 6, 2025</b></li>
-<li> Paper notification: <b>July 14, 2025 AoE</b></li>
-<li> Poster submission deadline: <b> July 11, 2025 AoE</b></li>
-<li> Poster notification: <b>July 25, 2025 AoE</b></li>
+<li> Paper notification: <b>July 16, 2025 AoE</b></li>
+<li> Paper camera ready: <b>August 1, 2025 AoE</b></li>
+<li> Poster abstract submission deadline: <b> August 1, 2025 AoE</b></li>
+<li> Poster notification: <b>August 15, 2025 AoE</b></li>
 <!-- <li> Camera-ready version: TBD</li> -->
 </ul>
 
