@@ -11,6 +11,15 @@ permalink: venue
 
 The High Performance Computing and Systems lab at UNC performs cutting-edge research on topics facilitating the development, optimization, and expansion of the fastest computers in the world. Their faculty members work in a wide breadth of areas including compilers, algorithms, file systems, storage, memory, compression, and parallel computing. <a href="https://hpcs.charlotte.edu/">More here</a>.
 
+
+<h3>Popp-Martin Student Union</h3>
+
+
+The UNC Charlotte Student Union originally opened its doors in 2009 as the community center of the University. On any campus, the union serves students, faculty, staff, alumni, and visitors. It provides services and conveniences that members of the college community need in their daily lives and creates an environment for getting to know and understand others through formal and informal associations.
+
+Location: <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x88541c1aa0fb0183:0xf16d9339550a868e?sa=X&ved=1t:8290&ictx=111">8845 Craver Rd, Charlotte, NC 28262, United States</a>
+
+
 <h3>Travelling to Charlotte</h3>
 
 
