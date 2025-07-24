@@ -33,13 +33,29 @@ Transportation between Conference hotel and Uptown Charlotte: [Charlotte Area Tr
 
 <h3>Accommodation</h3>
 
-We will provide information on accomodation soon.
+<it>Each participant is responsible for making their own accommodation reservations.</it>
 
-<h3>Social event : EuroMPI and Iwomp Joint Dinner</h3>
+<a href="https://www.marriott.com/en-us/hotels/cltmu-unc-charlotte-marriott-hotel-and-conference-center/overview/">UNC Charlotte Marriott Hotel & Conference Center</a><br>
+9041 Robert D. Snyder Rd, Charlotte, NC 28262
+
+<a href="https://www.hilton.com/en/hotels/clthuhf-hilton-charlotte-university-place/">Hilton Charlotte University Place</a><br>
+8629 J M Keynes Dr, Charlotte, NC 28262
+
+<a href="https://www.ihg.com/holidayinn/hotels/us/en/charlotte/cltup/hoteldetail">Holiday Inn Charlotte University, an IHG Hotel</a><br>
+8520 University Executive Park Dr, Charlotte, NC 28262
+
+<a href="https://www.druryhotels.com/locations/charlotte-nc/drury-inn-and-suites-charlotte-university-place">Drury Inn & Suites Charlotte University Place</a><br>
+415 W W.T.Harris Blvd, Charlotte, NC 28262
+
+<a href="https://www.hilton.com/en/hotels/cltuvhx-hampton-charlotte-university-place/">Hampton Inn Charlotte-University Place</a><br>
+8419 N Tryon St, Charlotte, NC 28262
+
+
+<h3>Social event : EuroMPI and IWOMP Joint Dinner</h3>
 
 TBD
 
 
 <h3>VISA Invitation Letters</h3>
 
-If you require an invitation letter to apply for a visa to attend the conference please contact the local organizer with your full name, affiliation and home address.
+If you require an invitation letter to apply for a visa to attend the conference please contact the local organizer or <a href="mailto:eurompiconference@gmail.com">eurompiconference@gmail.com</a>with your full name, affiliation and home address.
