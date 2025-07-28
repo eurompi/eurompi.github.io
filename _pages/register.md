@@ -9,7 +9,7 @@ permalink: register
 
 <p>EuroMPI 2025, IWOMP and the MPI Forum will be located on the <a href="https://www.charlotte.edu/">University of North Carolina, Charlotte</a></p>
 
-Registration is available at https://www.eventbrite.com/e/mpi-forum-eurompi-iwomp-tickets-1500373821489. <b>Early bird rates end August 31, 2025.</b>
+Registration is <a href="https://www.eventbrite.com/e/mpi-forum-eurompi-iwomp-tickets-1500373821489">available via Eventbrite</a>. <b>Early bird rates end August 31, 2025.</b>
 
 
 <h3>VISA Invitation Letters</h3>
