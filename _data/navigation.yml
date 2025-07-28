@@ -11,7 +11,7 @@ main:
   #  - title: "Program"
   #    url: program
 
-    - title: "Call for Papers"
+    - title: "Call for Papers & Posters"
       url: call
 
   #  - title: "Call for Posters"
@@ -23,8 +23,8 @@ main:
     - title: "Venue"
       url: venue
 
-  #  - title: "Register"
-  #    url: register
+    - title: "Register"
+      url: register
 
     - title: "Archive"
       url: archive
