@@ -11,6 +11,8 @@ permalink: register
 
 Registration is <a href="https://www.eventbrite.com/e/mpi-forum-eurompi-iwomp-tickets-1500373821489">available via Eventbrite</a>. <b>Early bird rates end August 31, 2025.</b>
 
+Please note that <b>presenters must register in full</b> regardless of enrollment status.
+
 
 <h3>VISA Invitation Letters</h3>
 
