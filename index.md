@@ -33,7 +33,7 @@ permalink: index
 
   <div class="text-justify conference-text">
   <h2>Register</h2>
-  The registration will open soon.
+  <a href="https://eurompi.org/register">Registration></a> is open. Early bird rates end <b>August 31, 2025</b>!
   </div>
   </div>
 
