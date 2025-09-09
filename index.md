@@ -29,10 +29,13 @@ permalink: index
   </div>
 
 EuroMPI/USA is made possible through the generous support of the following organisations and sponsors.
-
-<img src="assets/ansys-sponsor-180.png" alt="Ansys" width="300">
-<img src="https://github.com/mpi-forum/mpi-forum.github.io/blob/master/images/mpi-forum-logo.jpg" alt="MPI Forum" width="300">
-<img src="assets/sponsor-logo-openmp.png" alt="OpenMP ARB" width="300">
+<table border="0">
+  <tr>
+    <td><img src="assets/ansys-sponsor-180.png" alt="Ansys" width="200" style="margin-right: 4cm"></td>
+    <td><img src="https://github.com/mpi-forum/mpi-forum.github.io/blob/master/images/mpi-forum-logo.jpg" alt="MPI Forum" width="200" style="margin-left: 4em"></td>
+    <td><img src="assets/sponsor-logo-openmp.png" alt="OpenMP ARB" width="200" style="margin-left: 4em"></td>
+  </tr>
+</table>
 
   <div id="divcard"> 
   {% include card-important-dates.html %}
