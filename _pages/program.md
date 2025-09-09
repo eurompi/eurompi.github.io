@@ -12,7 +12,18 @@ The program below is tentative and might change. The EuroMPI program runs in par
 
 ## Oct 1 - Day 1
 
+[randles]: ## "High performance computing (HPC) has long driven breakthroughs in physics, chemistry, and engineering. Today, the emergence of digital twins in healthcare introduces a new frontier: personalized, physics-informed simulations of the human vascular system. These models demand solving fluid dynamics over complex 3D anatomies across millions of heartbeats, while integrating continuous data from wearable sensors. The result is petabyte-scale datasets and real-time simulation needs that stretch the limits of algorithms, data handling, and scalability.
+&nbsp;
+This keynote will highlight how vascular digital twins expose new challenges and opportunities for HPC—reducing communication overhead in parallel time integration, compressing multimodal data streams without losing fidelity, and enabling adaptive, continuous simulation at exascale. Meeting these challenges requires leadership-scale systems co-designed with novel algorithms and workflows. Beyond medicine, these lessons illustrate how HPC can evolve to support time-critical, data-rich applications across domains, underscoring the need for sustained investment and long-term vision in high performance computing."
+
+
 [gropp]: ## "The MPI standard was created 31 years ago. During that time, the MPICH implementation of MPI has both provided users with a high-performance yet portable implementation and has contributed to the evolution of the MPI standard. In recognition of its impact, ACM recognized MPICH with the 2024 Software System Award. In this talk I will review how MPICH came to be, features and decisions that contributed to its success, and some comments on both the future of MPICH and MPI."
+
+[klepl]: ## "Message Passing Interface (MPI) has been a well-established technology in the domain of distributed high-performance computing for several decades. However, one of its greatest drawbacks is a rather ancient pure-C interface. It lacks many useful features of modern languages (namely C++), like basic type-checking or support for generic code design. In this paper, we propose a novel abstraction for MPI, which we implemented as an extension of the C++ Noarr library. It follows Noarr paradigms (first-class layout and traversal abstraction) and offers layout-agnostic design of MPI applications. We also implemented a layout-agnostic distributed GEMM kernel as a case study to demonstrate the usability and syntax of the proposed abstraction. We show that the abstraction achieves performance comparable to the state-of-the-art MPI C++ bindings while allowing for a more flexible design of distributed applications."
+
+[zhou]: ## "Sessions is one of the major features introduced in the MPI-4 standard. It offers an alternative to the traditional world communicator model by allowing applications to construct communicators from process sets, thereby eliminating the dependency on MPI_COMM_WORLD. The Sessions model was proposed as a more scalable solution for exascale systems, where MPI_COMM_WORLD was viewed as a potential scalability bottleneck. However, supporting Sessions is a significant challenge for established codebases like MPICH due to the deep integration of the world model in traditional MPI implementations. Although MPICH added support for the MPI-4 standard upon its release, it still internally relied on a global world communicator. This approach enabled applications written using the Sessions model to function, but it did not fulfill the full design intent of Sessions, which meant to decouple MPI from MPI_COMM_WORLD.
+&nbsp;
+We describe MPICH's effort to support ``true'' MPI Sessions, including a major internal refactoring. We describe the architectural changes required to support true Sessions and evaluate the resulting implementation’s scalability. Our results demonstrate that true Sessions can offer significant scalability benefits by adopting explicit hierarchical designs."
 
 [oraji]:## "Parallel programming models such as MPI and OpenSHMEM enable the use of large-scale distributed-memory computers in HPC. However, programmers often miss subtle rules regarding their APIs, such as properly synchronizing local memory accesses with communication and releasing acquired resources. Existing correctness tools aim to detect these issues automatically, but are typically model-specific. We propose the use of model-independent function annotations to avoid this dependency:
 Contracts allow the specification of generic pre- and postconditions at function declarations. We specify requirements that must be satisfied at the corresponding call sites to avoid common MPI errors such as resource leaks and local data races. The transparent nature of contracts also allows for easier maintainability and extensibility of checks. This paper presents a contract language and CoVer, an extensible static verifier to check the use of library-based parallel programming models. It applies data-flow analysis using the LLVM framework to verify these contract annotations. We compare detection accuracy against the static tools PARCOACH and MPI-Checker using RMARaceBench and MPI-BugBench, and compile-time overhead based on the mini-apps LULESH, miniVite, and the PRK Stencil Kernel. CoVer improved the detection accuracy by covering a wide variety of issues, while maintaining comparable overhead."
@@ -32,16 +43,28 @@ The applicability of the SPMD IR is demonstrated through the use case of static 
 
 [li]:## "The increasing disparity between computing capabilities and communication bandwidth has become a major bottleneck in High Performance Computing (HPC) applications. To address this challenge, we introduce a framework that leverages early data compression for communication data within the Open MPI library with the use of userfaultfd (uffd) for efficient write detection. By integrating the high-speed LZ4 compression algorithm, the proposed framework minimizes communication overhead by reducing the size of data transmitted among processes while hiding compression overhead behind either pack or communication overhead. Applying our uffd framework onto Livermore Unstructured Lagrangian Explicit Shock Hydrodynamics (LULESH) highlights the potential of the framework in reducing data communication volumes and overall communication latency, paving the way for improved performance in HPC environments."
 
+[moraru]:## "The HPE Slingshot interconnect is used on numerous supercomputers, including the top two supercomputers on the TOP500. Recently, HPE open-sourced the software stack for Slingshot introducing new opportunities for exploring alternative MPI implementations on HPE’s Cray supercomputers. This work investigates the performance implications of using Open MPI, as opposed to the traditionally bundled Cray MPICH, on systems equipped with Slingshot-11 interconnects. We focus our analysis on Adaptive Mesh Refinement (AMR) applications in this work, as they exhibit a wide variety of communication patterns, including dynamically changing communicating peers. Based on profiling and analysis of these AMR applications, we designed a targeted microbenchmark to capture key communication patterns in AMR that can benefit from Open MPI on Slingshot-11 systems. We demonstrate that Open MPI can improve the overall execution time of AMR-based scientific applications by up to 11%. Deeper analysis using our communication pattern benchmark reveals one aspect of this performance difference. Open MPI has a much lower latency than Cray MPICH in bursty halo exchanges among even a moderately small number of processes."
+
+[lucas]:## "Lawrence Livermore National Laboratory's DYNA3D is an example of a large  Computer-Aided Engineering application that was rearchitected in response to a disruptive change in the execution model and has since successfully evolved for four and a half decades.  Its progeny, which includes LS-DYNA, have adapted to vector processors, shared and distributed memory models, SIMD extensions, and now to acceleration with Graphics Processing Units (GPUs). In each case, initial experiments predated the arrival of standards such as the Message Passing Interface (MPI) or OpenMP. But the standards were quickly adopted when they appeared, and as the execution model they embody expanded, so too did LS-DYNA.  Today, LS-DYNA embodies over ten million source lines of code, mostly in Fortran, and has many thousands of users Worldwide. Rewriting LS-DYNA in another language to facilitate porting to a new device is not feasible.  The use of library calls and compiler directives is the most productive and least disruptive way to continue evolving.  This talk will discuss how LS-DYNA is adapting in the era of GPUs and speculate about how OpenMP can help in the future."
+
+[avans]:## "Since the C++ bindings were deleted in 2008, the Message Passing Interface (MPI) community has recently revived efforts in building high-level modern C++ interfaces. Such interfaces are either built to serve specific scientific application needs (with limited coverage to the underlying MPI functionality), or as an exercise in general-purpose programming model building, with the hope that bespoke interfaces can be broadly adopted to construct a variety of distributed-memory scientific applications. However, with the advent of modern C++-based heterogeneous programming models, GPUs and widespread Machine Learning (ML) usage in contemporary scientific computing, the role of prospective community-standardized high-level C++ interfaces to MPI is evolving. The success of such an interface clearly will depend on providing robust abstractions and features adhering to the generic programming principles that underpin the C++ programming language, without compromising on either performance or portability, the core principles upon which MPI was founded. However, there is a tension between idiomatic C++ handling of types and lifetimes and MPI's loose interpretation of object lifetimes/ ownership and insistence on maintaining global states.
+&nbsp;
+Instead of proposing "yet another" high-level C++ interface to MPI, overlooking or providing partial solutions to work around the key issues concerning the dissonance between MPI semantics and idiomatic C++, this paper focuses on the three fundamental aspects of a high-level interface: type system, object lifetimes, and communication buffers, while also identifying inconsistencies in the MPI specification. Presumptive solutions can be unrefined, and we hope the broader MPI and C++ communities will engage with us in productive exchange of ideas and concerns."
+
+[yan]:## "The increasing complexity of HPC architectures and the growing adoption of irregular scientific algorithms demand efficient support for asynchronous, multithreaded communication. This need is especially pronounced with Asynchronous Many-Task (AMT) systems. This communication pattern was not a consideration during the design of the original MPI specification. The MPI community has recently introduced several extensions to address these evolving requirements. This work evaluates two such extensions, the Virtual Communication Interface (VCI) and the Continuation extensions, in the context of an established AMT runtime HPX. We begin by using an MPI-level microbenchmark, modeled from HPX's low-level communication mechanism, to measure the peak performance potential of these extensions. We then integrate them into HPX to evaluate their effectiveness in real-world scenarios. Our results show that while these extensions can enhance performance compared to standard MPI, areas for improvement remain. The current continuation proposal limits the maximum multithreaded message rate achievable in the multi-VCI setting. Furthermore, the recommended one-VCI-per-thread mode proves ineffective in real-world systems due to the attentiveness problem. These findings underscore the importance of improving intra-VCI threading efficiency to achieve scalable multithreaded communication and fully realize the benefits of recent MPI extensions."
+
+[schuchart]:## "The Message Passing Interface (MPI) standard has long been a cornerstone of parallel computing, enabling multi-threaded processes to communicate effectively. However, integrating multi-threading with MPI is not as straightforward as it might seem. MPI must function optimally in a multi-threaded environment, which requires robust thread support. The description provided by MPI about how multiple application threads may interact with MPI forms a contract for guarantees that applications can rely on and that implementations must provide, and vice versa. We find that the definitions regarding multi-threaded behavior provided by MPI are imprecise, which leads to differing interpretations and potential over- or undercommitment of computational resources in order to provide their perceived semantics. We provide an analysis of relevant parts of the MPI standard dealing with multi-threading and provide proposals for definitions of concurrency, conflicts, and race conditions, which we hope will clarify the guarantees that are part of the contract between MPI multi-threaded applications and implementations."
+
 | Start | End   | Session |
 |-------|-------|---------|
 | 8:30  | 9:00  | Registration & Coffee |
-| **9:00**  | **10:00**  | Tutorial, Part I: General Overview of MPI |
+| **9:00**  | **10:00**  | Tutorial: Overview and current topics in OpenMP & MPI (Part I) |
 | 10:00 | 10:30 | Coffee Break |
-| 10:30 | 11:00 | Tutorial, Part II: Current Topics in MPI |
+| 10:30 | 11:00 | Tutorial: Overview and current topics in OpenMP & MPI (Part II) |
 | 11:00 | 11:30 |  |
 | 11:30 | 12:00 |  |
 | 12:00 | 13:30 | Lunch Break |
-| 13:30 | 14:00 | **Joint Keynote I - Amanda Randles (Duke University)** |
+| 13:30 | 14:00 | [**Joint Keynote I - Amanda Randles (Duke University): HPC in Health: Scaling Vascular Digital Twins from Millions of Heartbeats to Petabytes of Data**][randles] |
 | 14:00 | 14:30 |  |
 | 14:30 | 15:00 | Coffee Break |
 | **15:30** | **17:00** | **Session I: Correctness** |
@@ -54,17 +77,17 @@ The applicability of the SPMD IR is demonstrated through the use case of static 
 | Start | End   | Session |
 |-------|-------|---------|
 | 8:30  | 9:00  | Registration & Coffee |
-| **9:00**  | **10:00**  | **Joint Keynote II - Bob Lucas (Ansys)** |
+| **9:00**  | **10:00**  | [**Joint Keynote II - Bob Lucas (Ansys): The evolutionary flexibility of LS-DYNA**][lucas] |
 | 10:00 | 10:30 | Coffee Break |
 | **10:30** | **11:30** | **Session II: Language Support (C++)** |
-| 10:30 | 11:00 | **Layout-Agnostic MPI Abstraction for Distributed Computing in Modern C++.** (Jiří Klepl) |
-| 11:00 | 11:30 | **Concepts for designing modern C++ interfaces for MPI** (C. Nicole Avans) |
+| 10:30 | 11:00 | [**Layout-Agnostic MPI Abstraction for Distributed Computing in Modern C++.**][klepl] (Jiří Klepl) |
+| 11:00 | 11:30 | [**Concepts for designing modern C++ interfaces for MPI.**][avans] (C. Nicole Avans) |
 | **11:30** | **12:00** | [**Lessons from MPICH**][gropp] (Bill Gropp, Invited Talk) |
 | 12:00 | 13:30 | **Lunch Break with Poster Session** |
 | **13:30** | **15:00** | **Session III: Performance** |
-| 13:30 | 14:00 | [**On the Potential of Compression Hiding in MPI Applications**][li] (Yicheng Li) |
-| 14:00 | 14:30 | **Implementing True MPI Sessions and Evaluating MPI Initialization Scalability** (Hui Zhou) |
-| 14:30 | 15:00 | **Performance analysis of OpenMPI on AMR applications over Slingshot-11** (Maxim Moraru) |
+| 13:30 | 14:00 | [**On the Potential of Compression Hiding in MPI Applications.**][li] (Yicheng Li) |
+| 14:00 | 14:30 | [**Implementing True MPI Sessions and Evaluating MPI Initialization Scalability.**][zhou] (Hui Zhou) |
+| 14:30 | 15:00 | [**Performance analysis of OpenMPI on AMR applications over Slingshot-11.**][moraru] (Maxim Moraru) |
 | 15:00 | 16:00 | Break |
 | 16:00 |       | Bus pickup (location TBA) |
 | 16:30 |       | **Social Event: [NASCAR museum](https://www.nascarhall.com/)** |
@@ -74,11 +97,11 @@ The applicability of the SPMD IR is demonstrated through the use case of static 
 | Start | End   | EuroMPI / IWOMP |
 |-------|-------|-----------------|
 | 8:30  | 9:00  | Registration & Coffee |
-| **9:00**  | **10:00**  | **Joint Keynote III: TBD** |
+| **9:00**  | **10:00**  | **Joint Keynote III: Damien Rouson (Berkeley Lab)** |
 | 10:00 | 10:30 | Coffee Break |
 | **10:30** | **11:30** | **Session IV: Multi-Threading** |
-| 10:30 | 11:00 | **Examine MPI and its Extensions for Asynchronous Multithreaded Communication** (Jiakun Yan) |
-| 11:00 | 11:30 | **MPI Finally Needs to Deal with Threads** (Joseph Schuchart) |
+| 10:30 | 11:00 | [**Examine MPI and its Extensions for Asynchronous Multithreaded Communication.**][yan] (Jiakun Yan) |
+| 11:00 | 11:30 | [**MPI Finally Needs to Deal with Threads.**][schuchart] (Joseph Schuchart) |
 | **11:30** | **12:00** | **Panel: TBD** |
 | 12:00 | 13:30 | Lunch Break |
 | **13:30** | **14:30** | **Open Discussions** |
