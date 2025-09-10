@@ -25,7 +25,8 @@ permalink: index
   <p>
   Through the presentation of contributed papers, posters and invited talks, the conference presents a complete overview of MPI, its current usage in the parallel programming landscape, and its future directions. The EuroMPI conference provides ample opportunities for attendees to interact and share ideas and experiences to contribute to the improvement and furthering of message-passing and related parallel programming paradigms.
   </p>
-  
+
+<p>
 EuroMPI/USA is made possible through the generous support of the following organisations and sponsors.
 <table border="0">
   <tr>
@@ -34,6 +35,7 @@ EuroMPI/USA is made possible through the generous support of the following organ
     <td><img src="assets/sponsor-logo-openmp.png" alt="OpenMP ARB" width="200" style="margin-left: 4em"></td>
   </tr>
 </table>
+</p>
 </div>
 
   <div id="divcard"> 
