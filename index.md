@@ -26,10 +26,7 @@ permalink: index
   Through the presentation of contributed papers, posters and invited talks, the conference presents a complete overview of MPI, its current usage in the parallel programming landscape, and its future directions. The EuroMPI conference provides ample opportunities for attendees to interact and share ideas and experiences to contribute to the improvement and furthering of message-passing and related parallel programming paradigms.
   </p>
   
-  </div>
-
 EuroMPI/USA is made possible through the generous support of the following organisations and sponsors.
-<div>
 <table border="0">
   <tr>
     <td><img src="assets/ansys-sponsor-180.png" alt="Ansys" width="200" style="margin-right: 4cm"></td>
