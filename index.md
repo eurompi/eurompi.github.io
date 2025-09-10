@@ -30,9 +30,9 @@ permalink: index
 EuroMPI/USA is made possible through the generous support of the following organisations and sponsors.
 <table border="0">
   <tr>
-    <td><img src="assets/ansys-sponsor-180.png" alt="Ansys" width="200" style="margin-right: 1cm"></td>
-    <td><img src="assets/mpi-forum-logo.jpg" alt="MPI Forum" width="200" style="margin-left: 1em"></td>
-    <td><img src="assets/sponsor-logo-openmp.png" alt="OpenMP ARB" width="200" style="margin-left: 1em"></td>
+    <td><img src="assets/ansys-sponsor-180.png" alt="Ansys" width="180" style="margin-right: 1cm"></td>
+    <td><img src="assets/mpi-forum-logo.jpg" alt="MPI Forum" width="180" style="margin-left: 1em"></td>
+    <td><img src="assets/sponsor-logo-openmp.png" alt="OpenMP ARB" width="180" style="margin-left: 1em"></td>
   </tr>
 </table>
 </p>
