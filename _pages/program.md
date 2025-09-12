@@ -40,6 +40,8 @@ The program below is tentative and might change. The EuroMPI program runs in par
 
 [schuchart]:## "The Message Passing Interface (MPI) standard has long been a cornerstone of parallel computing, enabling multi-threaded processes to communicate effectively. However, integrating multi-threading with MPI is not as straightforward as it might seem. MPI must function optimally in a multi-threaded environment, which requires robust thread support. The description provided by MPI about how multiple application threads may interact with MPI forms a contract for guarantees that applications can rely on and that implementations must provide, and vice versa. We find that the definitions regarding multi-threaded behavior provided by MPI are imprecise, which leads to differing interpretations and potential over- or undercommitment of computational resources in order to provide their perceived semantics. We provide an analysis of relevant parts of the MPI standard dealing with multi-threading and provide proposals for definitions of concurrency, conflicts, and race conditions, which we hope will clarify the guarantees that are part of the contract between MPI multi-threaded applications and implementations."
 
+[rouson]:## "An evolving language is forever a new language even when it's the world's first widely used programming language.  Viewed from the perspective of parallel and accelerator programming, Fortran 2023 is simultaneously a senior citizen, a young adult, a teenager, and a toddler -- depending on whether one focuses on the whole language or on the parallel features' invention, standardization, and implementation in compilers.  This talk will provide an overview of the two feature sets that Fortran programmers can use for parallel programming: multi-image execution for Single Program Multiple Data (SPMD) programming with a Partitioned Global Address Space (PGAS) and 'do concurrent' for loop-level parallel and accelerator programming.  The talk will highlight the international public/private partnerships that are co-developing these features in the LLVM Flang compiler, the current main branch of which supports multi-image execution and automatic loop parallelization on central processing units (CPUs) by translation to OpenMP with work towards automatic offloading to graphics processing units (GPUs) under way.  The talk will highlight the latest developments in open-source software that Berkeley Lab (co-)develops to both support and use the new features in high-performance computing (HPC) and artificial intelligence (AI)."
+
 | Start | End   | Session |
 |-------|-------|---------|
 | 8:30  | 9:00  | Registration & Coffee |
@@ -82,7 +84,7 @@ The program below is tentative and might change. The EuroMPI program runs in par
 | Start | End   | EuroMPI / IWOMP |
 |-------|-------|-----------------|
 | 8:30  | 9:00  | Registration & Coffee |
-| **9:00**  | **10:00**  | **Joint Keynote III: Damien Rouson (Berkeley Lab)** |
+| **9:00**  | **10:00**  | [**Joint Keynote III: Damien Rouson (Berkeley Lab): Fortran Is All You Need**][rouson] |
 | 10:00 | 10:30 | Coffee Break |
 | **10:30** | **11:30** | **Session IV: Multi-Threading** |
 | 10:30 | 11:00 | [**Examine MPI and its Extensions for Asynchronous Multithreaded Communication.**][yan] (Jiakun Yan) |
