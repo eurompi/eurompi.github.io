@@ -51,11 +51,11 @@ The program below is tentative and might change. The EuroMPI program runs in par
 | 11:00 | 11:30 |  |
 | 11:30 | 12:00 |  |
 | 12:00 | 13:30 | Lunch Break |
-| 13:30 | 14:00 | [**Joint Keynote I - Amanda Randles (Duke University): HPC in Health: Scaling Vascular Digital Twins from Millions of Heartbeats to Petabytes of Data**][randles] |
+| 13:30 | 14:00 | [**Joint Keynote I - Amanda Randles (Duke University): HPC in Health: Scaling Vascular Digital Twins from Millions of Heartbeats to Petabytes of Data**](#randles) |
 | 14:00 | 14:30 |  |
 | 14:30 | 15:00 | Coffee Break |
 | **15:30** | **17:00** | **Session I: Correctness** |
-| 15:30 | 16:00 | [**Verifying MPI API Usage Requirements with Contracts.**][oraji] (Yussur Mustafa Oraji) |
+| 15:30 | 16:00 | [**Verifying MPI API Usage Requirements with Contracts.**](#oraji) (Yussur Mustafa Oraji) |
 | 16:00 | 16:30 | [**Review of MPI Continuations and Their Integration into PMPI Tools.**][optenhoefel] (Alexander Optenhöfel) |
 | 16:30 | 17:00 | [**Extending the SPMD IR for RMA Models and Static Data Race Detection.**][burak] (Semih Burak) |
 
@@ -93,3 +93,12 @@ The program below is tentative and might change. The EuroMPI program runs in par
 | 12:00 | 13:30 | Lunch Break |
 | **13:30** | **14:30** | **Open Discussions** |
 | 14:30 | 15:45 | Closing Remarks and Goodbye |
+
+
+## Abstracts
+
+### <a id='randles'></a>Amanda Randles (Duke University): HPC in Health: Scaling Vascular Digital Twins from Millions of Heartbeats to Petabytes of Data
+High performance computing (HPC) has long driven breakthroughs in physics, chemistry, and engineering. Today, the emergence of digital twins in healthcare introduces a new frontier: personalized, physics-informed simulations of the human vascular system. These models demand solving fluid dynamics over complex 3D anatomies across millions of heartbeats, while integrating continuous data from wearable sensors. The result is petabyte-scale datasets and real-time simulation needs that stretch the limits of algorithms, data handling, and scalability. This keynote will highlight how vascular digital twins expose new challenges and opportunities for HPC—reducing communication overhead in parallel time integration, compressing multimodal data streams without losing fidelity, and enabling adaptive, continuous simulation at exascale. Meeting these challenges requires leadership-scale systems co-designed with novel algorithms and workflows. Beyond medicine, these lessons illustrate how HPC can evolve to support time-critical, data-rich applications across domains, underscoring the need for sustained investment and long-term vision in high performance computing.
+
+### <a id='oraji'></a>Yussur Mustafa Oraji: Verifying MPI API Usage Requirements with Contracts
+Parallel programming models such as MPI and OpenSHMEM enable the use of large-scale distributed-memory computers in HPC. However, programmers often miss subtle rules regarding their APIs, such as properly synchronizing local memory accesses with communication and releasing acquired resources. Existing correctness tools aim to detect these issues automatically, but are typically model-specific. We propose the use of model-independent function annotations to avoid this dependency: Contracts allow the specification of generic pre- and postconditions at function declarations. We specify requirements that must be satisfied at the corresponding call sites to avoid common MPI errors such as resource leaks and local data races. The transparent nature of contracts also allows for easier maintainability and extensibility of checks. This paper presents a contract language and CoVer, an extensible static verifier to check the use of library-based parallel programming models. It applies data-flow analysis using the LLVM framework to verify these contract annotations. We compare detection accuracy against the static tools PARCOACH and MPI-Checker using RMARaceBench and MPI-BugBench, and compile-time overhead based on the mini-apps LULESH, miniVite, and the PRK Stencil Kernel. CoVer improved the detection accuracy by covering a wide variety of issues, while maintaining comparable overhead.
