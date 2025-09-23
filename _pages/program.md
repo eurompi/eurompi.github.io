@@ -21,10 +21,10 @@ The program below is tentative and might change. The EuroMPI program runs in par
 | 11:00 | 11:30 |  |
 | 11:30 | 12:00 |  |
 | 12:00 | 13:30 | Lunch Break |
-| 13:30 | 14:00 | [**Joint Keynote I - Amanda Randles (Duke University): HPC in Health: Scaling Vascular Digital Twins from Millions of Heartbeats to Petabytes of Data**](#randles) |
+| 13:30 | 14:00 | [**Joint Keynote I - Amanda Randles (Duke University): HPC in Health: Scaling Vascular Digital Twins from Millions of Heartbeats to Petabytes of Data**](#randles) Student Union 200/Union Theatre |
 | 14:00 | 14:30 |  |
 | 14:30 | 15:00 | Coffee Break |
-| **15:30** | **17:00** | **Session I: Correctness** |
+| **15:30** | **17:00** | **Session I: Correctness** [Student Union 265] |
 | 15:30 | 16:00 | [**Verifying MPI API Usage Requirements with Contracts.**](#oraji) (Yussur Mustafa Oraji) |
 | 16:00 | 16:30 | [**Review of MPI Continuations and Their Integration into PMPI Tools.**](#optenhoefel) (Alexander Optenhöfel) |
 | 16:30 | 17:00 | [**Extending the SPMD IR for RMA Models and Static Data Race Detection.**](#burak) (Semih Burak) |
@@ -34,13 +34,13 @@ The program below is tentative and might change. The EuroMPI program runs in par
 | Start | End   | Session |
 |-------|-------|---------|
 | 8:30  | 9:00  | Breakfast & Registration |
-| **9:00**  | **10:00**  | [**Joint Keynote II - Bob Lucas (Ansys): The evolutionary flexibility of LS-DYNA**](#lucas) |
+| **9:00**  | **10:00**  | [**Joint Keynote II - Bob Lucas (Ansys): The evolutionary flexibility of LS-DYNA**](#lucas) [Student Union 200/Union Theatre] |
 | 10:00 | 10:30 | Coffee Break |
-| **10:30** | **11:30** | **Session II: Language Support (C++)** |
+| **10:30** | **11:30** | **Session II: Language Support (C++)** [Student Union 265] |
 | 10:30 | 11:00 | [**Layout-Agnostic MPI Abstraction for Distributed Computing in Modern C++.**](#klepl) (Jiří Klepl) |
 | 11:00 | 11:30 | [**Concepts for designing modern C++ interfaces for MPI.**](#avans) (C. Nicole Avans) |
 | **11:30** | **12:00** | [**Lessons from MPICH**](#gropp) (Bill Gropp, Invited Talk) |
-| 12:00 | 13:30 | **Lunch Break with Poster Session** |
+| 12:00 | 13:30 | **Lunch Break with Poster Session** [Student Union 265] |
 | **13:30** | **15:00** | **Session III: Performance** |
 | 13:30 | 14:00 | [**On the Potential of Compression Hiding in MPI Applications.**](#li) (Yicheng Li) |
 | 14:00 | 14:30 | [**Implementing True MPI Sessions and Evaluating MPI Initialization Scalability.**](#zhou) (Hui Zhou) |
@@ -54,9 +54,9 @@ The program below is tentative and might change. The EuroMPI program runs in par
 | Start | End   | EuroMPI / IWOMP |
 |-------|-------|-----------------|
 | 8:30  | 9:00  | Registration & Coffee |
-| **9:00**  | **10:00**  | [**Joint Keynote III: Damien Rouson (Berkeley Lab): Fortran Is All You Need**](#rouson) |
+| **9:00**  | **10:00**  | [**Joint Keynote III: Damien Rouson (Berkeley Lab): Fortran Is All You Need**](#rouson) [Student Union 340A/Union Theatre] |
 | 10:00 | 10:30 | Coffee Break |
-| **10:30** | **11:30** | **Session IV: Multi-Threading** |
+| **10:30** | **11:30** | **Session IV: Multi-Threading** [Student Union 265] |
 | 10:30 | 11:00 | [**Examine MPI and its Extensions for Asynchronous Multithreaded Communication.**](#yan) (Jiakun Yan) |
 | 11:00 | 11:30 | [**MPI Finally Needs to Deal with Threads.**](#schuchart) (Joseph Schuchart) |
 | **11:30** | **12:00** | **Panel: TBD** |
