@@ -17,6 +17,8 @@ The High Performance Computing and Systems lab at UNC performs cutting-edge rese
 
 The UNC Charlotte Student Union originally opened its doors in 2009 as the community center of the University. On any campus, the union serves students, faculty, staff, alumni, and visitors. It provides services and conveniences that members of the college community need in their daily lives and creates an environment for getting to know and understand others through formal and informal associations.
 
+<a href="https://www.google.com/maps/@35.3083881,-80.7363647,16.11z?entry=ttu&g_ep=EgoyMDI1MDcyMS4wIKXMDSoASAFQAw%3D%3D"><img alt="Map of the UNC campus" src="assets/unc-conference-map.jpg" width="300" align="center"></a>
+
 Location: <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x88541c1aa0fb0183:0xf16d9339550a868e?sa=X&ved=1t:8290&ictx=111">8845 Craver Rd, Charlotte, NC 28262, United States</a>
 
 
