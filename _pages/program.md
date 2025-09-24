@@ -47,7 +47,7 @@ The program below is tentative and might change. The EuroMPI program runs in par
 | 14:30 | 15:00 | [**Performance analysis of OpenMPI on AMR applications over Slingshot-11.**](#moraru) (Maxim Moraru) |
 | 15:00 | 16:00 | Break |
 | 16:00 |       | Bus pickup (location TBA) |
-| 16:30 |       | **Social Event: [NASCAR museum](https://www.nascarhall.com/)** |
+| 16:30 | 20:30 | **Social Event: [NASCAR museum](https://www.nascarhall.com/)** |
 
 ## Oct 3 - Day 3
 
