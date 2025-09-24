@@ -10,14 +10,16 @@ permalink: program
 
 The program below is tentative and might change. The EuroMPI program runs in parallel with the [IWOMP program](https://www.iwomp.org/iwomp-2025/).
 
+All rooms are located in the student union building. See [Venue](https://eurompi.org/venue) for details.
+
 ## Oct 1 - Day 1
 
 | Start | End   | Session |
 |-------|-------|---------|
 | 8:30  | 9:00  | Breakfast & Registration |
-| **9:00**  | **10:00**  | Tutorial: Overview and current topics in OpenMP & MPI (Part I) |
+| **9:00**  | **10:00**  | Tutorial: Overview and current topics in OpenMP & MPI (Part I) [265/266] |
 | 10:00 | 10:30 | Coffee Break |
-| 10:30 | 11:00 | Tutorial: Overview and current topics in OpenMP & MPI (Part II) |
+| 10:30 | 11:00 | Tutorial: Overview and current topics in OpenMP & MPI (Part II) [] |
 | 11:00 | 11:30 |  |
 | 11:30 | 12:00 |  |
 | 12:00 | 13:30 | Lunch Break |
