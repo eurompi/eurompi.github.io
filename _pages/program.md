@@ -47,7 +47,7 @@ All rooms are located in the student union building. See [Venue](https://eurompi
 | 14:00 | 14:30 | [**Implementing True MPI Sessions and Evaluating MPI Initialization Scalability.**](#zhou) (Hui Zhou) |
 | 14:30 | 15:00 | [**Performance analysis of OpenMPI on AMR applications over Slingshot-11.**](#moraru) (Maxim Moraru) |
 | 15:00 | 16:00 | Break |
-| 16:00 |       | Bus pickup (location TBA) |
+| 16:00 |       | Bus pickup in front of Student Union |
 | 16:30 | 20:30 | **Social Event: [NASCAR museum](https://www.nascarhall.com/)** |
 
 ## Oct 3 - Day 3
@@ -60,7 +60,7 @@ All rooms are located in the student union building. See [Venue](https://eurompi
 | **10:30** | **11:30** | **Session IV: Multi-Threading** [Student Union 266] |
 | 10:30 | 11:00 | [**Examine MPI and its Extensions for Asynchronous Multithreaded Communication.**](#yan) (Jiakun Yan) |
 | 11:00 | 11:30 | [**MPI Finally Needs to Deal with Threads.**](#schuchart) (Joseph Schuchart) |
-| **11:30** | **12:00** | **Panel** [Student Union 266] |
+| **11:30** | **12:15** | **Panel: Towards MPI 6.0** (Bill Gropp, Hui Zhou, Hugo Taboada, Tim Uhl) [Student Union 266] |
 | 12:00 | 13:30 | Lunch Break |
 | **13:30** | **14:30** | **Open Discussions** |
 | 14:30 | 15:45 | Closing Remarks and Goodbye |
