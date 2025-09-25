@@ -21,7 +21,8 @@ All rooms are located in the student union building. See [Venue](https://eurompi
 | 10:00 | 10:30 | Coffee Break [Student Union 262] |
 | 10:30 | 12:00 | Tutorial: Overview and current topics in OpenMP & MPI (Part II) [Student Union265/266] |
 | 12:00 | 13:30 | Lunch Break [Student Union 262] |
-| 13:30 | 14:00 | [**Joint Keynote I - Amanda Randles (Duke University): HPC in Health: Scaling Vascular Digital Twins from Millions of Heartbeats to Petabytes of Data**](#randles) [Student Union 200/Union Theatre] |
+| 13:30 | 13:35 | **Welcome** (Yonghong Yan) |
+| 13:35 | 14:00 | [**Joint Keynote I - Amanda Randles (Duke University): HPC in Health: Scaling Vascular Digital Twins from Millions of Heartbeats to Petabytes of Data**](#randles) [Student Union Theatre] |
 | 14:00 | 14:30 |  |
 | 14:30 | 15:00 | Coffee Break [Student Union 262] |
 | **15:30** | **17:00** | **Session I: Correctness** [Student Union 266] |
