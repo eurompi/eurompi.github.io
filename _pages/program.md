@@ -8,7 +8,7 @@ permalink: program
 
 # MPI Forum
 
-The MPI Forum will be held October 29-30, 2025 in UNC Charlotte's Student Union Rooms 263.
+The <a href="https://www.mpi-forum.org/meetings/2025/09/agenda">MPI Forum</a> will be held October 29-30, 2025 in UNC Charlotte's Student Union Rooms 263.
 
 # EuroMPI/USA'25 Program
 
