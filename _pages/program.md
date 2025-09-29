@@ -6,11 +6,15 @@ permalink: program
 
 ![Banner](/assets/Charlotte1.png){:height="auto" width="100%"}
 
+# MPI Forum
+
+The MPI Forum will be held October 29-30, 2025 in UNC Charlotte's Student Union Rooms 263.
+
 # EuroMPI/USA'25 Program
 
 The program below is tentative and might change. The EuroMPI program runs in parallel with the [IWOMP program](https://www.iwomp.org/iwomp-2025/).
 
-All rooms are located in the student union building. See [Venue](https://eurompi.org/venue) for details.
+Breaks will be served in Room 262 of the student union. EuroMPI paper sessions will be held in Room 266 and the keynotes will be held in the Student Union Theater. See [Venue](https://eurompi.org/venue) for details.
 
 ## Oct 1 - Day 1
 
