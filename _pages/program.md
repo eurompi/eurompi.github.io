@@ -16,6 +16,8 @@ The program below is tentative and might change. The EuroMPI program runs in par
 
 Breaks will be served in Room 262 of the student union. EuroMPI paper sessions will be held in Room 266 and the keynotes will be held in the Student Union Theater. See [Venue](https://eurompi.org/venue) for details.
 
+EuroMPI/USA is on <a href="https://bsky.app/profile/eurompiconf.bsky.social">Bluesky</a>!
+
 ## Oct 1 - Day 1
 
 | Start | End   | Session |
