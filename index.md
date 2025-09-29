@@ -54,6 +54,8 @@ EuroMPI/USA is made possible through the generous support of the following organ
 
 <h2>Contact</h2>
 
+EuroMPI/USA is on <a href="https://bsky.app/profile/eurompiconf.bsky.social">Bluesky</a>!
+
 <p>For queries relating to the conference or research papers (submission, deadlines, publishing, etc.) please contact <a href="eurompiconference@gmail.com">eurompiconference@gmail.com</a></p>
 
 </div>
