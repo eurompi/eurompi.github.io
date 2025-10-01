@@ -31,9 +31,9 @@ EuroMPI/USA is on <a href="https://bsky.app/profile/eurompiconf.bsky.social">Blu
 | 13:35 | 14:30 | [**Joint Keynote I - Amanda Randles (Duke University): HPC in Health: Scaling Vascular Digital Twins from Millions of Heartbeats to Petabytes of Data**](#randles) [Student Union Theatre] |
 | 14:30 | 15:00 | Coffee Break [Student Union 262] |
 | **15:30** | **17:00** | **Session I: Correctness** [Student Union 266] |
-| 15:30 | 16:00 | [**Verifying MPI API Usage Requirements with Contracts.**](#oraji) (Yussur Mustafa Oraji) |
-| 16:00 | 16:30 | [**Review of MPI Continuations and Their Integration into PMPI Tools.**](#optenhoefel) (Alexander Optenhöfel) |
-| 16:30 | 17:00 | [**Extending the SPMD IR for RMA Models and Static Data Race Detection.**](#burak) (Semih Burak) |
+| 15:00 | 15:30 | [**Verifying MPI API Usage Requirements with Contracts.**](#oraji) (Yussur Mustafa Oraji) |
+| 15:30 | 16:00 | [**Review of MPI Continuations and Their Integration into PMPI Tools.**](#optenhoefel) (Alexander Optenhöfel) |
+| 16:00 | 16:30 | [**Extending the SPMD IR for RMA Models and Static Data Race Detection.**](#burak) (Semih Burak) |
 
 ## Oct 2 - Day 2
 
