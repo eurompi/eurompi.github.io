@@ -48,8 +48,8 @@ EuroMPI/USA is on <a href="https://bsky.app/profile/eurompiconf.bsky.social">Blu
 | **11:30** | **12:00** | [**Lessons from MPICH**](#gropp) (Bill Gropp, Invited Talk) |
 | 12:00 | 13:30 | **Lunch Break with Poster Session** [Student Union 262] |
 | **13:30** | **15:00** | **Session III: Performance** [Student Union 266] |
-| 13:30 | 14:00 | [**On the Potential of Compression Hiding in MPI Applications.**](#li) (Yicheng Li) |
-| 14:00 | 14:30 | [**Implementing True MPI Sessions and Evaluating MPI Initialization Scalability.**](#zhou) (Hui Zhou) |
+| 13:30 | 14:00 | [**Best Paper: Implementing True MPI Sessions and Evaluating MPI Initialization Scalability.**](#zhou) (Hui Zhou) |
+| 14:00 | 14:30 | [**On the Potential of Compression Hiding in MPI Applications.**](#li) (Yicheng Li) |
 | 14:30 | 15:00 | [**Performance analysis of OpenMPI on AMR applications over Slingshot-11.**](#moraru) (Maxim Moraru) |
 | 15:00 | 16:00 | Break |
 | 16:00 |       | Bus pickup in front of Student Union |
