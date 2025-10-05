@@ -5,6 +5,14 @@ permalink: index
 ![Banner](/assets/Charlotte1.png){:height="auto" width="100%"} 
 <!-- ![Banner](/assets/banner_hamburg.jpg){:height="auto" width="100%"} -->
 
+<h1>The Rusty Lusk Best Paper Award</h1>
+
+<img align="right" src="assets/eurompi-award.jpg" alt="The EuroMPI Best Paper Award" width="200">
+
+<img align="right" src="assets/zhou-award.jpg" alt="Hui Zhou with the EuroMPI Best Paper Award" width="200">
+
+This year's EuroMPI best paper award has been awarded to Hui Zhou, Kenneth Raffenetti, Mike Wilkins, Yanfei Guo and Rajeev Thakur for their paper *"Implementing True MPI Sessions and Evaluating MPI Initialization Scalability"*. The EuroMPI best paper award is being awarded in honor of the late Ewing "Rusty" Lusk who was instrumental in the creation of the MPI standard. Congratulations to the authors!
+
 <h1>Welcome to EuroMPI/USA'25</h1> 
   <p class="lead">October 1 - October 3 2025, Charlotte, NC, USA</p>
 
