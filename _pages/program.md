@@ -18,6 +18,8 @@ Breaks will be served in Room 262 of the student union. EuroMPI paper sessions w
 
 EuroMPI/USA is on <a href="https://bsky.app/profile/eurompiconf.bsky.social">Bluesky</a>!
 
+The proceedings are <a href="https://link.springer.com/book/9783032071934">available for pre-order</a>.
+
 ## Oct 1 - Day 1
 
 | Start | End   | Session |
