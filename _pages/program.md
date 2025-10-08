@@ -31,8 +31,8 @@ EuroMPI/USA is on <a href="https://bsky.app/profile/eurompiconf.bsky.social">Blu
 | 13:35 | 14:30 | [**Joint Keynote I - Amanda Randles (Duke University): HPC in Health: Scaling Vascular Digital Twins from Millions of Heartbeats to Petabytes of Data**](#randles) [Student Union Theatre] |
 | 14:30 | 15:00 | Coffee Break [Student Union 262] |
 | **15:30** | **17:00** | **Session I: Correctness** [Student Union 266] |
-| 15:00 | 15:30 | [**Verifying MPI API Usage Requirements with Contracts.**](#oraji) (Yussur Mustafa Oraji, [**Slides**](assets/slides/Yussur-Contracts.pdf)) |
-| 15:30 | 16:00 | [**Review of MPI Continuations and Their Integration into PMPI Tools.**](#optenhoefel) (Alexander Optenhöfel) |
+| 15:00 | 15:30 | [**Verifying MPI API Usage Requirements with Contracts.**](#oraji) (Yussur Mustafa Oraji, [**Slides**](assets/slides/Yussur-Contracts.pdf), [**Video**](https://youtu.be/wRCR28wCpMc?si=Ki5G3BqEpFi3ji_B)) |
+| 15:30 | 16:00 | [**Review of MPI Continuations and Their Integration into PMPI Tools.**](#optenhoefel) (Alexander Optenhöfel, [**Video**](https://youtu.be/A0F1h2I9MLU?si=qKT95JRhy55_UzUA)) |
 | 16:00 | 16:30 | [**Extending the SPMD IR for RMA Models and Static Data Race Detection.**](#burak) (Semih Burak) |
 
 ## Oct 2 - Day 2
@@ -43,13 +43,13 @@ EuroMPI/USA is on <a href="https://bsky.app/profile/eurompiconf.bsky.social">Blu
 | **9:00**  | **10:00**  | [**Joint Keynote II - Bob Lucas (Ansys): The evolutionary flexibility of LS-DYNA**](#lucas) [Union Theatre] |
 | 10:00 | 10:30 | Coffee Break  [Student Union 262]|
 | **10:30** | **11:30** | **Session II: Language Support (C++)** [Student Union 266] |
-| 10:30 | 11:00 | [**Layout-Agnostic MPI Abstraction for Distributed Computing in Modern C++.**](#klepl) (Jiří Klepl, [**Slides**](assets/slides/Klepl_Layout-Agnostic-MPI-Abstraction.pdf)) |
-| 11:00 | 11:30 | [**Concepts for designing modern C++ interfaces for MPI.**](#avans) (Tim Niklas Uhl, [**Slides**](assets/slides/Uhl-Concepts-C++.pdf)) |
+| 10:30 | 11:00 | [**Layout-Agnostic MPI Abstraction for Distributed Computing in Modern C++.**](#klepl) (Jiří Klepl, [**Slides**](assets/slides/Klepl_Layout-Agnostic-MPI-Abstraction.pdf), [**Video**](https://youtu.be/N_Y1BR1z0X8?si=K6UpcmIuQ3Bh3W21)) |
+| 11:00 | 11:30 | [**Concepts for designing modern C++ interfaces for MPI.**](#avans) (Tim Niklas Uhl, [**Slides**](assets/slides/Uhl-Concepts-C++.pdf), [**Video**](https://youtu.be/-DX_2Nf6d8M?si=xTahbQoqAE7-G6oI)) |
 | **11:30** | **12:00** | [**Lessons from MPICH**](#gropp) (Bill Gropp, Invited Talk, [**Slides**](assets/slides/Gropp_LessonsFromMPICH.pdf)) |
 | 12:00 | 13:30 | **Lunch Break with Poster Session** [Student Union 262] |
 | **13:30** | **15:00** | **Session III: Performance** [Student Union 266] |
-| 13:30 | 14:00 | [**Best Paper: Implementing True MPI Sessions and Evaluating MPI Initialization Scalability.**](#zhou) (Hui Zhou, [**Slides**](assets/slides/Zhou-True-Sessions.pdf)) |
-| 14:00 | 14:30 | [**On the Potential of Compression Hiding in MPI Applications.**](#li) (Yicheng Li, [**Slides**](assets/slides/Li-Compression-Hiding.pdf)) |
+| 13:30 | 14:00 | [**Best Paper: Implementing True MPI Sessions and Evaluating MPI Initialization Scalability.**](#zhou) (Hui Zhou, [**Slides**](assets/slides/Zhou-True-Sessions.pdf), [**Video**](https://youtu.be/EEgMjSSRJd4?si=K27vW8nR-_k3Ksj0)) |
+| 14:00 | 14:30 | [**On the Potential of Compression Hiding in MPI Applications.**](#li) (Yicheng Li, [**Slides**](assets/slides/Li-Compression-Hiding.pdf), [**Video**](https://youtu.be/6Qzrooqu5Ug?si=3lXTiK24oNywuoEl)) |
 | 14:30 | 15:00 | [**Performance analysis of OpenMPI on AMR applications over Slingshot-11.**](#moraru) (Maxim Moraru) |
 | 15:00 | 16:00 | Break |
 | 16:00 |       | Bus pickup in front of Student Union |
@@ -63,9 +63,9 @@ EuroMPI/USA is on <a href="https://bsky.app/profile/eurompiconf.bsky.social">Blu
 | **9:00**  | **10:00**  | [**Joint Keynote III: Damien Rouson (Berkeley Lab): Fortran Is All You Need**](#rouson) [Student Union 340A/Union Theatre] |
 | 10:00 | 10:30 | Coffee Break [Student Union 262] |
 | **10:30** | **11:30** | **Session IV: Multi-Threading** [Student Union 266] |
-| 10:30 | 11:00 | [**Examine MPI and its Extensions for Asynchronous Multithreaded Communication.**](#yan) (Jiakun Yan, [Slides](assets/slides/Yan_MPIext.pdf)) |
-| 11:00 | 11:30 | [**MPI Finally Needs to Deal with Threads.**](#schuchart) (Joseph Schuchart, [**Slides**](assets/slides/Schuchart-MPI-Threads.pdf)) |
-| **11:30** | **12:15** | **Panel: Towards MPI 6.0** (Bill Gropp, Hui Zhou, Hugo Taboada, Tim Uhl) [Student Union 266] |
+| 10:30 | 11:00 | [**Examine MPI and its Extensions for Asynchronous Multithreaded Communication.**](#yan) (Jiakun Yan, [Slides](assets/slides/Yan_MPIext.pdf), [**Video**](https://youtu.be/FScR-MWuwyE?si=Pu6TaPypsO6m-n3F)) |
+| 11:00 | 11:30 | [**MPI Finally Needs to Deal with Threads.**](#schuchart) (Joseph Schuchart, [**Slides**](assets/slides/Schuchart-MPI-Threads.pdf), [**Video**](https://youtu.be/rhmZWiMuMLc?si=XTnug8LNJUiZdlLt)) |
+| **11:30** | **12:15** | **Panel: Towards MPI 6.0** (Bill Gropp, Hui Zhou, Hugo Taboada, Tim Niklas Uhl) [Student Union 266] |
 | 12:00 | 13:30 | Lunch Break |
 | **13:30** | **14:30** | **Open Discussions** |
 | 14:30 | 15:45 | Closing Remarks and Goodbye |
