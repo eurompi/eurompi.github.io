@@ -1,5 +1,5 @@
 ---
-permalink: call
+permalink: proceedings_part
 ---
 
 ![Banner](/assets/Charlotte1.png){:height="auto" width="100%"}
