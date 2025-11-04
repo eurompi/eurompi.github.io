@@ -9,6 +9,8 @@ permalink: index
 
 The proceedings for EuroMPI/USA 2025 are now available from <a href="https://link.springer.com/book/10.1007/978-3-032-07194-1">Springer</a>.
 
+<center><a href="https://link.springer.com/book/10.1007/978-3-032-07194-1"><img src="../assets/springer_banner.png" height="auto" width="100%"></a></center>
+
 <h1>The Rusty Lusk Best Paper Award</h1>
 
 <!-- <img align="right" src="assets/eurompi-award.jpg" alt="The EuroMPI Best Paper Award" width="200"> -->
