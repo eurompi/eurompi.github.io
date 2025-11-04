@@ -6,6 +6,10 @@ permalink: program
 
 ![Banner](/assets/Charlotte1.png){:height="auto" width="100%"}
 
+# Proceedings
+
+The proceedings for EuroMPI/USA 2025 are now available via [Springer](https://link.springer.com/book/10.1007/978-3-032-07194-1).
+
 # MPI Forum
 
 The <a href="https://www.mpi-forum.org/meetings/2025/09/agenda">MPI Forum</a> will be held October 29-30, 2025 in UNC Charlotte's Student Union Rooms 263.
