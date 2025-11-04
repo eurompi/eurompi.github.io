@@ -8,7 +8,7 @@ permalink: proceedings_part
 
 <div class="text-justify conference-text">
 
-<p>Conference participants may access the proceedings free of charge for 4-6 weeks using the following <a href="https://link.springer.com/book/10.1007/978-3-032-07194-1">link</a>:
+<p>Conference participants may access the proceedings free of charge until December 15, 2025 using the following <a href="https://link.springer.com/book/10.1007/978-3-032-07194-1">link</a>:
 </p>
 
 <center><a href="https://link.springer.com/book/10.1007/978-3-032-07194-1"><img src="../assets/springer_banner.png" height="auto" width="100%"></a></center>
