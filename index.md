@@ -5,6 +5,10 @@ permalink: index
 ![Banner](/assets/Charlotte1.png){:height="auto" width="100%"} 
 <!-- ![Banner](/assets/banner_hamburg.jpg){:height="auto" width="100%"} -->
 
+<h1>Proceedings Available</h1>
+
+The proceedings for EuroMPI/USA 2025 are now available from <a href="https://link.springer.com/book/10.1007/978-3-032-07194-1">Springer</a>.
+
 <h1>The Rusty Lusk Best Paper Award</h1>
 
 <!-- <img align="right" src="assets/eurompi-award.jpg" alt="The EuroMPI Best Paper Award" width="200"> -->
