@@ -8,8 +8,8 @@ permalink: steering_committee
 
  The current members are:
 
-* Permenant Member: TBD
-* Permenant Member: TBD
+* Permanent Member: TBD
+* Permanent Member: TBD
 * Current Chair: Christoph Niethammer, HLRS
 * Past Chair: Joseph Schuchart, Stony Brook University
 * Previous Past Chair: Claudia Blaas-Schenner, VSC Research Center, TU Wein
@@ -18,28 +18,30 @@ permalink: steering_committee
 
 ### Responsibilities
 
-The steering commitee's primary responsibilities include selecting conference
-locations and the general chair as well as working with the MPI Forum to
+The steering committee's primary responsibilities include selecting conference
+locations and the general chair, as well as working with the MPI Forum to
 oversee financial stewardship for the conference.
 
-The committee can provide additional guidance to the conference general chair
+The committee can provide additional guidance to the conference general chair,
 but generally delegates all other responsibilities to them.
 
 ### Meetings
 
 Given that the membership will often overlap, the steering committee should
 meet with the same cadence as the MPI Forum, probably just before or after. It
-is the responsibility of the previous conference chair to organize the
+is the responsibility of the "past conference chair" to organize the
 meetings.
 
 ### Membership
 
-The Steering Committee is made up of two permenant members as well as the past
+The Steering Committee is made up of two permanent members as well as the past
 two general chairs and the current general chair. If a member of the steering
 committee needs to step down from their position, they may do so at the next
-steering committee meeting at which time the committee will appoint someone
-else to fulfil the term of the member stepping down (if not a permenant
+steering committee meeting, at which time the committee will appoint someone
+else to fulfil the term of the member stepping down (if not a permanent
 member).
+
+If a permanent member also fills the role of conference chair, past chair, or previous past chair, an additional member shall be appointed for the period of role duplication.
 
 ### Conference Norms
 
@@ -51,9 +53,9 @@ IWOMP conference and the MPI Forum in order to simplify logistics and cost.
 This requires coordinating with those two bodies in order to determine
 locations and finances.
 
-The conference generally occurs between mid September and early October. This
+The conference generally occurs between mid-September and early October. This
 means that the location and leadership of the conference needs to be
-established by the end of the previous year's conference so attendees can begin
+established by the end of the previous year's conference, so attendees can begin
 making plans to submit work and attend.
 
 Typical timelines for the calls for submission require papers to be submitted
@@ -70,3 +72,7 @@ split:
 * Poster Chair
 * Finance and Registration Chair
 * Local Chair
+
+Note, in recent years the finances of EuroMPI werre managed via a joint setup 
+with the MPI forum. In this case, the MPI Forum treasurer should be involved
+in the coordination.
