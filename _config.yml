@@ -18,12 +18,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "EuroMPI conference"
 title_separator          : "-"
-subtitle                 : "" 
-name                     : "Joseph Schuchart"
+subtitle                 : ""
+name                     : "EuroMPI Conference"
 description              : "EUROMPI/USA 2025"
-url                      : "https://eurompi23.github.io"
+url                      : "https://eurompi.github.io"
 baseurl                  : # "/_pages/2020/index"
-repository               : "eurompi23/eurompi25.github.io"
+repository               : "eurompi/eurompi.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/logo_no_frame.png"
 masthead_title           : " "
@@ -107,14 +107,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Joseph Schuchart"
+  name             : "EuroMPI Conferfence Organizers"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : ""
-  email            : joseph.schuchart at stonybrook.edu
+  email            : eurompiconference@gmail.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
 
 # Site Footer
