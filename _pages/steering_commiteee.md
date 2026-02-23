@@ -73,6 +73,6 @@ split:
 * Finance and Registration Chair
 * Local Chair
 
-Note, in recent years the finances of EuroMPI werre managed via a joint setup 
+Note, in recent years the finances of EuroMPI were managed via a joint setup 
 with the MPI forum. In this case, the MPI Forum treasurer should be involved
 in the coordination.
