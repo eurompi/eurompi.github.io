@@ -23,7 +23,7 @@ permalink: steering_committee
 
 ### Responsibilities
 
-The steering committee's primary responsibilities include selecting conference locations and the general chair, as well as working with the MPI Forum to oversee financial stewardship for the conference.
+The steering committee's primary responsibilities include selecting conference locations and the general chair, providing long-term strategic guidance, as well as working with the MPI Forum to oversee financial stewardship for the conference.
 
 The committee can provide additional guidance to the conference general chair, but generally delegates all other responsibilities to them.
 
@@ -33,7 +33,7 @@ Given that the membership will often overlap, the steering committee should meet
 
 ### Membership
 
-The Steering Committee is made up of two standing members as well as the past two general chairs and the current general chair. If a member of the steering committee needs to step down from their position, they may do so at the next steering committee meeting, at which time the committee will appoint someone else to fulfil the term of the member stepping down.
+The Steering Committee is made up of two standing members as well as the past two general chairs, the current general chair, and the general chair of the following event as soon as one has been appointed. If a member of the steering committee needs to step down from their position, they may do so at the next steering committee meeting, at which time the committee will appoint someone else to fulfil the term of the member stepping down.
 
 If a permanent member also fills the role of conference chair, past chair, or previous past chair, an additional member shall be appointed for the period of role duplication.
 
@@ -45,7 +45,7 @@ The rest of this document describes the norms for organizing the conference, but
 
 The current custom of the conference is to co-locate with both a meeting of the IWOMP conference and the MPI Forum in order to simplify logistics and cost. This requires coordinating with those two bodies in order to determine locations and finances.
 
-The conference generally occurs between mid-September and early October. This means that the location and leadership of the conference needs to be established by the end of the previous year's conference, so attendees can begin\ making plans to submit work and attend.
+The conference generally occurs between mid-September and early October. This means that the location and leadership of the conference needs to be established by the end of the previous year's conference, so attendees can begin making plans to submit work and attend.
 
 Typical timelines for the calls for submission require papers to be submitted in late May or early June, which means the calls should be published early in the year.
 
