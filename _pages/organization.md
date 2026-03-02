@@ -138,4 +138,4 @@ permalink: organization
 </div>
 --->
 
-Information about the steering committee can be found <a href="steering_committee/">here</a>.
+Information about the steering committee can be found <a href="steering_committee">here</a>.
