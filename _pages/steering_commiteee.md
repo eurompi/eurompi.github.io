@@ -33,7 +33,9 @@ Given that the membership will often overlap, the steering committee should meet
 
 ### Membership
 
-The Steering Committee is made up of two standing members as well as the past two general chairs, the current general chair, and the general chair of the following event as soon as one has been appointed. If a member of the steering committee needs to step down from their position, they may do so at the next steering committee meeting, at which time the committee will appoint someone else to fulfil the term of the member stepping down.
+The Steering Committee is made up of two standing members, the current MPI Forum Treasurer, as well as the past two general chairs, the current general chair, and the general chair of the following event as soon as one has been appointed. The MPI Forum Treasurer needs to be present because the finances for the EuroMPI conference and the MPI Forum are joined together and managed by Software in the Public Interest ([SPI](https://www.spi-inc.org/projects/mpi-forum/)).
+
+If a member of the steering committee needs to step down from their position, they may do so at the next steering committee meeting, at which time the committee will appoint someone else to fulfil the term of the member stepping down.
 
 If a permanent member also fills the role of conference chair, past chair, or previous past chair, an additional member shall be appointed for the period of role duplication.
 
