@@ -16,7 +16,7 @@ permalink: steering_committee
   * Term Expiry: 2028
 * Past Chair: Joseph Schuchart, Stony Brook University
   * Term Expiry: 2027
-* Previous Past Chair: Claudia Blaas-Schenner, VSC Research Center, TU Wein
+* Previous Past Chair: Claudia Blaas-Schenner, ASC Research Center, TU Wien
   * Term Expiry: 2026
 
 ## Bylaws
