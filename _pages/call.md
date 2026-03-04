@@ -2,7 +2,7 @@
 permalink: call
 ---
 
-![Banner](/assets/Charlotte1.png){:height="auto" width="100%"}
+![Banner](/assets/Vienna.png){:height="auto" width="100%"}
 
 <h1>Call for Paper</h1>
 
