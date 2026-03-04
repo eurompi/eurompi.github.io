@@ -2,35 +2,40 @@
 permalink: organization
 ---
 
-![Banner](/assets/Charlotte1.png){:height="auto" width="100%"}
+![Banner](/assets/Vienna.png){:height="auto" width="100%"}
 
 <h1>Organizers</h1>
 
 <div id="divcommittee">
 
-  <div style="display: flex; flex-direction:row;">
-     <div style="margin-top: 10px;"><img src="assets/Schuchart4-crop.jpg" alt="Joseph" width="120" height="120" /></div>
-    <div style="margin-left: 30px;"> <p><b>Joseph Schuchart</b>, Stony Brook University</p> <p>General chair, Publication co-chair</p> </div> 
-  </div> 
-
   <div style="display: flex; flex-direction:row;"> 
      <div style="margin-top: 10px;"><img src="assets/ChristophNiethammer.png" alt="Christoph" width="120" height="120" /></div>
-    <div style="margin-left: 30px; margin-top: 10px;"><p><b>Christoph Niethammer</b>, HLRS</p> <p>Program chair</p></div>
-  </div>
-
-  <div style="display: flex; flex-direction:row;"> 
-     <div style="margin-top: 10px;"><img src="assets/hunsa_2024.jpeg" alt="Sascha" width="120" height="120" /></div>
-    <div style="margin-left: 30px; margin-top: 10px;"><p><b>Sascha Hunold</b>, TU Wien</p> <p>Publication chair</p></div>
+    <div style="margin-left: 30px; margin-top: 10px;"><p><b>Christoph Niethammer</b>, HLRS</p> <p>General chair, Publication chair</p></div>
   </div>
 
   <div style="display: flex; flex-direction:row;"> 
     <div><img src="assets/julien.jpg" alt="Julien" width="120" height="120" /></div>
-    <div style="margin-left: 30px; margin-top: 10px;"><p><b>Julien Jaeger</b>, CEA</p> <p>Program co-chair</p></div>
+    <div style="margin-left: 30px; margin-top: 10px;"><p><b>Julien Jaeger</b>, CEA</p> <p>Program chair, Publicity co-chair</p></div>
   </div>
 
+
+  <div style="display: flex; flex-direction:row;"> 
+    <div><img src="assets/anon1.jpeg" alt="Tim" width="120" height="120" /></div>
+    <div style="margin-left: 30px; margin-top: 10px;"><p><b>Tim Niklas Uhl</b>, KIT</p> <p>Program co-chair</p></div>
+  </div>
+
+ <div style="display: flex; flex-direction:row;">
+     <div style="margin-top: 10px;"><img src="assets/Schuchart4-crop.jpg" alt="Joseph" width="120" height="120" /></div>
+    <div style="margin-left: 30px;"> <p><b>Joseph Schuchart</b>, Stony Brook University</p> <p>Publication co-chair</p> </div> 
+  </div> 
+
+   <div style="display: flex; flex-direction:row;"> 
+     <div style="margin-top: 10px;"><img src="assets/Hugo.jpg" alt="Hugo" width="120" height="120" /></div>
+    <div style="margin-left: 30px; margin-top: 10px;"><p><b>Hugo Taboada</b>, CEA</p> <p>Poster session chair</p></div>
+  </div>
    <div style="display: flex; flex-direction:row;">
-     <div style="margin-top: 10px;"><img src="assets/abouteiller.png" alt="Aurelien" width="120" height="120" /></div>
-     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Aurelien Bouteiller</b>, AMD</p> <p> Poster chair</p> </div> 
+     <div style="margin-top: 10px;"><img src="assets/anon1.jpeg" alt="Martin" width="120" height="120" /></div>
+     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Martin Schreiber</b>, Université Grenobles Alpes</p> <p> Publicity chair</p> </div> 
    </div> 
 
    <div style="display: flex; flex-direction:row;">
@@ -39,8 +44,8 @@ permalink: organization
    </div>
 
    <div style="display: flex; flex-direction:row;">
-     <div style="margin-top: 10px;"><img src="assets/yanyh2018.jpg" alt="Yonghong" width="120" height="120" /></div> 
-     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Yonghong Yan</b>, University of North Carolina, Charlotte</p> <p>Local Chair</p></div> 
+     <div style="margin-top: 10px;"><img src="assets/anon1.jpeg" alt="Claudia" width="120" height="120" /></div> 
+     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Claudia Blaas-Schenner</b>, TU Wien</p> <p>Local Chair and Finance co-chair</p></div> 
    </div> 
    
 
@@ -52,6 +57,10 @@ permalink: organization
       <div class="card-header text-white bg-inverse">
          <i class="mr"></i><strong>Technical Program Committee (Paper)</strong>
       </div>
+ <div class="card-block bg-faded committee" style="padding: 5px">
+         <p>TBD</p>
+<!---
+2025
       <div class="card-block bg-faded committee" style="padding: 5px">
          <p>Stefano Markidis, KTH Royal Institute of Technology</p>
          <p>Kento Sato, RIKEN R-CCS</p>
@@ -82,7 +91,7 @@ permalink: organization
          <p>Jed	Brown, University of Colorado Boulder</p>
 	 <p>Quincey Koziol, NVIDIA Inc.</p>
          <p>Sayan Ghosh, PNNL</p>
-       
+--->       
 <!---
           <p>Bland Wesley, Meta, USA</p>
           <p>Subramoni Hari, Ohio State University, USA</p>

@@ -2,25 +2,11 @@
 permalink: index
 ---
 
-![Banner](/assets/Charlotte1.png){:height="auto" width="100%"} 
+![Banner](/assets/Vienna.png){:height="auto" width="100%"} 
 <!-- ![Banner](/assets/banner_hamburg.jpg){:height="auto" width="100%"} -->
 
-<h1>Proceedings Available</h1>
-
-The proceedings for EuroMPI/USA 2025 are now available from <a href="https://link.springer.com/book/10.1007/978-3-032-07194-1">Springer</a>.
-
-<center><a href="https://link.springer.com/book/10.1007/978-3-032-07194-1"><img src="../assets/springer_banner.png" height="auto" width="100%"></a></center>
-
-<h1>The Rusty Lusk Best Paper Award</h1>
-
-<!-- <img align="right" src="assets/eurompi-award.jpg" alt="The EuroMPI Best Paper Award" width="200"> -->
-
-<img align="right" src="assets/zhou-award.jpg" alt="Hui Zhou with the EuroMPI Best Paper Award" width="100">
-
-This year's EuroMPI best paper award has been awarded to Hui Zhou, Kenneth Raffenetti, Mike Wilkins, Yanfei Guo and Rajeev Thakur for their paper *"Implementing True MPI Sessions and Evaluating MPI Initialization Scalability"*. The EuroMPI best paper award is being awarded in honor of the late Ewing "Rusty" Lusk who was instrumental in the creation of the MPI standard. Congratulations to the authors!
-
-<h1>Welcome to EuroMPI/USA'25</h1> 
-  <p class="lead">October 1 - October 3 2025, Charlotte, NC, USA</p>
+<h1>Welcome to EuroMPI'26</h1> 
+  <p class="lead">October 7 - October 9 2026, Vienna, Austria</p>
 
 
 <div style="display: flex; flex-direction:row;">
@@ -29,7 +15,7 @@ This year's EuroMPI best paper award has been awarded to Hui Zhou, Kenneth Raffe
 
 
   <p>
-  In 2025, EuroMPI Conference will take place in Charlotte, NC in the week of October 1 - October 3, 2025. The conference will be co-located with the <a href="https://www.iwomp.org">21th International Workshop on OpenMP (IWOMP 2025)</a> that will be held the same week. The MPI Forum will also meet following the EuroMPI Conference. The dates will be updated once we get closer to the event.
+  In 2026, EuroMPI Conference will take place in Vienna, Austria, in the week of October 7 - October 9, 2026. The conference will be co-located with the <a href="https://www.iwomp.org">22th International Workshop on OpenMP (IWOMP 2026)</a> that will be held the same week. The MPI Forum will also meet following the EuroMPI Conference. The dates will be updated once we get closer to the event.
   </p>
 
   <p>
@@ -39,7 +25,7 @@ This year's EuroMPI best paper award has been awarded to Hui Zhou, Kenneth Raffe
   <p>
   Through the presentation of contributed papers, posters and invited talks, the conference presents a complete overview of MPI, its current usage in the parallel programming landscape, and its future directions. The EuroMPI conference provides ample opportunities for attendees to interact and share ideas and experiences to contribute to the improvement and furthering of message-passing and related parallel programming paradigms.
   </p>
-
+<!---
 <p>
 EuroMPI/USA is made possible through the generous support of the following organisations and sponsors.
 <table border="0">
@@ -51,7 +37,9 @@ EuroMPI/USA is made possible through the generous support of the following organ
 </table>
 </p>
 </div>
+--->
 
+<!---
   <div id="divcard"> 
   {% include card-important-dates.html %}
 
@@ -62,30 +50,17 @@ EuroMPI/USA is made possible through the generous support of the following organ
   </div>
 
 </div>
-
+--->
 
 <div class="text-justify conference-text">
 
 <h2>Contact</h2>
 
-EuroMPI/USA is on <a href="https://bsky.app/profile/eurompiconf.bsky.social">Bluesky</a>!
+<!--- EuroMPI/USA is on <a href="https://bsky.app/profile/eurompiconf.bsky.social">Bluesky</a>! --->
 
 <p>For queries relating to the conference or research papers (submission, deadlines, publishing, etc.) please contact <a href="eurompiconference@gmail.com">eurompiconference@gmail.com</a></p>
 
 </div>
 
 
-<!---
-<div class="text-justify conference-text">
 
-<h2>Sponsors</h2>
-Thanks to our sponsors for their contribution to the success of the event.
-<p> </p>
-
-<div style="display: flex; flex-direction:row;">
-    <div style="margin-left: 30px; margin-top: 30px"><img src="assets/HPE_logo.png" alt="HPE" width="190" height="170" /></div>
-    <div style="margin-left: 150px;"><img src="assets/LOGO_CEA.png" alt="CEA" width="140" height="140" /></div>
-    <div style="margin-left: 150px; margin-top: 40px"><img src="assets/University_of_Bristol_logo.png" alt="Univ" width="190" height="190" /></div>
-</div>
-</div>
---->
