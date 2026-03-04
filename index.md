@@ -36,18 +36,20 @@ EuroMPI/USA is made possible through the generous support of the following organ
   </tr>
 </table>
 </p>
+-->
 </div>
---->
 
 
   <div id="divcard"> 
   {% include card-important-dates.html %}
-<!--
+
   <div class="text-justify conference-text">
+<!--
   <h2>Register</h2>
+
   <a href="https://eurompi.org/register">Registration</a> is open. Early bird rates end <b>August 31, 2025</b>!
-  </div>
 -->
+  </div>
   </div>
 
 </div>
