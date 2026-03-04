@@ -2,13 +2,16 @@
 permalink: venue
 ---
 
-![Banner](/assets/Charlotte1.png){:height="auto" width="100%"}
+![Banner](/assets/Vienna.png){:height="auto" width="100%"}
 
 <h1>Venue</h1>
 
-<p>EuroMPI/USA 2025, IWOMP and the MPI Forum will be located on the <a href="https://www.charlotte.edu/">University of North Carolina, Charlotte</a>.</p>
+<p>EuroMPI 2026, IWOMP and the MPI Forum will be located at <a href="https://www.tuwien.at/en/">TU Wien</a>, in the center of Vienna, Austria.</p>
+
+More information about the venue and access will be posted later.
 
 
+<!---
 The High Performance Computing and Systems lab at UNC performs cutting-edge research on topics facilitating the development, optimization, and expansion of the fastest computers in the world. Their faculty members work in a wide breadth of areas including compilers, algorithms, file systems, storage, memory, compression, and parallel computing. <a href="https://hpcs.charlotte.edu/">More here</a>.
 
 
@@ -61,3 +64,5 @@ TBD
 <h3>VISA Invitation Letters</h3>
 
 If you require an invitation letter to apply for a visa to attend the conference please contact the local organizer or <a href="mailto:eurompiconference@gmail.com">eurompiconference@gmail.com</a>with your full name, affiliation and home address.
+
+--->

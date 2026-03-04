@@ -2,7 +2,7 @@
 permalink: proceedings_part
 ---
 
-![Banner](/assets/Charlotte1.png){:height="auto" width="100%"}
+![Banner](/assets/Vienna.png){:height="auto" width="100%"}
 
 <h1>Proceedings for Participants</h1>
 

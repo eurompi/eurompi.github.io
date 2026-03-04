@@ -4,8 +4,11 @@ permalink: program
 
 <script type="text/javascript" src="/assets/js/timeconvert.js"></script>
 
-![Banner](/assets/Charlotte1.png){:height="auto" width="100%"}
+![Banner](/assets/Vienna.png){:height="auto" width="100%"}
 
+Program will be posted after papers and posers selection.
+
+<!---
 # Proceedings
 
 The proceedings for EuroMPI/USA 2025 are now available via [Springer](https://link.springer.com/book/10.1007/978-3-032-07194-1).
@@ -177,3 +180,6 @@ The increasing complexity of HPC architectures and the growing adoption of irreg
 **Authors**: Joseph Schuchart, Joachim Jenke and Simon Schwitanski
 
 The Message Passing Interface (MPI) standard has long been a cornerstone of parallel computing, enabling multi-threaded processes to communicate effectively. However, integrating multi-threading with MPI is not as straightforward as it might seem. MPI must function optimally in a multi-threaded environment, which requires robust thread support. The description provided by MPI about how multiple application threads may interact with MPI forms a contract for guarantees that applications can rely on and that implementations must provide, and vice versa. We find that the definitions regarding multi-threaded behavior provided by MPI are imprecise, which leads to differing interpretations and potential over- or undercommitment of computational resources in order to provide their perceived semantics. We provide an analysis of relevant parts of the MPI standard dealing with multi-threading and provide proposals for definitions of concurrency, conflicts, and race conditions, which we hope will clarify the guarantees that are part of the contract between MPI multi-threaded applications and implementations.
+
+
+--->
