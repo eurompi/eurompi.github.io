@@ -9,6 +9,7 @@ permalink: archive
 <div style="display: flex; flex-direction:row;">
 
 <div id="divtext" class="text-justify conference-text">
+<p><b>2025</b> <a href="https://eurompi.org/eurompi25.github.io/">Charlotte, NC, USA</a> (<a href="https://link.springer.com/book/10.1007/978-3-032-07194-1">Proceedings</a>)</p>
 <p><b>2024</b> <a href="https://events.vsc.ac.at/event/123/">Perth, Australia</a> (<a href="https://link.springer.com/book/10.1007/978-3-031-73370-3">Proceedings</a>)</p>
 <p><b>2023</b> <a href="https://eurompi23.github.io/">Bristol, UK</a> (<a href="https://dl.acm.org/doi/proceedings/10.1145/3615318">Proceedings</a>)</p>
 <p><b>2022</b> <a href="https://sites.google.com/view/eurompiusa2022/home">Chattanooga, TN, USA</a> (<a href="https://dl.acm.org/doi/proceedings/10.1145/3555819">Proceedings</a>)</p>
