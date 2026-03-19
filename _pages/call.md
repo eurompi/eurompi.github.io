@@ -60,8 +60,8 @@ permalink: call
 <li> Submission deadline : <b>April 27, 2026 AoE</b></li>
 <li> Paper notification: <b>June 10, 2026 AoE</b></li>
 <li> Paper camera ready: <b>July 1, 2026 AoE</b></li>
-<li> Poster abstract submission deadline: <b> TBD</b></li>
-<li> Poster notification: <b>TBD</b></li>
+<li> Poster abstract submission deadline: <b>July 1, 2026 AoE</b></li>
+<li> Poster notification: <b>July 15, 2026 AoE</b></li>
 <!-- <li> Camera-ready version: TBD</li> -->
 </ul>
 
