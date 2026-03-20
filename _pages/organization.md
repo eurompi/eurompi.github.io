@@ -13,8 +13,14 @@ permalink: organization
     <div style="margin-left: 30px; margin-top: 10px;"><p><b>Christoph Niethammer</b>, HLRS</p> <p>General chair, Publication chair</p></div>
   </div>
 
+   <div style="display: flex; flex-direction:row;">
+     <div style="margin-top: 10px;"><img src="assets/Martin_schreiber.jpg" alt="Martin" width="120" height="120" /></div>
+     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Martin Schreiber</b>, Université Grenobles Alpes</p> <p> General co-chair, Publicity chair</p> </div> 
+   </div> 
+
+
   <div style="display: flex; flex-direction:row;"> 
-    <div><img src="assets/julien.jpg" alt="Julien" width="120" height="120" /></div>
+    <div><img src="assets/julien_jaeger.jpg" alt="Julien" width="120" height="120" /></div>
     <div style="margin-left: 30px; margin-top: 10px;"><p><b>Julien Jaeger</b>, CEA</p> <p>Program chair, Publicity co-chair</p></div>
   </div>
 
@@ -30,13 +36,9 @@ permalink: organization
   </div> 
 
    <div style="display: flex; flex-direction:row;"> 
-     <div style="margin-top: 10px;"><img src="assets/Hugo.jpg" alt="Hugo" width="120" height="120" /></div>
+     <div style="margin-top: 10px;"><img src="assets/Hugo_Taboada.jpg" alt="Hugo" width="120" height="120" /></div>
     <div style="margin-left: 30px; margin-top: 10px;"><p><b>Hugo Taboada</b>, CEA</p> <p>Poster session chair</p></div>
   </div>
-   <div style="display: flex; flex-direction:row;">
-     <div style="margin-top: 10px;"><img src="assets/anon1.jpeg" alt="Martin" width="120" height="120" /></div>
-     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Martin Schreiber</b>, Université Grenobles Alpes</p> <p> Publicity chair</p> </div> 
-   </div> 
 
    <div style="display: flex; flex-direction:row;">
      <div style="margin-top: 10px;"><img src="assets/BrianSmith.png" alt="Brian" width="120" height="120" /></div> 
