@@ -70,10 +70,10 @@ permalink: call
 
 <h2>Papers</h2>
 
-Authors are invited to submit original research papers in accordance with the <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">LNCS formatting and submission guidelines</a>. Submissions must adhere to the official LNCS template and comply with the <a href="https://www.springernature.com/gp/authors/book-authors-code-of-conduct">Springer Nature Authors’ Code of Conduct</a>. Full papers should be between 12 and 15 pages in length.
+<p>Authors are invited to submit original research papers in accordance with the <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">LNCS formatting and submission guidelines</a>. Submissions must adhere to the official LNCS template and comply with the <a href="https://www.springernature.com/gp/authors/book-authors-code-of-conduct">Springer Nature Authors’ Code of Conduct</a>. Full papers should be between 12 and 15 pages in length.</p>
 
-All submissions must be made electronically via the EasyChair system at the following link:
-<a href="https://easychair.org/conferences/?conf=eurompi2026">https://easychair.org/conferences/?conf=eurompi2026</a>
+<p>All submissions must be made electronically via the EasyChair system at the following link:
+<a href="https://easychair.org/conferences/?conf=eurompi2026">https://easychair.org/conferences/?conf=eurompi2026</a></p>
 
 
 <!---
