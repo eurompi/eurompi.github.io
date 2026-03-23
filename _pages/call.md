@@ -8,13 +8,13 @@ permalink: call
 
 <div class="text-justify conference-text">
 
-<p>EuroMPI 2026 will continue to focus on advancing the ubiquitous Message Passing Interface (MPI) model and specification of parallel programming. It will also encompass extensions and alternative interfaces for high-performance heterogeneous and hybrid systems, benchmarks, tools, parallel I/O, fault tolerance, and parallel applications using MPI and other interfaces.</p>  
+<p>EuroMPI 2026 will continue to focus on advancing the ubiquitous Message Passing Interface (MPI) model and specification for parallel programming. It will also encompass extensions and alternative interfaces for high-performance heterogeneous and hybrid systems, benchmarks, tools, parallel I/O, fault tolerance, and parallel applications using MPI and other interfaces.</p>  
 
 <p>EuroMPI 2026 will be hosted by TU Wien, in the center of Vienna, Austria and will be co-located with <a href="https://www.iwomp.org/">IWOMP 2026</a> (October 7 - October 9, 2026), with joint tutorials, and opportunities for interaction between the two communities.</p>
 
 <p>Through the presentation of full papers, position papers, posters, and invited talks, the meeting will provide ample opportunities for attendees to interact and share ideas and experiences to contribute to the improvement and furthering of message-passing and related parallel programming paradigms.</p>
 
-<p>Having EuroMPI, IWOMP and the MPI Forum grouped together provides enables attendees to interact and share ideas and experiences to contribute to the improvement and furthering of message-passing, shared-memory parallelism, and related parallel programming paradigms -- and their combined usage.</p>
+<p>Having EuroMPI, IWOMP, and the MPI Forum grouped together enables attendees to engage across communities and contribute to the advancement of message passing, shared-memory parallelism, and related parallel paradigms -- including their combined use.</p>
 
 
 
@@ -26,7 +26,7 @@ permalink: call
 <li> <b>Message Passing for accelerator-based compute architectures</b>, including multi-GPU, TPU, and AI-accelerator systems.</li>
 <li> <b>Programming models and paradigms</b> related to MPI targeting large-scale, parallel, distributed memory systems, hierarchical and hybrid models, partitioned global address space (PGAS) models.</li>
 <li> <b>Extensions to and shortcomings of MPI</b>: alternative interfaces and solutions.</li>
-<li> <b>New, parallel (MPI-)I/O mechanisms optimizations</b>.</li>
+<li> <b>Parallel I/O</b>: New mechanisms and optimizations for (MPI-)I/O.</li>
 <li> <b>Hybrid and heterogeneous programming</b> with MPI and other interfaces.</li>
 <li> Message passing interface support for <b>data-intensive parallel applications</b>.</li>
 <li> <b>Fault tolerance</b> in message-passing implementations and systems.</li>
@@ -38,11 +38,11 @@ permalink: call
 <li> <b>Parallel algorithms</b> in the message-passing paradigm.</li>
 <li> <b>Interactions</b> between the message-passing library and runtime systems.</li>
 <li> Use of MPI in <b>Artificial Intelligence (AI) and Large Language Models (LLM)</b> and its challenges</li>
-<li> Integration and comparisons with competing industry standards (e.g., NCCL, RCCL)</li>
+<li> <b>Competing standards</b>: Integration with and comparison to competing industry standards (e.g., NCCL, RCCL)</li>
 </ul>
 
 
-<p>Papers will be reviewed for quality, originality, clarity, correctness, technical strength, and relevance to the topics of the meeting. Each paper will receive at least three reviews from members of the program committee. Reviews are <b>single-anonymous</b> (but not double-anonymous); the names of the authors will be seen by the program committee.</p>
+<p>Papers will be reviewed based on quality, originality, clarity, correctness, technical strength, and relevance. Each paper submission will receive at least three reviews from members of the program committee. Reviews are <b>single-anonymous</b> (but not double-anonymous); the identities of authors will be visible to the program committee.</p>
 
 <!---
 
@@ -50,7 +50,7 @@ permalink: call
 
 --->
 
-<p>Papers that are not accepted for presentation as full papers may be recommended for poster presentations. High-quality short papers will be included in the proceedings. Posters will be published informally on the website, but are not intended to appear in the regular conference proceedings. Even without official proceedings, we consider posters as a good opportunity to present early work to the community, which can lead to discussions, constructive feedbacks, and collaboration opportunities.</p>
+<p>Papers not accepted for presentation may be recommended for poster presentations. Posters will be published informally on the website, but are not intended to appear in the regular conference proceedings. Posters provide an excellent opportunity to present early-stage work to the community, which can lead to discussions, constructive feedback, and collaboration opportunities.</p>
 
 
 
@@ -70,7 +70,11 @@ permalink: call
 
 <h2>Papers</h2>
 
-Submission guidelines and links will come soon.
+Authors are invited to submit original research papers in accordance with the <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">LNCS formatting and submission guidelines</a>. Submissions must adhere to the official LNCS template and comply with the <a href="https://www.springernature.com/gp/authors/book-authors-code-of-conduct">Springer Nature Authors’ Code of Conduct</a>. Full papers should be between 12 and 15 pages in length.
+
+All submissions must be made electronically via the EasyChair system at the following link:
+<a href="https://easychair.org/conferences/?conf=eurompi2026">https://easychair.org/conferences/?conf=eurompi2026</a>
+
 
 <!---
 <p>To be considered, papers must use the <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">Springer LNCS</a> proceedings template. An <a href="https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi">Overleaf template</a> is available as well. Full papers should be <b>at least 12 and at most 16 pages</b>, including figures and tables but excluding references. Short papers may be <b>between 6 and 9 pages</b>. Margins, spacing, and font sizes should not be modified from the template.</p>
