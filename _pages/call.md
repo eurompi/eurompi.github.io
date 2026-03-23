@@ -88,4 +88,6 @@ Note that at least one of the authors of each paper accepted for presentation in
 <p>We welcome the submission of abstracts for posters to be presented during a dedicated poster session. These abstracts should not exceed 2 pages (excluding references) and should use the <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">Springer LNCS</a> proceedings template, submitted through the <a href="https://easychair.org/conferences?conf=eurompiusa2025">EasyChair submission site</a>. The deadline for submitting poster abstracts is <b><s>July 16, 2025</s> August 1, 2025</b>.</p>
 --->
 
+<h2>Proceedings</h2>
 
+<p>EuroMPI 2026 will publish accepted papers in Springer’s Lecture Notes in Computer Science (LNCS) series. Authors of accepted papers must sign the publisher's licence-to-publish agreement. A pre-filled form will be made available on the conference website.</p>
