@@ -60,27 +60,27 @@ permalink: organization
          <i class="mr"></i><strong>Technical Program Committee (Paper)</strong>
       </div>
  <div class="card-block bg-faded committee" style="padding: 5px">
-         <p>Purushotham Bangalore, University of Alabama </p>
-         <p>Fabien Chaix, FORTH</p>
-         <p>Cédric Chevaier, CEA</p>
-         <p>Alfredo Correa, Lawrence Livermore National Laboratory</p>
-         <p>Bioagio Cosenza, University of Salerno</p>
-         <p>Daniele De Sensi, University of Rome</p>
-         <p>Matthew Dosanjh, Sandia National Laboratory</p>
-         <p>Fabrice Dupros, AMD</p>
-         <p>Sayan Ghosh, Pacific Northwest National Laboratory</p>
-         <p>William Gropp, University of Illinois Urbana-Champaign</p>
-         <p>Sonja Happ, ParTec</p>
-         <p>Sascha Hunold, TU Wien</p>
-         <p>Emily Kahl, Pawsey</p>
-         <p>Van-Man Nguyen, Bull</p>
-         <p>Howard Pritchard, Los Alamos National Laboratory</p>
-         <p>Emmanuelle Saillard, Inria</p>
-         <p>Hari Subramoni, Ohio State University</p>
-         <p>Shinji Sumimoto, University of Tokyo</p>
-         <p>Ahmad Tarraf, TU Darmstadt</p>
-         <p>Rajeev Thakur, Argonne National Laboratory</p>
-         <p>Hui Zhou, Argonne National Laboratory</p>
+         <p><b>Purushotham Bangalore</b>, University of Alabama </p>
+         <p><b>Fabien Chaix</b>, FORTH</p>
+         <p><b>Cédric Chevaier</b>, CEA</p>
+         <p><b>Alfredo Correa</b>, LLNL</p>
+         <p><b>Bioagio Cosenza</b>, University of Salerno</p>
+         <p><b>Daniele De Sensi</b>, University of Rome</p>
+         <p><b>Matthew Dosanjh</b>, SNL</p>
+         <p><b>Fabrice Dupros</b>, AMD</p>
+         <p><b>Sayan Ghosh</b>, PNNL</p>
+         <p><b>William Gropp</b>, UIUC</p>
+         <p><b>Sonja Happ</b>, ParTec</p>
+         <p><b>Sascha Hunold</b>, TU Wien</p>
+         <p><b>Emily Kahl</b>, Pawsey</p>
+         <p><b>Van-Man Nguyen</b>, Bull</p>
+         <p><b>Howard Pritchard</b>, LANL</p>
+         <p><b>Emmanuelle Saillard</b>, Inria</p>
+         <p><b>Hari Subramoni</b>, Ohio State University</p>
+         <p><b>Shinji Sumimoto</b>, University of Tokyo</p>
+         <p><b>Ahmad Tarraf</b>, TU Darmstadt</p>
+         <p><b>Rajeev Thakur</b>, ANL</p>
+         <p><b>Hui Zhou</b>, ANL</p>
 
 
 
