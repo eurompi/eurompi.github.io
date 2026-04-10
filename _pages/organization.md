@@ -60,7 +60,38 @@ permalink: organization
          <i class="mr"></i><strong>Technical Program Committee (Paper)</strong>
       </div>
  <div class="card-block bg-faded committee" style="padding: 5px">
-         <p>TBD</p>
+         <p>Purushotham Bangalore, University of Alabama </p>
+         <p>Fabien Chaix, FORTH</p>
+         <p>Cédric Chevaier, CEA</p>
+         <p>Alfredo Correa, Lawrence Livermore National Laboratory</p>
+         <p>Bioagio Cosenza, University of Salerno</p>
+         <p>Daniele De Sensi, University of Rome</p>
+         <p>Matthew Dosanjh, Sandia National Laboratory</p>
+         <p>Fabrice Dupros, AMD</p>
+         <p>Sayan Ghosh, Pacific Northwest National Laboratory</p>
+         <p>William Gropp, University of Illinois Urbana-Champaign</p>
+         <p>Sonja Happ, ParTec</p>
+         <p>Sascha Hunold, TU Wien</p>
+         <p>Emily Kahl, Pawsey</p>
+         <p>Van-Man Nguyen, Bull</p>
+         <p>Howard Pritchard, Los Alamos National Laboratory</p>
+         <p>Emmanuelle Saillard, Inria</p>
+         <p>Hari Subramoni, Ohio State University</p>
+         <p>Shinji Sumimoto, University of Tokyo</p>
+         <p>Ahmad Tarraf, TU Darmstadt</p>
+         <p>Rajeev Thakur, Argonne National Laboratory</p>
+         <p>Hui Zhou, Argonne National Laboratory</p>
+
+
+
+
+
+
+
+
+
+
+
 <!---
 2025
       <div class="card-block bg-faded committee" style="padding: 5px">
