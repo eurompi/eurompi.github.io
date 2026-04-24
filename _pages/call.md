@@ -54,10 +54,10 @@ permalink: call
 
 
 
-<h1>Important Dates (are subject to changes in the following weeks)</h1>
+<h1>Important Dates</h1>
 <ul>
-<li> Abstract deadline :  <b>April 20, 2026 AoE</b></li>
-<li> Submission deadline : <s>April 27, 2026 AoE</s> <b>May 22, 2026 AoE</b></li>
+<li> <s>Abstract deadline :  April 20, 2026 AoE</s></li>
+<li> Abstract & Paper deadline : <s>April 27, 2026 AoE</s> <b>May 22, 2026 AoE</b></li>
 <li> Paper notification: <b>June 10, 2026 AoE</b></li>
 <li> Paper camera ready: <b>July 1, 2026 AoE</b></li>
 <li> Poster abstract submission deadline: <b>July 1, 2026 AoE</b></li>
