@@ -57,7 +57,7 @@ permalink: call
 <h1>Important Dates</h1>
 <ul>
 <li> <s>Abstract deadline :  April 20, 2026 AoE</s></li>
-<li> Abstract & Paper deadline : <s>April 27, 2026 AoE</s> <b>May 22, 2026 AoE</b></li>
+<li> Abstract & Paper deadline : <s>April 27, 2026 AoE</s> <s>May 22, 2026 AoE</s> <b>May 26, 2026 AoE (*FINAL EXTENSION*)</b></li>
 <li> Paper notification: <b>June 10, 2026 AoE</b></li>
 <li> Paper camera ready: <b>July 1, 2026 AoE</b></li>
 <li> Poster abstract submission deadline: <b>July 1, 2026 AoE</b></li>
