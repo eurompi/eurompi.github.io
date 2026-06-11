@@ -6,9 +6,13 @@ permalink: venue
 
 <h1>Venue</h1>
 
-<p>EuroMPI 2026, IWOMP and the MPI Forum will be located at <a href="https://www.tuwien.at/en/">TU Wien</a>, in the center of Vienna, Austria.</p>
+<p>EuroMPI 2026 will be located at Austrian Scientific Computing (ASC)  at <a href="https://www.tuwien.at/en/">TU Wien</a>, in the center of Vienna, Austria.</p>
 
 More information about the venue and access will be posted later.
+
+Hotels suggestions for the event can be found in the <a href="https://www.tuwien.at/fileadmin/Assets/dienstleister/Eventmanagement/TU_Wien_Hotel_Kooperationen.pdf">list of hotels that cooperate with TU-Wien</a>.
+
+
 
 
 <!---
