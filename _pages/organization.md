@@ -46,8 +46,8 @@ permalink: organization
    </div>
 
    <div style="display: flex; flex-direction:row;">
-     <div style="margin-top: 10px;"><img src="assets/anon1.jpeg" alt="Claudia" width="120" height="120" /></div> 
-     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Claudia Blaas-Schenner</b>, TU Wien</p> <p>Local Chair and Finance co-chair</p></div> 
+     <div style="margin-top: 10px;"><img src="assets/Claudia_Blaas-Schenner.jpg" alt="Claudia" width="120" height="120" /></div>
+     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Claudia Blaas-Schenner</b>, TU Wien</p> <p>Local Chair and Finance co-chair</p></div>
    </div> 
    
 
