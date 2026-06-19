@@ -84,6 +84,11 @@ permalink: organization
       </div>
 </div>
 
+<div id="divorganizer">
+    <div><h2>Organizer for Euro MPI 2026:</h2></div>
+    <div style="margin-left: 30px"><a href="https://www.tuwien.at/"><img src="assets/TU_Wien_Logo.png" alt="TU Wien" width="300px"/></a></div>
+</div>
+
 <div id="steeringcommitee">
   <p>Infor mation about the steering committee can be found <a href="steering_committee">here</a>.</p>
 </div>
