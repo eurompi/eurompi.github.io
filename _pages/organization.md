@@ -47,7 +47,7 @@ permalink: organization
 
    <div style="display: flex; flex-direction:row;">
      <div style="margin-top: 10px;"><img src="assets/Claudia_Blaas-Schenner.jpg" alt="Claudia" width="120" height="120" /></div>
-     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Claudia Blaas-Schenner</b>, TU Wien</p> <p>Local Chair and Finance co-chair</p></div>
+     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Claudia Blaas-Schenner</b>, TU Wien</p> <p>Local chair and Finance co-chair</p></div>
    </div> 
    
 
@@ -85,10 +85,10 @@ permalink: organization
 </div>
 
 <div id="divorganizer">
-    <div><h2>Organizer for Euro MPI 2026:</h2></div>
+    <div><h2>Organizer for EuroMPI 2026:</h2></div>
     <div style="margin-left: 30px"><a href="https://www.tuwien.at/"><img src="assets/TU_Wien_Logo.png" alt="TU Wien" width="300px"/></a></div>
 </div>
 
 <div id="steeringcommitee">
-  <p>Infor mation about the steering committee can be found <a href="steering_committee">here</a>.</p>
+  <p>Information about the steering committee can be found <a href="steering_committee">here</a>.</p>
 </div>
