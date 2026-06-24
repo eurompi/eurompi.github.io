@@ -4,9 +4,13 @@ permalink: register
 
 ![Banner](/assets/Vienna.png){:height="auto" width="100%"}
 
-# Register
-Registration information will be posted later.
+# Registration
 
+Registration is open and available via <a href="http://conftool.com/eurompi-iwomp-2026/">ConfTool</a>.
+
+Please note that <b>every presenter must register at the full standard conference rate</b>, regardless of enrollment status (including students).
+
+The student registration rate is available only to students who are not presenting a paper or poster. It includes one ticket for the social event on Wednesday.
 
 <!--
 <p>EuroMPI 2025, IWOMP and the MPI Forum will be located on the <a href="https://www.charlotte.edu/">University of North Carolina, Charlotte</a></p>
