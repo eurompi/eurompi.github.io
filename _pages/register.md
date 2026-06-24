@@ -21,6 +21,13 @@ Please note that <b>every presenter must register at the full conference rate</b
 
 The student registration rate is available only to students who are not presenting a paper or poster. It includes one ticket for the social event on Wednesday.
 
+## MPI Forum info
+The MPI Forum meeting will take place immediately before EuroMPI 2026 at the same venue.
+
+If you plan to attend the MPI Forum meeting, please note that registration for EuroMPI 2026 does not include registration for the MPI Forum meeting. Participants wishing to attend the MPI Forum meeting must register separately through the MPI Forum.
+
+For details and registration information, please visit the MPI Forum's meeting website: <a href="https://www.mpi-forum.org/meetings/">MPI Forum Meetings</a>.
+
 <!--
 <p>EuroMPI 2025, IWOMP and the MPI Forum will be located on the <a href="https://www.charlotte.edu/">University of North Carolina, Charlotte</a></p>
 
