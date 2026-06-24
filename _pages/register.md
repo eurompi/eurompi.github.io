@@ -8,7 +8,16 @@ permalink: register
 
 Registration is open and available via <a href="http://conftool.com/eurompi-iwomp-2026/">ConfTool</a>.
 
-Please note that <b>every presenter must register at the full standard conference rate</b>, regardless of enrollment status (including students).
+## Registration Fees
+
+| Registration Category | Fee   | Registration Period |
+| ----------------------|-------|---------------------|
+| Full Early Bird       | 500 € | 22 June 2026 – 14 August 2026 |
+| Full Regular          | 600 € | 15 August 2026 – 15 September 2026 |
+| Full Late             | 650 € | 16 September 2026 – 6 October 2026 |
+| Student               | 150 € | Available throughout the registration period |
+
+Please note that <b>every presenter must register at the full conference rate</b>, regardless of enrollment status (including students).
 
 The student registration rate is available only to students who are not presenting a paper or poster. It includes one ticket for the social event on Wednesday.
 
