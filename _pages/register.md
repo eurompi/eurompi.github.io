@@ -6,7 +6,10 @@ permalink: register
 
 # Registration
 
-Registration is open and available via <a href="http://conftool.com/eurompi-iwomp-2026/">ConfTool</a>.
+EuroMPI 2026 and IWOMP 2026 are co-located. Registration covers both conferences, allowing participants to attend sessions at both EuroMPI 2026 and <a href="https://www.iwomp.org">IWOMP 2026</a>.
+
+<b>Registration is now open.</b> Please register through <a href="https://conftool.com/eurompi-iwomp-2026/">ConfTool</a>.
+
 
 ## Registration Fees
 
