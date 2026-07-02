@@ -7,24 +7,36 @@ main:
 
     - title: "Home"
       url: /index
+      description: "Home"
 
     - title: "Program"
       url: program
+      description: "Program"
 
     - title: "Call for Papers & Posters"
       url: call
+      description: "Call for Papers & Posters"
 
   #  - title: "Call for Posters"
   #    url: posters
 
     - title: "Organizers"
       url: organization
+      description: "Organizers"
 
     - title: "Venue"
       url: venue
+      description: "Venue information"
 
     - title: "Register"
       url: register
+      description: "Registration"
+
+    - title: "Bluesky Feed"
+      url: https://bsky.app/profile/eurompiconf.bsky.social/
+      target: "_blank"
+      description: "Live updates from EuroMPI 2026 on Bluesky"
 
     - title: "Archive"
       url: archive
+      description: "Past EuroMPI conferences"
