@@ -26,8 +26,8 @@ permalink: organization
 
 
   <div style="display: flex; flex-direction:row;"> 
-    <div><img src="assets/anon1.jpeg" alt="Tim" width="120" height="120" /></div>
-    <div style="margin-left: 30px; margin-top: 10px;"><p><b>Tim Niklas Uhl</b>, KIT</p> <p>Program co-chair</p></div>
+    <div><img src="assets/Tim_Niklas_Uhl.jpeg" alt="Tim" width="120" height="120" /></div>
+    <div style="margin-left: 30px; margin-top: 10px;"><p><b>Tim Niklas Uhl</b>, Karlsruhe Institute of Technology</p> <p>Program co-chair</p></div>
   </div>
 
  <div style="display: flex; flex-direction:row;">
