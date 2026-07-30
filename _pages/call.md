@@ -75,6 +75,14 @@ permalink: call
 <p>All submissions must be made electronically via the EasyChair system at the following link:
 <a href="https://easychair.org/conferences/?conf=eurompi2026">https://easychair.org/conferences/?conf=eurompi2026</a></p>
 
+<h2>Posters</h2>
+
+<p>The abstract should be 2–4 pages long, in PDF format, single-column, with a font size of 10pt or larger. It must be written in English.</p>
+
+<p>For the poster, the required format is A0 (84.1 x 118.9 cm) in portrait mode. Participants must bring a printed version of their poster, as printing services will not be available at EuroMPI 2026.</p>
+
+<p>All submissions must be made electronically via the EasyChair system at the following link:
+<a href="https://easychair.org/conferences/?conf=eurompi2026">https://easychair.org/conferences/?conf=eurompi2026</a></p>
 
 <!---
 <p>To be considered, papers must use the <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">Springer LNCS</a> proceedings template. An <a href="https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi">Overleaf template</a> is available as well. Full papers should be <b>at least 12 and at most 16 pages</b>, including figures and tables but excluding references. Short papers may be <b>between 6 and 9 pages</b>. Margins, spacing, and font sizes should not be modified from the template.</p>
