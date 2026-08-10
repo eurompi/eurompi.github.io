@@ -19,8 +19,8 @@ permalink: venue
 <p><strong>Local registration</strong> will take place at the <strong>Boecklsaal</strong>, 1st floor.</p>
 
 <p>
-  <a href="https://maps.app.goo.gl/QKmLzFsUb6uGjGZL9" target="_blank">Google Maps</a><br>
-  <a href="https://maps.tuwien.ac.at/?q=AA0162" target="_blank">TU Wien campus map</a>
+  <a href="https://maps.app.goo.gl/QKmLzFsUb6uGjGZL9" target="_blank" rel="noopener">Google Maps</a><br>
+  <a href="https://maps.tuwien.ac.at/?q=AA0162" target="_blank" rel="noopener">TU Wien campus map</a>
 </p>
 
 <h1>How to Get to Vienna and TU Wien</h1>
@@ -37,9 +37,9 @@ permalink: venue
 
 <h2>From Vienna Airport to TU Wien</h2>
 
-<p>A summary of the different options for travelling from Vienna Airport to the city centre can be found on the <a href="https://www.wien.info/en/travel-info/arrival-departure/airport-to-center"> official Vienna tourism website </a>.</p>
+<p>A summary of the different options for travelling from Vienna Airport to the city centre can be found on the <a href="https://www.wien.info/en/travel-info/arrival-departure/airport-to-center" target="_blank" rel="noopener"> official Vienna tourism website </a>.</p>
 
-<p>For current train connections, schedules and tickets, please use the <a href="https://www.oebb.at/en/">ÖBB website</a>.</p>
+<p>For current train connections, schedules and tickets, please use the <a href="https://www.oebb.at/en/" target="_blank" rel="noopener">ÖBB website</a>.</p>
 
 <p>We recommend taking the <strong>next available train connection</strong> rather than waiting for a particular service. Tickets can be purchased at the ticket machines at the airport railway station or online.</p>
 
@@ -59,7 +59,7 @@ permalink: venue
 <p>
   Tickets can be purchased at the red ÖBB ticket machines at the airport
   railway station or online via
-  <a href="https://www.oebb.at/en/">ÖBB</a>.
+  <a href="https://www.oebb.at/en/" target="_blank" rel="noopener">ÖBB</a>.
 </p>
 
 <h3>S7 to Wien Mitte</h3>
@@ -77,7 +77,7 @@ permalink: venue
 
 <p>
   Tickets can be purchased at the airport railway station or online via
-  <a href="https://www.oebb.at/en/">ÖBB</a>.
+  <a href="https://www.oebb.at/en/" target="_blank" rel="noopener">ÖBB</a>.
 </p>
 
 <h3>City Airport Train (CAT)</h3>
@@ -95,14 +95,14 @@ permalink: venue
 
 <p>
   For current fares, schedules and operating times, please check the
-  <a href="https://www.cityairporttrain.com/en/">official CAT website</a>.
+  <a href="https://www.cityairporttrain.com/en/" target="_blank" rel="noopener">official CAT website</a>.
 </p>
 
 <h1>Public Transport in Vienna</h1>
 
 <p>Vienna has an extensive public-transport network consisting of underground trains (U-Bahn), trams, buses and suburban trains. Information about public transport, routes and tickets is available from
-  <a href="https://www.wienerlinien.at/tickets">Wiener Linien</a> and
-  <a href="https://www.wien.info/en/travel-info/transport/tickets-361360">
+  <a href="https://www.wienerlinien.at/tickets/" target="_blank" rel="noopener">Wiener Linien</a> and
+  <a href="https://www.wien.info/en/travel-info/transport/tickets-361360" target="_blank" rel="noopener">
     Vienna's official tourism website
   </a>.
 </p>
@@ -136,7 +136,7 @@ permalink: venue
 
 <p>The event location is easily accessible from TU Wien by public transport. </p>
 
-<p><a href="https://maps.app.goo.gl/T9dTZvok8sPNayQP9">Google Maps</a></p>
+<p><a href="https://maps.app.goo.gl/T9dTZvok8sPNayQP9" target="_blank" rel="noopener">Google Maps</a></p>
 
 
 <h3>Sightseeing options</h3>
