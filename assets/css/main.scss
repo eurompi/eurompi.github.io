@@ -167,3 +167,18 @@ footer {
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+
+
+.info-box {
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 0.75em 1.25em;
+    margin: 1em 0;
+    background: #f8f8f8;
+}
+.address-box {
+    @extend .info-box;
+    display: inline-block;
+    max-width: 100%;
+    box-sizing: border-box;
+}
