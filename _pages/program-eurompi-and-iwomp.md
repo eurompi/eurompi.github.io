@@ -72,7 +72,7 @@ Program will be posted after papers and posers selection.
     font-weight: 600;
   }
 
-  .program-end td {
+  .program-welcome .program-end td {
     font-weight: 700;
   }
 
@@ -126,7 +126,25 @@ Program will be posted after papers and posers selection.
 
 <h2>Wednesday, 7 October 2026</h2>
 
-<div class="program-day"> <table class="program-table"> <thead> <tr> <th class="program-time">Time</th> <th>EuroMPI</th> <th>IWOMP</th> </tr> </thead> <tbody> <tr class="program-registration"> <td>08:30–09:00</td> <td colspan="2">Registration &amp; Coffee</td> </tr>
+<div class="program-day"> <table class="program-table">
+<thead>
+  <tr>
+    <th class="program-time">Time</th>
+    <th>EuroMPI</th>
+    <th>IWOMP</th>
+  </tr>
+</thead>
+
+<tbody>
+  <tr class="program-registration">
+    <td>08:30–08:55</td>
+    <td colspan="2">Registration &amp; Coffee</td>
+  </tr>
+
+  <tr class="program-welcome">
+    <td>08:55–09:00</td>
+    <td colspan="2">Welcome</td>
+  </tr>
 
   <tr class="program-keynote">
     <td>09:00–10:00</td>
