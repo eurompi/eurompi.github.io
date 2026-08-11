@@ -6,180 +6,291 @@ permalink: program
 
 ![Banner](/assets/Vienna.png){:height="auto" width="100%"}
 
-Program will be posted after papers and posers selection.
+<style>
+  .program-intro {
+    margin-bottom: 2em;
+    padding: 1em 1.25em;
+    border-left: 4px solid #999;
+    background: #f7f7f7;
+  }
 
-<!---
-# Proceedings
+  .program-day {
+    margin-bottom: 3em;
+    overflow-x: auto;
+  }
 
-The proceedings for EuroMPI/USA 2025 are now available via [Springer](https://link.springer.com/book/10.1007/978-3-032-07194-1).
+  .program-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1em;
+    font-size: 0.95em;
+  }
 
-# MPI Forum
+  .program-table th,
+  .program-table td {
+    padding: 0.75em 0.8em;
+    border-bottom: 1px solid #ddd;
+    vertical-align: middle;
+  }
 
-The <a href="https://www.mpi-forum.org/meetings/2025/09/agenda">MPI Forum</a> will be held October 29-30, 2025 in UNC Charlotte's Student Union Rooms 263.
+  .program-table thead th {
+    font-weight: 700;
+    text-align: left;
+    border-bottom: 2px solid #999;
+  }
 
-# EuroMPI/USA'25 Program
+  .program-table .program-time {
+    width: 12%;
+    white-space: nowrap;
+  }
 
-The program below is tentative and might change. The EuroMPI program runs in parallel with the [IWOMP program](https://www.iwomp.org/iwomp-2025/).
+  .program-table tbody td:first-child {
+    white-space: nowrap;
+    font-weight: 600;
+  }
 
-Breaks will be served in Room 262 of the student union. EuroMPI paper sessions will be held in Room 266 and the keynotes will be held in the Student Union Theater. See [Venue](https://eurompi.org/venue) for details.
+  .program-break td {
+    background: #f7f7f7;
+    font-style: italic;
+    text-align: center;
+  }
 
-EuroMPI/USA is on <a href="https://bsky.app/profile/eurompiconf.bsky.social">Bluesky</a>!
+  .program-registration td {
+    background: #f7f7f7;
+  }
 
-The proceedings are <a href="https://link.springer.com/book/9783032071934">available for pre-order</a>.
+  .program-keynote td,
+  .program-panel td {
+    font-weight: 600;
+  }
 
-## Oct 1 - Day 1
+  .program-social td {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-weight: 600;
+  }
 
-| Start | End   | Session |
-|-------|-------|---------|
-| 8:30  | 9:00  | Breakfast & Registration [Student Union 262] |
-| **9:00**  | **10:00**  | Tutorial: Overview and current topics in OpenMP & MPI (Part I) [Student Union265/266] |
-| 10:00 | 10:30 | Coffee Break [Student Union 262] |
-| 10:30 | 12:00 | Tutorial: Overview and current topics in OpenMP & MPI (Part II) [Student Union265/266] |
-| 12:00 | 13:30 | Lunch Break [Student Union 262] |
-| 13:30 | 13:35 | **Welcome** (Yonghong Yan) |
-| 13:35 | 14:30 | [**Joint Keynote I - Amanda Randles (Duke University): HPC in Health: Scaling Vascular Digital Twins from Millions of Heartbeats to Petabytes of Data**](#randles) [Student Union Theatre] |
-| 14:30 | 15:00 | Coffee Break [Student Union 262] |
-| **15:30** | **17:00** | **Session I: Correctness** [Student Union 266] |
-| 15:00 | 15:30 | [**Verifying MPI API Usage Requirements with Contracts.**](#oraji) (Yussur Mustafa Oraji, [**Slides**](assets/slides/Yussur-Contracts.pdf), [**Video**](https://youtu.be/wRCR28wCpMc?si=Ki5G3BqEpFi3ji_B)) |
-| 15:30 | 16:00 | [**Review of MPI Continuations and Their Integration into PMPI Tools.**](#optenhoefel) (Alexander Optenhöfel, [**Video**](https://youtu.be/A0F1h2I9MLU?si=qKT95JRhy55_UzUA)) |
-| 16:00 | 16:30 | [**Extending the SPMD IR for RMA Models and Static Data Race Detection.**](#burak) (Semih Burak) |
+  .program-welcome .program-end td {
+    font-weight: 700;
+  }
 
-## Oct 2 - Day 2
+  @media screen and (max-width: 600px) {
+    .program-table {
+      font-size: 0.9em;
+    }
 
-| Start | End   | Session |
-|-------|-------|---------|
-| 8:30  | 9:00  | Breakfast & Registration [Student Union 262] |
-| **9:00**  | **10:00**  | [**Joint Keynote II - Bob Lucas (Ansys): The evolutionary flexibility of LS-DYNA**](#lucas) [Union Theatre] |
-| 10:00 | 10:30 | Coffee Break  [Student Union 262]|
-| **10:30** | **11:30** | **Session II: Language Support (C++)** [Student Union 266] |
-| 10:30 | 11:00 | [**Layout-Agnostic MPI Abstraction for Distributed Computing in Modern C++.**](#klepl) (Jiří Klepl, [**Slides**](assets/slides/Klepl_Layout-Agnostic-MPI-Abstraction.pdf), [**Video**](https://youtu.be/N_Y1BR1z0X8?si=K6UpcmIuQ3Bh3W21)) |
-| 11:00 | 11:30 | [**Concepts for designing modern C++ interfaces for MPI.**](#avans) (Tim Niklas Uhl, [**Slides**](assets/slides/Uhl-Concepts-C++.pdf), [**Video**](https://youtu.be/-DX_2Nf6d8M?si=xTahbQoqAE7-G6oI)) |
-| **11:30** | **12:00** | [**Lessons from MPICH**](#gropp) (Bill Gropp, Invited Talk, [**Slides**](assets/slides/Gropp_LessonsFromMPICH.pdf)) |
-| 12:00 | 13:30 | **Lunch Break with Poster Session** [Student Union 262] |
-| **13:30** | **15:00** | **Session III: Performance** [Student Union 266] |
-| 13:30 | 14:00 | [**Best Paper: Implementing True MPI Sessions and Evaluating MPI Initialization Scalability.**](#zhou) (Hui Zhou, [**Slides**](assets/slides/Zhou-True-Sessions.pdf), [**Video**](https://youtu.be/EEgMjSSRJd4?si=K27vW8nR-_k3Ksj0)) |
-| 14:00 | 14:30 | [**On the Potential of Compression Hiding in MPI Applications.**](#li) (Yicheng Li, [**Slides**](assets/slides/Li-Compression-Hiding.pdf), [**Video**](https://youtu.be/6Qzrooqu5Ug?si=3lXTiK24oNywuoEl)) |
-| 14:30 | 15:00 | [**Performance analysis of OpenMPI on AMR applications over Slingshot-11.**](#moraru) (Maxim Moraru) |
-| 15:00 | 16:00 | Break |
-| 16:00 |       | Bus pickup in front of Student Union |
-| 16:30 | 20:30 | **Social Event: [NASCAR museum](https://www.nascarhall.com/)** |
+    .program-table th,
+    .program-table td {
+      padding: 0.6em;
+    }
 
-## Oct 3 - Day 3
+    .program-table .program-time {
+      width: 15%;
+    }
+  }
 
-| Start | End   | EuroMPI / IWOMP |
-|-------|-------|-----------------|
-| 8:30  | 9:00  | Registration & Coffee [Student Union 262] |
-| **9:00**  | **10:00**  | [**Joint Keynote III: Damien Rouson (Berkeley Lab): Fortran Is All You Need**](#rouson) [Student Union 340A/Union Theatre] |
-| 10:00 | 10:30 | Coffee Break [Student Union 262] |
-| **10:30** | **11:30** | **Session IV: Multi-Threading** [Student Union 266] |
-| 10:30 | 11:00 | [**Examine MPI and its Extensions for Asynchronous Multithreaded Communication.**](#yan) (Jiakun Yan, [Slides](assets/slides/Yan_MPIext.pdf), [**Video**](https://youtu.be/FScR-MWuwyE?si=Pu6TaPypsO6m-n3F)) |
-| 11:00 | 11:30 | [**MPI Finally Needs to Deal with Threads.**](#schuchart) (Joseph Schuchart, [**Slides**](assets/slides/Schuchart-MPI-Threads.pdf), [**Video**](https://youtu.be/rhmZWiMuMLc?si=XTnug8LNJUiZdlLt)) |
-| **11:30** | **12:15** | **Panel: Towards MPI 6.0** (Bill Gropp, Hui Zhou, Hugo Taboada, Tim Niklas Uhl) [Student Union 266] |
-| 12:00 | 13:30 | Lunch Break |
-| **13:30** | **14:30** | **Open Discussions** |
-| 14:30 | 15:45 | Closing Remarks and Goodbye |
+  .program-table th:nth-child(2),
+  .program-table td:nth-child(2) {
+    border-left: 1px solid #ddd;
+    padding-left: 1.5em;
+  }
 
+  .program-table th:nth-child(3),
+  .program-table td:nth-child(3) {
+    border-left: 1px solid #ddd;
+    padding-left: 1.5em;
+  }
 
-## Abstracts
+  .program-table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  }
 
-### <a id='randles'></a>Amanda Randles (Duke University): HPC in Health: Scaling Vascular Digital Twins from Millions of Heartbeats to Petabytes of Data (Joint Keynote I)
-High performance computing (HPC) has long driven breakthroughs in physics, chemistry, and engineering. Today, the emergence of digital twins in healthcare introduces a new frontier: personalized, physics-informed simulations of the human vascular system. These models demand solving fluid dynamics over complex 3D anatomies across millions of heartbeats, while integrating continuous data from wearable sensors. The result is petabyte-scale datasets and real-time simulation needs that stretch the limits of algorithms, data handling, and scalability. This keynote will highlight how vascular digital twins expose new challenges and opportunities for HPC—reducing communication overhead in parallel time integration, compressing multimodal data streams without losing fidelity, and enabling adaptive, continuous simulation at exascale. Meeting these challenges requires leadership-scale systems co-designed with novel algorithms and workflows. Beyond medicine, these lessons illustrate how HPC can evolve to support time-critical, data-rich applications across domains, underscoring the need for sustained investment and long-term vision in high performance computing.
+  .program-table th:nth-child(2),
+  .program-table td:nth-child(2),
+  .program-table th:nth-child(3),
+  .program-table td:nth-child(3) {
+    width: 42.5%;
+  }
 
-**Bio**:
-<img align="right" src="assets/randles_lr.jpg" alt="Amanda Randles" width="200">
-Amanda Randles is the Alfred Winborne Mordecai and Victoria Stover Mordecai Associate Professor of Biomedical Sciences and Biomedical Engineering at Duke University, where she also serves as Director of the Duke Center for Computational and Digital Health Innovation. She holds courtesy appointments in Mechanical Engineering and Materials Science, Computer Science, and Mathematics, and is a member of the Duke Cancer Institute. Her research focuses on the development of patient-specific digital twin models that integrate high performance computing, machine learning, and multiscale biophysical simulations to enable proactive diagnosis and treatment of diseases ranging from cardiovascular disease to cancer. She has published 120 peer-reviewed papers, including in Science, Nature Biomedical Engineering, and Nature Digital Medicine, and holds 121 granted U.S. patents with approximately 75 additional applications pending. Her contributions have been recognized with the ACM Prize in Computing, the NIH Pioneer Award, the NSF CAREER Award, the ACM Grace Hopper Award, the Jack Dongarra Early Career Award, and the inaugural Sony and Nature Women in Technology Award. She was named to the HPCwire People to Watch list in 2025, is a Fellow of the National Academy of Inventors, and has been honored as a World Economic Forum Young Scientist and one of MIT Technology Review’s Top 35 Innovators Under 35. Randles received her Ph.D. in Applied Physics from Harvard University as a DOE Computational Science Graduate Fellow and NSF Fellow, an M.S. in Computer Science from Harvard, and a B.A. in Computer Science and Physics from Duke. Prior to graduate school, she worked as a software engineer at IBM on the Blue Gene supercomputing team.
-
-### <a id='oraji'></a>Yussur Mustafa Oraji: Verifying MPI API Usage Requirements with Contracts
-
-[**Slides**](assets/slides/Yussur-Contracts.pdf)
-
-**Authors**: Yussur Mustafa Oraji, Simon Schwitanski, Alexander Hück, Joachim Jenke, Sebastian Kreutzer and Christian Bischof
-
-Parallel programming models such as MPI and OpenSHMEM enable the use of large-scale distributed-memory computers in HPC. However, programmers often miss subtle rules regarding their APIs, such as properly synchronizing local memory accesses with communication and releasing acquired resources. Existing correctness tools aim to detect these issues automatically, but are typically model-specific. We propose the use of model-independent function annotations to avoid this dependency: Contracts allow the specification of generic pre- and postconditions at function declarations. We specify requirements that must be satisfied at the corresponding call sites to avoid common MPI errors such as resource leaks and local data races. The transparent nature of contracts also allows for easier maintainability and extensibility of checks. This paper presents a contract language and CoVer, an extensible static verifier to check the use of library-based parallel programming models. It applies data-flow analysis using the LLVM framework to verify these contract annotations. We compare detection accuracy against the static tools PARCOACH and MPI-Checker using RMARaceBench and MPI-BugBench, and compile-time overhead based on the mini-apps LULESH, miniVite, and the PRK Stencil Kernel. CoVer improved the detection accuracy by covering a wide variety of issues, while maintaining comparable overhead.
-
-### <a id='optenhoefel'></a>Alexander Optenhöfel: Review of MPI Continuations and Their Integration into PMPI Tools
-
-**Authors**: Alexander Optenhöfel, Joachim Jenke, Ben Thärigen and Joseph Schuchart
-
-Non-blocking communication in MPI significantly enhances high-performance computing by minimizing communication overhead through the overlap of computation and communication. Asynchronous programming models further enhance efficiency and adaptability in load balancing; however, the integration of MPI communication with these models remains insufficient. The MPI Continuations proposal, currently under discussion in the MPI Forum, aims to resolve this by introducing asynchronous completion for non-blocking communication. To ensure application developers can adopt this transformative feature, robust support in PMPI-based tools is essential.
-We have updated an early prototype to align with the latest discussions from the MPI Forum. This shim library is compatible with any MPI implementation. We describe potential pitfalls in implementing continuations, including a significant API issue that could lead to race conditions. We propose restrictions to prevent these issues and strengthen the robustness of the MPI Continuations proposal. Additionally, our analysis highlights the challenges PMPI-based tools will face with the new control flow, as MPI operations may now complete at nearly any point in a program. Progress engines might also become visible, requiring closer attention. Tools need to adapt by intercepting user-provided callback functions to effectively monitor the completion of non-blocking communication. Our extended PMPI-based On-the-Fly Critical Path Tool (OTF-CPT) demonstrates a clear path for integrating MPI Continuations into performance analysis tools, enhancing overall performance and adaptability in advanced computing applications.
-
-### <a id='burak'></a>Semih Burak: Extending the SPMD IR for RMA Models and Static Data Race Detection
-
-**Authors**: Semih Burak, Simon Schwitanski, Felix Tomski, Jens Domke and Matthias Müller
-
-Modern multi-node systems necessitate parallel programming models (PPMs) like MPI to facilitate execution and communication among multiple processing elements. These SPMD PPMs offer features such as RMA or accelerator support. However, SPMD program tools, such as those for correctness checks or performance optimization, are typically developed for specific PPMs or rely on tool-internal abstractions. To overcome this limitation, SPMD IR was introduced as an intermediate representation (IR) within a multi-layer program representation and realized as a dialect in MLIR (LLVM). This work extends the SPMD IR by incorporating, among others, capabilities for RMA and related synchronization mechanisms. These enhancements increase compatibility with MPI and SHMEM, while newly integrating support for NVSHMEM. By leveraging traits in MLIR, SPMD IR provides an extensible approach for implementing SPMD program analysis. The applicability of the SPMD IR is demonstrated through the use case of static local data race detection. It is implemented in a generalized fashion, covering not only RMA but also non-blocking communication in general, and is independent of specific API calls, offering increased extensibility. Using a comprehensive set of micro-benchmark suites and proxy apps, the SPMD IR is evaluated against both static and dynamic tools. Overall, the SPMD IR verification distinguishes itself with extensive PPM support and high detection accuracy. Notably, it is the first tool capable of detecting data races across SHMEM, NVSHMEM, and their hybrid combinations (with MPI).
-
-### <a id='lucas'></a>Bob Lucas (Ansys): The evolutionary flexibility of LS-DYNA (Joint Keynote II)
-Lawrence Livermore National Laboratory's DYNA3D is an example of a large  Computer-Aided Engineering application that was rearchitected in response to a disruptive change in the execution model and has since successfully evolved for four and a half decades.  Its progeny, which includes LS-DYNA, have adapted to vector processors, shared and distributed memory models, SIMD extensions, and now to acceleration with Graphics Processing Units (GPUs). In each case, initial experiments predated the arrival of standards such as the Message Passing Interface (MPI) or OpenMP. But the standards were quickly adopted when they appeared, and as the execution model they embody expanded, so too did LS-DYNA.  Today, LS-DYNA embodies over ten million source lines of code, mostly in Fortran, and has many thousands of users Worldwide. Rewriting LS-DYNA in another language to facilitate porting to a new device is not feasible.  The use of library calls and compiler directives is the most productive and least disruptive way to continue evolving.  This talk will discuss how LS-DYNA is adapting in the era of GPUs and speculate about how OpenMP can help in the future.
-
-**Bio**:
-<img align="right" src="assets/bob_lucas.jpg" alt="Bob Lucas" width="200">
-Dr. Robert F. Lucas is a Synopsys Fellow where he is responsible for the default multifrontal linear solver used in LS-DYNA and MAPDL. Previously, he was the Operational Director of the USC – Lockheed Martin Quantum Computing Center. Prior to joining USC, he was the Head of the High-Performance Computing Research Department in the National Energy Research Scientific Computing Center (NERSC) at Lawrence Berkeley National Laboratory. Prior to joining NERSC, Dr. Lucas was the Deputy Director of DARPA's Information Technology Office. From 1988 to 1998 he was a member of the research staff of the Institute for Defense Analyses's Center for Computing Sciences. From 1979 to 1984 he was a member of the Technical Staff of the Hughes Aircraft Company. Dr. Lucas received his BS, MS, and PhD degrees in Electrical Engineering from Stanford University in 1980, 1983, and 1988 respectively.
-
-### <a id='klepl'></a>Jiří Klepl: Layout-Agnostic MPI Abstraction for Distributed Computing in Modern C++
-[**Slides**](assets/slides/Klepl_Layout-Agnostic-MPI-Abstraction.pdf)
-
-**Authors**: Jiří Klepl, Martin Kruliš and Matyáš Brabec
-
-Message Passing Interface (MPI) has been a well-established technology in the domain of distributed high-performance computing for several decades. However, one of its greatest drawbacks is a rather ancient pure-C interface. It lacks many useful features of modern languages (namely C++), like basic type-checking or support for generic code design. In this paper, we propose a novel abstraction for MPI, which we implemented as an extension of the C++ Noarr library. It follows Noarr paradigms (first-class layout and traversal abstraction) and offers layout-agnostic design of MPI applications. We also implemented a layout-agnostic distributed GEMM kernel as a case study to demonstrate the usability and syntax of the proposed abstraction. We show that the abstraction achieves performance comparable to the state-of-the-art MPI C++ bindings while allowing for a more flexible design of distributed applications.
-
-### <a id='avans'></a>Tim Niklas Uhl: Concepts for designing modern C++ interfaces for MPI
-
-[**Slides**](assets/slides/Uhl-Concepts-C++.pdf)
-
-**Authors**: C. Nicole Avans, Alfredo Correa, Sayan Ghosh, Matthias Schimek, Joseph Schuchart, Anthony Skjellum, Evan D. Suggs and Tim Niklas Uhl
-
-Since the C++ bindings were deleted in 2008, the Message Passing Interface (MPI) community has recently revived efforts in building high-level modern C++ interfaces. Such interfaces are either built to serve specific scientific application needs (with limited coverage to the underlying MPI functionality), or as an exercise in general-purpose programming model building, with the hope that bespoke interfaces can be broadly adopted to construct a variety of distributed-memory scientific applications. However, with the advent of modern C++-based heterogeneous programming models, GPUs and widespread Machine Learning (ML) usage in contemporary scientific computing, the role of prospective community-standardized high-level C++ interfaces to MPI is evolving. The success of such an interface clearly will depend on providing robust abstractions and features adhering to the generic programming principles that underpin the C++ programming language, without compromising on either performance or portability, the core principles upon which MPI was founded. However, there is a tension between idiomatic C++ handling of types and lifetimes and MPI's loose interpretation of object lifetimes/ ownership and insistence on maintaining global states. Instead of proposing 'yet another' high-level C++ interface to MPI, overlooking or providing partial solutions to work around the key issues concerning the dissonance between MPI semantics and idiomatic C++, this paper focuses on the three fundamental aspects of a high-level interface: type system, object lifetimes, and communication buffers, while also identifying inconsistencies in the MPI specification. Presumptive solutions can be unrefined, and we hope the broader MPI and C++ communities will engage with us in productive exchange of ideas and concerns.
-
-### <a id='gropp'></a>Bill Gropp: Lessons from MPICH (Invited Talk)
-
-[**Slides**](assets/slides/Gropp_LessonsFromMPICH.pdf)
-
-The MPI standard was created 31 years ago. During that time, the MPICH implementation of MPI has both provided users with a high-performance yet portable implementation and has contributed to the evolution of the MPI standard. In recognition of its impact, ACM recognized MPICH with the 2024 Software System Award. In this talk I will review how MPICH came to be, features and decisions that contributed to its success, and some comments on both the future of MPICH and MPI.
-
-### <a id='li'></a>Yicheng Li: On the Potential of Compression Hiding in MPI Applications
-
-[**Slides**](assets/slides/Li-Compression-Hiding.pdf)
-
-**Authors**: Yicheng Li and Michael Jantz
-
-The increasing disparity between computing capabilities and communication bandwidth has become a major bottleneck in High Performance Computing (HPC) applications. To address this challenge, we introduce a framework that leverages early data compression for communication data within the Open MPI library with the use of userfaultfd (uffd) for efficient write detection. By integrating the high-speed LZ4 compression algorithm, the proposed framework minimizes communication overhead by reducing the size of data transmitted among processes while hiding compression overhead behind either pack or communication overhead. Applying our uffd framework onto Livermore Unstructured Lagrangian Explicit Shock Hydrodynamics (LULESH) highlights the potential of the framework in reducing data communication volumes and overall communication latency, paving the way for improved performance in HPC environments.
-
-### <a id='zhou'></a>Hui Zhou: Implementing True MPI Sessions and Evaluating MPI Initialization Scalability
-
-[**Slides**](assets/slides/Zhou-True-Sessions.pdf)
-
-**Authors**: Hui Zhou, Kenneth Raffenetti, Mike Wilkins, Yanfei Guo and Rajeev Thakur
-
-Sessions is one of the major features introduced in the MPI-4 standard. It offers an alternative to the traditional world communicator model by allowing applications to construct communicators from process sets, thereby eliminating the dependency on MPI_COMM_WORLD. The Sessions model was proposed as a more scalable solution for exascale systems, where MPI_COMM_WORLD was viewed as a potential scalability bottleneck. However, supporting Sessions is a significant challenge for established codebases like MPICH due to the deep integration of the world model in traditional MPI implementations. Although MPICH added support for the MPI-4 standard upon its release, it still internally relied on a global world communicator. This approach enabled applications written using the Sessions model to function, but it did not fulfill the full design intent of Sessions, which meant to decouple MPI from MPI_COMM_WORLD. We describe MPICH's effort to support ``true'' MPI Sessions, including a major internal refactoring. We describe the architectural changes required to support true Sessions and evaluate the resulting implementation’s scalability. Our results demonstrate that true Sessions can offer significant scalability benefits by adopting explicit hierarchical designs.
-
-### <a id='moraru'></a>Maxim Moraru: Performance analysis of OpenMPI on AMR applications over Slingshot-11
-
-**Authors**: Maxim Moraru, Derek Schafer, Galen Shipman, Patrick Bridges and Howard Pritchard
-
-The HPE Slingshot interconnect is used on numerous supercomputers, including the top two supercomputers on the TOP500. Recently, HPE open-sourced the software stack for Slingshot introducing new opportunities for exploring alternative MPI implementations on HPE’s Cray supercomputers. This work investigates the performance implications of using Open MPI, as opposed to the traditionally bundled Cray MPICH, on systems equipped with Slingshot-11 interconnects. We focus our analysis on Adaptive Mesh Refinement (AMR) applications in this work, as they exhibit a wide variety of communication patterns, including dynamically changing communicating peers. Based on profiling and analysis of these AMR applications, we designed a targeted microbenchmark to capture key communication patterns in AMR that can benefit from Open MPI on Slingshot-11 systems. We demonstrate that Open MPI can improve the overall execution time of AMR-based scientific applications by up to 11%. Deeper analysis using our communication pattern benchmark reveals one aspect of this performance difference. Open MPI has a much lower latency than Cray MPICH in bursty halo exchanges among even a moderately small number of processes.
-
-### <a id='rouson'></a>Damien Rouson (Berkeley Lab): Fortran Is All You Need (Joint Keynote III)
-An evolving language is forever a new language even when it's the world's first widely used programming language.  Viewed from the perspective of parallel and accelerator programming, Fortran 2023 is simultaneously a senior citizen, a young adult, a teenager, and a toddler -- depending on whether one focuses on the whole language or on the parallel features' invention, standardization, and implementation in compilers.  This talk will provide an overview of the two feature sets that Fortran programmers can use for parallel programming: multi-image execution for Single Program Multiple Data (SPMD) programming with a Partitioned Global Address Space (PGAS) and 'do concurrent' for loop-level parallel and accelerator programming.  The talk will highlight the international public/private partnerships that are co-developing these features in the LLVM Flang compiler, the current main branch of which supports multi-image execution and automatic loop parallelization on central processing units (CPUs) by translation to OpenMP with work towards automatic offloading to graphics processing units (GPUs) under way.  The talk will highlight the latest developments in open-source software that Berkeley Lab (co-)develops to both support and use the new features in high-performance computing (HPC) and artificial intelligence (AI).
-
-**Bio**:
-Damian Rouson is a Senior Scientist and the Group Lead for the Computer Languages and Systems Software (CLaSS) Group at Berkeley Lab, where he researches programming patterns and paradigms for computational science,
-including multiphysics modeling and deep learning. He has prior research experience in simulating turbulent flow in magnetohydrodynamic, multiphase, and quantum media. He collaborates on the development of open-source software for science, including the Caffeine parallel runtime library, the Fiats deep learning library, the Julienne correctness-checking framework, and the LLVM Flang Fortran compiler.  He also teaches tutorials on Fortran and the UPC++ parallel programming model and has taught undergraduate courses in thermodynamics, fluid turbulence, numerical methods, and software engineering at the City University of New York, the University of Cyprus, and Stanford University. He was the lead author on the textbook Scientific Software: The Object-Oriented Way (Cambridge University Press, 2011) won the Berkeley Lab’s Developer of the Year award in 2025. He holds a B.S. from Howard University, M.S. and Ph.D. degrees Stanford University, and a Professional Engineer (P.E.) license in California, all in mechanical engineering. 
-
-### <a id='yan'></a>Jiakun Yan: Examine MPI and its Extensions for Asynchronous Multithreaded Communication
-[**Slides**](assets/slides/Yan_MPIext.pdf)
-
-**Authors**: Jiakun Yan, Marc Snir and Yanfei Guo
-
-The increasing complexity of HPC architectures and the growing adoption of irregular scientific algorithms demand efficient support for asynchronous, multithreaded communication. This need is especially pronounced with Asynchronous Many-Task (AMT) systems. This communication pattern was not a consideration during the design of the original MPI specification. The MPI community has recently introduced several extensions to address these evolving requirements. This work evaluates two such extensions, the Virtual Communication Interface (VCI) and the Continuation extensions, in the context of an established AMT runtime HPX. We begin by using an MPI-level microbenchmark, modeled from HPX's low-level communication mechanism, to measure the peak performance potential of these extensions. We then integrate them into HPX to evaluate their effectiveness in real-world scenarios. Our results show that while these extensions can enhance performance compared to standard MPI, areas for improvement remain. The current continuation proposal limits the maximum multithreaded message rate achievable in the multi-VCI setting. Furthermore, the recommended one-VCI-per-thread mode proves ineffective in real-world systems due to the attentiveness problem. These findings underscore the importance of improving intra-VCI threading efficiency to achieve scalable multithreaded communication and fully realize the benefits of recent MPI extensions.
-
-### <a id='schuchart'></a>Joseph Schuchart: MPI Finally Needs to Deal with Threads
-[**Slides**](assets/slides/Schuchart-MPI-Threads.pdf)
-
-**Authors**: Joseph Schuchart, Joachim Jenke and Simon Schwitanski
-
-The Message Passing Interface (MPI) standard has long been a cornerstone of parallel computing, enabling multi-threaded processes to communicate effectively. However, integrating multi-threading with MPI is not as straightforward as it might seem. MPI must function optimally in a multi-threaded environment, which requires robust thread support. The description provided by MPI about how multiple application threads may interact with MPI forms a contract for guarantees that applications can rely on and that implementations must provide, and vice versa. We find that the definitions regarding multi-threaded behavior provided by MPI are imprecise, which leads to differing interpretations and potential over- or undercommitment of computational resources in order to provide their perceived semantics. We provide an analysis of relevant parts of the MPI standard dealing with multi-threading and provide proposals for definitions of concurrency, conflicts, and race conditions, which we hope will clarify the guarantees that are part of the contract between MPI multi-threaded applications and implementations.
+</style>
 
 
---->
+
+<div class="program-intro"> <p> The <strong>EuroMPI &amp; IWOMP 2026</strong> preliminary program is available below. </p>
+
+<p> The program is <strong>preliminary and subject to change</strong>. Detailed session information, including individual talks and speakers, will be added as the program is finalized. </p> </div>
+
+<h2>Wednesday, 7 October 2026</h2>
+
+<div class="program-day"> <table class="program-table">
+<thead>
+  <tr>
+    <th class="program-time">Time</th>
+    <th>EuroMPI</th>
+    <th>IWOMP</th>
+  </tr>
+</thead>
+
+<tbody>
+  <tr class="program-registration">
+    <td>08:30–08:55</td>
+    <td colspan="2">Registration &amp; Coffee</td>
+  </tr>
+
+  <tr class="program-welcome">
+    <td>08:55–09:00</td>
+    <td colspan="2">Welcome</td>
+  </tr>
+
+  <tr class="program-keynote">
+    <td>09:00–10:00</td>
+    <td colspan="2">Joint Keynote 1</td>
+  </tr>
+
+  <tr class="program-break">
+    <td>10:00–10:30</td>
+    <td colspan="2">Coffee Break</td>
+  </tr>
+
+  <tr>
+    <td>10:30–12:00</td>
+    <td>Session I</td>
+    <td>Session I</td>
+  </tr>
+
+  <tr class="program-break">
+    <td>12:00–13:30</td>
+    <td colspan="2">Lunch</td>
+  </tr>
+
+  <tr>
+    <td>13:30–15:00</td>
+    <td>Session II</td>
+    <td rowspan="2">Session II</td>
+  </tr>
+
+  <tr>
+    <td>15:00–15:30</td>
+    <td>Poster Short Presentations</td>
+  </tr>
+
+  <tr class="program-break">
+    <td>15:30–16:00</td>
+    <td colspan="2">Posters &amp; Coffee Break</td>
+  </tr>
+
+  <tr>
+    <td>16:00–17:30</td>
+    <td>Posters</td>
+    <td>Session III</td>
+  </tr>
+
+  <tr class="program-social">
+    <td>19:00</td>
+    <td colspan="2">
+      <strong>Social Event</strong><br>
+      EuroMPI &amp; IWOMP Joint Dinner
+    </td>
+  </tr>
+</tbody>
+
+</table> </div>
+
+<h2>Thursday, 8 October 2026</h2>
+
+<div class="program-day"> <table class="program-table"> <thead> <tr> <th class="program-time">Time</th> <th>EuroMPI</th> <th>IWOMP</th> </tr> </thead> <tbody> <tr class="program-registration"> <td>08:30–09:00</td> <td colspan="2">Registration &amp; Coffee</td> </tr>
+
+  <tr class="program-keynote">
+    <td>09:00–10:00</td>
+    <td colspan="2">Joint Keynote 2</td>
+  </tr>
+
+  <tr class="program-break">
+    <td>10:00–10:30</td>
+    <td colspan="2">Coffee Break</td>
+  </tr>
+
+  <tr>
+    <td>10:30–12:00</td>
+    <td>Session III</td>
+    <td>Session IV</td>
+  </tr>
+
+  <tr class="program-break">
+    <td>12:00–13:30</td>
+    <td colspan="2">Lunch</td>
+  </tr>
+
+  <tr>
+    <td>13:30–14:30</td>
+    <td>Invited Talk</td>
+    <td rowspan="2">Session V</td>
+  </tr>
+
+  <tr>
+    <td>14:30–15:00</td>
+    <td></td>
+  </tr>
+
+  <tr class="program-break">
+    <td>15:30–16:00</td>
+    <td colspan="2">Coffee Break</td>
+  </tr>
+
+  <tr>
+    <td>16:00–17:30</td>
+    <td>Session IV</td>
+    <td>Session VI</td>
+  </tr>
+</tbody>
+
+</table> </div>
+
+<h2>Friday, 9 October 2026</h2>
+
+<div class="program-day"> <table class="program-table"> <thead> <tr> <th class="program-time">Time</th> <th>EuroMPI</th> <th>IWOMP</th> </tr> </thead> <tbody> <tr class="program-registration"> <td>08:30–09:00</td> <td colspan="2">Registration &amp; Coffee</td> </tr>
+
+  <tr class="program-keynote">
+    <td>09:00–09:30</td>
+    <td colspan="2">Joint Keynote 3</td>
+  </tr>
+
+  <tr>
+    <td>10:00–11:00</td>
+    <td>Session V</td>
+    <td>Session VII</td>
+  </tr>
+
+  <tr class="program-break">
+    <td>11:30–12:00</td>
+    <td colspan="2">Coffee Break</td>
+  </tr>
+
+  <tr class="program-panel">
+    <td>12:00–13:30</td>
+    <td colspan="2">Joint Panel</td>
+  </tr>
+
+  <tr>
+    <td>13:30–13:45</td>
+    <td>Closing Remarks</td>
+    <td></td>
+  </tr>
+
+  <tr class="program-break">
+    <td>13:45–15:00</td>
+    <td colspan="2">Lunch</td>
+  </tr>
+
+  <tr class="program-end">
+    <td>15:00</td>
+    <td colspan="2"><strong>End of Conference</strong></td>
+  </tr>
+</tbody>
+
+</table> </div>
+
+<p class="info-box"> <strong>Note:</strong> This is a preliminary program. Session titles, speakers, timings and room assignments may change. The final program will be published closer to the conference. </p>
+
