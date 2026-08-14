@@ -264,28 +264,28 @@ permalink: program
   </tr>
 
   <tr class="program-break">
-    <td>11:30–12:00</td>
+    <td>11:00–11:30</td>
     <td colspan="2">Coffee Break</td>
   </tr>
 
   <tr class="program-panel">
-    <td>12:00–13:30</td>
+    <td>11:30–12:30</td>
     <td colspan="2">Joint Panel</td>
   </tr>
 
   <tr>
-    <td>13:30–13:45</td>
+    <td>12:30–12:45</td>
     <td>Closing Remarks</td>
     <td></td>
   </tr>
 
   <tr class="program-break">
-    <td>13:45–15:00</td>
+    <td>12:45–14:00</td>
     <td colspan="2">Lunch</td>
   </tr>
 
   <tr class="program-end">
-    <td>15:00</td>
+    <td>14:00</td>
     <td colspan="2"><strong>End of Conference</strong></td>
   </tr>
 </tbody>
