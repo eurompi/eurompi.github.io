@@ -182,7 +182,7 @@ permalink: program
   </tr>
 
   <tr>
-    <td>16:00–17:00</td>
+    <td>15:30–17:00</td>
     <td>Posters</td>
     <td>Session III</td>
   </tr>
