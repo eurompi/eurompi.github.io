@@ -174,11 +174,12 @@ permalink: program
   <tr>
     <td>15:00–15:15</td>
     <td>Poster Short Presentations</td>
+    <td class="program-break">Coffee Break</td>
   </tr>
 
   <tr class="program-break">
-    <td>15:00–15:30</td>
-    <td colspan="2">Posters &amp; Coffee Break</td>
+    <td>15:15–15:30</td>
+    <td colspan="2">Euro MPI Posters &amp; Coffee Break</td>
   </tr>
 
   <tr>
