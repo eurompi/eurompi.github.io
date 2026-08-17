@@ -263,7 +263,15 @@ permalink: program
 
   <tr class="program-keynote">
     <td>09:00–10:00</td>
-    <td colspan="2"><strong>Joint Keynote 3:</strong> TBA</td>
+    <td colspan="2"><strong>Joint Keynote 3:</strong> <!-- Agentic Sevelopment: Lessons from Building an MPI library from Scratch Using AI --><br>
+      <i>Jeff Hammond, NVIDIA</i>
+
+      <details><summary>Abstract</summary>
+      <p>Agentic development has progressed rapidly over the past two years, to the point where it makes sense to ask whether AI can write complex communication software by itself. In this talk, I will describe my experience building an MPI library from scratch using AI. With expert guidance on design and testing, AI was able to implement all of MPI-5 from scratch in less than a month, with support for shared-memory, sockets, OFI/libfabric and UCX, with optimized algorithms for message matching, collectives, etc. I will also talk about agentic development of GPU communication software based on NCCL and NVSHMEM, demonstrating that AI is not limited to CPU environments.</p>
+
+      <p><strong>Jeff Hammond</strong> is a Distinguished Engineer at NVIDIA in the data center software organization, focused on GPU communications (NCCL and NVSHMEM). He has extensive experience with the design and use of parallel programming models and scientific applications. Jeff’s most notable achievements include the MPI-5 Application Binary Interface standard, development of the MPI-3 one-sided communication software ecosystem, and contributions to the NWChem quantum chemistry project. He received a PhD in Chemistry from the University of Chicago in 2009.</p>
+      </details>
+    </td>
   </tr>
 
   <tr>
