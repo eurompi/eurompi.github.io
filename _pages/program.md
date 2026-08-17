@@ -205,8 +205,8 @@ permalink: program
 
   <tr class="program-keynote">
     <td>09:00–10:00</td>
-    <td colspan="2"><strong>Joint Keynote 2:</strong> Who Decides? Beyond Runtime Defaults, Toward Adaptive Multi-Device OpenMP
-Florina M. Ciorba, University of Basel
+    <td colspan="2"><strong>Joint Keynote 2:</strong> Who Decides? Beyond Runtime Defaults, Toward Adaptive Multi-Device OpenMP<br>
+      <i>Florina M. Ciorba, University of Basel</i>
       <details>
       <summary>Abstract</summary>
       <p>High performance computing (HPC) has long driven breakthroughs in physics, chemistry, and engineering. Today, the emergence of digital twins in healthcare introduces a new frontier: personalized, physics-informed simulations of the human vascular system. These models demand solving fluid dynamics over complex 3D anatomies across millions of heartbeats, while integrating continuous data from wearable sensors. The result is petabyte-scale datasets and real-time simulation needs that stretch the limits of algorithms, data handling, and scalability. This keynote will highlight how vascular digital twins expose new challenges and opportunities for HPC—reducing communication overhead in parallel time integration, compressing multimodal data streams without losing fidelity, and enabling adaptive, continuous simulation at exascale. Meeting these challenges requires leadership-scale systems co-designed with novel algorithms and workflows. Beyond medicine, these lessons illustrate how HPC can evolve to support time-critical, data-rich applications across domains, underscoring the need for sustained investment and long-term vision in high performance computing.</p>
