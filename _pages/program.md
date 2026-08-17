@@ -146,7 +146,7 @@ permalink: program
 
   <tr class="program-keynote">
     <td>09:00–10:00</td>
-    <td colspan="2">Joint Keynote 1</td>
+    <td colspan="2"><strong>Joint Keynote 1:</strong> TBA</td>
   </tr>
 
   <tr class="program-break">
@@ -168,21 +168,21 @@ permalink: program
   <tr>
     <td>13:30–15:00</td>
     <td>Session II</td>
-    <td rowspan="2">Session II</td>
+    <td>Session II</td>
   </tr>
 
   <tr>
-    <td>15:00–15:30</td>
+    <td>15:00–15:15</td>
     <td>Poster Short Presentations</td>
   </tr>
 
   <tr class="program-break">
-    <td>15:30–16:00</td>
+    <td>15:00–15:30</td>
     <td colspan="2">Posters &amp; Coffee Break</td>
   </tr>
 
   <tr>
-    <td>16:00–17:30</td>
+    <td>16:00–17:00</td>
     <td>Posters</td>
     <td>Session III</td>
   </tr>
@@ -204,7 +204,15 @@ permalink: program
 
   <tr class="program-keynote">
     <td>09:00–10:00</td>
-    <td colspan="2">Joint Keynote 2</td>
+    <td colspan="2"><strong>Joint Keynote 2:</strong> Who Decides? Beyond Runtime Defaults, Toward Adaptive Multi-Device OpenMP
+Florina M. Ciorba, University of Basel
+      <details>
+      <summary>Abstract</summary>
+      <p>High performance computing (HPC) has long driven breakthroughs in physics, chemistry, and engineering. Today, the emergence of digital twins in healthcare introduces a new frontier: personalized, physics-informed simulations of the human vascular system. These models demand solving fluid dynamics over complex 3D anatomies across millions of heartbeats, while integrating continuous data from wearable sensors. The result is petabyte-scale datasets and real-time simulation needs that stretch the limits of algorithms, data handling, and scalability. This keynote will highlight how vascular digital twins expose new challenges and opportunities for HPC—reducing communication overhead in parallel time integration, compressing multimodal data streams without losing fidelity, and enabling adaptive, continuous simulation at exascale. Meeting these challenges requires leadership-scale systems co-designed with novel algorithms and workflows. Beyond medicine, these lessons illustrate how HPC can evolve to support time-critical, data-rich applications across domains, underscoring the need for sustained investment and long-term vision in high performance computing.</p>
+
+      <p><strong>Florina M. Ciorba</strong>: Florina M. Ciorba is Professor of High Performance Computing and head of the HPC Lab at the University of Basel, Switzerland, which she founded in 2015. She earned her Ph.D. from the National Technical University of Athens, Greece in 2008, followed by postdoctoral positions at Mississippi State University, USA, and Dresden University of Technology, Germany. Her research focuses on scheduling and resource management, and on enhancing performance, resilience, portability, reproducibility, and autonomy in HPC and AI/ML systems. Recent work includes autotuning, energy-efficient cosmological simulations, and autonomy loops for system performance. Her group developed LB4OMP and Auto4OMP, open-source extensions of the LLVM OpenMP runtime for dynamic loop scheduling and automated scheduling algorithm selection. She has published nearly 100 peer-reviewed papers and received several best paper awards. She is a founding board member and PI of the Basel node in the SKACH project (Swiss SKAO Consortium) and co-founded IDEAS4HPC, the Swiss chapter of Women in HPC. She also serves on other various boards and committees related to HPC and energy efficiency. She is a senior & life member of ACM and active in IEEE, HiPEAC, and DISCOVER-US.  More at <a href="http://hpc.dmi.unibas.ch/">http://hpc.dmi.unibas.ch</a>.</p>
+      </details>
+    </td>
   </tr>
 
   <tr class="program-break">
@@ -231,16 +239,16 @@ permalink: program
 
   <tr>
     <td>14:30–15:00</td>
-    <td></td>
+    <td>---</td>
   </tr>
 
   <tr class="program-break">
-    <td>15:30–16:00</td>
+    <td>15:00–15:30</td>
     <td colspan="2">Coffee Break</td>
   </tr>
 
   <tr>
-    <td>16:00–17:30</td>
+    <td>15:30–17:00</td>
     <td>Session IV</td>
     <td>Session VI</td>
   </tr>
@@ -253,8 +261,8 @@ permalink: program
 <div class="program-day"> <table class="program-table"> <thead> <tr> <th class="program-time">Time</th> <th>EuroMPI</th> <th>IWOMP</th> </tr> </thead> <tbody> <tr class="program-registration"> <td>08:30–09:00</td> <td colspan="2">Registration &amp; Coffee</td> </tr>
 
   <tr class="program-keynote">
-    <td>09:00–09:30</td>
-    <td colspan="2">Joint Keynote 3</td>
+    <td>09:00–10:00</td>
+    <td colspan="2"><strong>Joint Keynote 3:</strong> TBA</td>
   </tr>
 
   <tr>
@@ -270,7 +278,7 @@ permalink: program
 
   <tr class="program-panel">
     <td>11:30–12:30</td>
-    <td colspan="2">Joint Panel</td>
+    <td colspan="2"><strong>Joint Panel:</strong> TBA</td>
   </tr>
 
   <tr>
