@@ -61,19 +61,23 @@ permalink: organization
       </div>
  <div class="card-block bg-faded committee" style="padding: 5px">
          <p><b>Purushotham Bangalore</b>, University of Alabama </p>
+         <p><b>Amanda Bienz</b> University of New Mexico</p>
          <p><b>Fabien Chaix</b>, FORTH</p>
          <p><b>Cédric Chevaier</b>, CEA</p>
-         <p><b>Alfredo Correa</b>, LLNL</p>
          <p><b>Bioagio Cosenza</b>, University of Salerno</p>
          <p><b>Daniele De Sensi</b>, University of Rome</p>
          <p><b>Matthew Dosanjh</b>, SNL</p>
          <p><b>Fabrice Dupros</b>, AMD</p>
+         <p><b>Victor Eijkhout</b>, UT at Austin</p>
          <p><b>Sayan Ghosh</b>, PNNL</p>
+         <p><b>Ryan E. Grant</b>,  Queen's University</p>
          <p><b>William Gropp</b>, UIUC</p>
          <p><b>Sonja Happ</b>, ParTec</p>
          <p><b>Sascha Hunold</b>, TU Wien</p>
+         <p><b>Joachim Jenke</b>, RWTH Aachen</p>
          <p><b>Emily Kahl</b>, Pawsey</p>
-         <p><b>Van-Man Nguyen</b>, Bull</p>
+         <p><b>Stefano Markidis</b>, KTH</p>
+         <p><b>Van-Man Nguyen</b>, Eviden</p>
          <p><b>Howard Pritchard</b>, LANL</p>
          <p><b>Emmanuelle Saillard</b>, Inria</p>
          <p><b>Hari Subramoni</b>, Ohio State University</p>
