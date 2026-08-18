@@ -263,7 +263,7 @@ permalink: program
 
   <tr class="program-keynote">
     <td>09:00–10:00</td>
-    <td colspan="2"><strong>Joint Keynote 3:</strong> <!-- Agentic Sevelopment: Lessons from Building an MPI library from Scratch Using AI --><br>
+    <td colspan="2"><strong>Joint Keynote 3:</strong> Experiences with AI-Driven Development in HPC Software<br>
       <i>Jeff Hammond, NVIDIA</i>
 
       <details><summary>Abstract</summary>
