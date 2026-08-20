@@ -178,13 +178,13 @@ permalink: program
   </tr>
 
   <tr class="program-break">
-    <td>15:15–15:30</td>
-    <td colspan="2">Euro MPI Posters &amp; Coffee Break</td>
+    <td>15:00–15:30</td>
+    <td colspan="2">Coffee Break</td>
   </tr>
 
   <tr>
     <td>15:30–17:00</td>
-    <td>Posters</td>
+    <td>Poster Short Presentations &amp; Posters</td>
     <td>Session III</td>
   </tr>
 
