@@ -113,7 +113,20 @@ permalink: program
   .program-table td:nth-child(3) {
     width: 42.5%;
   }
+  .talk {
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+    border-bottom: 1px solid #ddd;
+  }
 
+  .talk:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+  }
+
+  .talk-presenter {
+    font-style: italic;
+  }
 </style>
 
 
@@ -156,10 +169,45 @@ permalink: program
 
   <tr>
     <td>10:30–12:00</td>
-    <td>
-      <div class="session-title">Session I: Language Interfaces</div>
-    </td>
+    <td class="session-title">Session I: Language Interfaces</td>
     <td>Session I</td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td>
+      <div class="talk">
+        <span class="talk-title">Core MPI</span><br>
+        <span class="talk-presenter">Hui Zhou</span>
+        <details>
+        <summary>abstract</summary>
+        <p class="talk-abstract">
+        </p>
+        </details>
+      </div>
+
+      <div class="talk">
+        <span class="talk-title">Concepts in Practice: C++ MPI Bindings for the HPC Ecosystem. From a Standardizable Core to a Composable Interface</span><br>
+        <span class="talk-presenter">Tim Niklas Uhl</span>
+        <details>
+        <summary>abstract</summary>
+        <p class="talk-abstract">
+        </p>
+        </details>
+      </div>
+
+      <div class="talk">
+        <span class="talk-title">Write Once, Communicate Anywhere: API Design for Performance-Portable Communication</span><br>
+        <span class="talk-presenter">Gabriel Dos Santos</span>
+        <details>
+        <summary>abstract</summary>
+        <p class="talk-abstract">
+        </p>
+        </details>
+      </div>
+    </td>
+    <td>
+    </td>
   </tr>
 
   <tr class="program-break">
@@ -169,10 +217,34 @@ permalink: program
 
   <tr>
     <td>13:30–15:00</td>
-    <td>
-      <div class="session-title">Session II: Correctness and Performance Profiling</div>
-    </td>
+    <td class="session-title">Session II: Correctness and Performance Profiling</td>
     <td>Session II</td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td>
+      <div class="talk">
+        <span class="talk-title">Allocation Tracking and Parameter Checking for Parallel Programming Models using Contracts</span><br>
+        <span class="talk-presenter">Yussur Mustafa Oraji</span>
+        <details>
+        <summary>abstract</summary>
+        <p class="talk-abstract">
+        </p>
+        </details>
+      </div>
+
+      <div class="talk">
+        <span class="talk-title">How Caching Distorts MPI Point-to-Point Performance</span><br>
+        <span class="talk-presenter">Niklas Bartelheimer</span>
+        <details>
+        <summary>abstract</summary>
+        <p class="talk-abstract">
+        </p>
+        </details>
+      </div>
+    </td>
+    <td></td>
   </tr>
 
   <tr class="program-break">
@@ -228,10 +300,44 @@ permalink: program
 
   <tr>
     <td>10:30–12:00</td>
-    <td>
-      <div class="session-title">Session III: Collective Operations and Algorithms</div>
-    </td>
+    <td class="session-title">Session III: Collective Operations and Algorithms</td>
     <td>Session IV</td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+      <div class="talk">
+        <span class="talk-title">Effective MPI: User-defined Datatypes and Cartesian Communicators for Zero-copy All-to-all Communication in Multidimensional Tori</span><br>
+        <span class="talk-presenter">Jesper Larsson Träff</span>
+        <details>
+        <summary>abstract</summary>
+        <p class="talk-abstract">
+        </p>
+        </details>
+      </div>
+
+      <div class="talk">
+        <span class="talk-title">A Unified Two-Dimensional Design Space for the MPI All-to-All Collective</span><br>
+        <span class="talk-presenter">Ke Fan</span>
+        <details>
+        <summary>abstract</summary>
+        <p class="talk-abstract">
+        </p>
+        </details>
+      </div>
+
+      <div class="talk">
+        <span class="talk-title">The Allgather-merge Collective Operation: Algorithms, Implementation, Performance</span><br>
+        <span class="talk-presenter">Leonhard Ender</span>
+        <details>
+        <summary>abstract</summary>
+        <p class="talk-abstract">
+        </p>
+        </details>
+      </div>
+    </td>
+    <td></td>
   </tr>
 
   <tr class="program-break">
@@ -257,11 +363,46 @@ permalink: program
 
   <tr>
     <td>15:30–17:00</td>
-    <td>
-      <div class="session-title">Session IV : MPI Extensions and Data Compression</div>
-    </td>
+    <td class="session-title">Session IV : MPI Extensions and Data Compression</td>
     <td>Session VI</td>
   </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+      <div class="talk">
+        <span class="talk-title">Making MPI Collectives Pluggable</span><br>
+        <span class="talk-presenter">Carsten Clauss</span>
+        <details>
+        <summary>abstract</summary>
+        <p class="talk-abstract">
+        </p>
+        </details>
+      </div>
+
+      <div class="talk">
+        <span class="talk-title">Extending MPI for Portable Payload Compression</span><br>
+        <span class="talk-presenter">Carsten Clauss</span>
+        <details>
+        <summary>abstract</summary>
+        <p class="talk-abstract">
+        </p>
+        </details>
+      </div>
+
+      <div class="talk">
+        <span class="talk-title">Adaptive compression techniques for ad-hoc parallel file systems based on MPI</span><br>
+        <span class="talk-presenter">Dario Muñoz-Muñoz</span>
+        <details>
+        <summary>abstract</summary>
+        <p class="talk-abstract">
+        </p>
+        </details>
+      </div>
+    </td>
+    <td></td>
+  </tr>
+
 </tbody>
 
 </table> </div>
@@ -289,6 +430,21 @@ permalink: program
       <div class="session-title">Best papers of EuroMPI 2026 &amp; IWOMP 2026</div>
     </td>
   </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">
+      <div class="talk">
+        <span class="talk-title">Leveraging the MPI ABI for Binary-Level Detection of MPI Traits</span> (EuroMPI 2026 best paper)<br>
+        <span class="talk-presenter">Tim Jammer</span>
+        <details>
+        <summary>abstract</summary>
+        <p class="talk-abstract">
+        </p>
+        </details>
+      </div>
+    </td>
+  </tr>
+
 
   <tr class="program-break">
     <td>11:00–11:30</td>
