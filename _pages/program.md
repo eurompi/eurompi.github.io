@@ -156,7 +156,9 @@ permalink: program
 
   <tr>
     <td>10:30–12:00</td>
-    <td>Session I</td>
+    <td>
+      <div class="session-title">Session I: Language Interfaces</div>
+    </td>
     <td>Session I</td>
   </tr>
 
@@ -167,7 +169,9 @@ permalink: program
 
   <tr>
     <td>13:30–15:00</td>
-    <td>Session II</td>
+    <td>
+      <div class="session-title">Session II: Correctness and Performance Profiling</div>
+    </td>
     <td>Session II</td>
   </tr>
 
@@ -224,7 +228,9 @@ permalink: program
 
   <tr>
     <td>10:30–12:00</td>
-    <td>Session III</td>
+    <td>
+      <div class="session-title">Session III: Collective Operations and Algorithms</div>
+    </td>
     <td>Session IV</td>
   </tr>
 
@@ -251,7 +257,9 @@ permalink: program
 
   <tr>
     <td>15:30–17:00</td>
-    <td>Session IV</td>
+    <td>
+      <div class="session-title">Session IV : MPI Extensions and Data Compression</div>
+    </td>
     <td>Session VI</td>
   </tr>
 </tbody>
@@ -277,8 +285,9 @@ permalink: program
 
   <tr>
     <td>10:00–11:00</td>
-    <td>Session V</td>
-    <td>Session VII</td>
+    <td colspan="2">
+      <div class="session-title">Best papers of EuroMPI 2026 &amp; IWOMP 2026</div>
+    </td>
   </tr>
 
   <tr class="program-break">
