@@ -427,12 +427,12 @@ permalink: program
   <tr>
     <td>10:00–11:00</td>
     <td colspan="2">
-      <div class="session-title">Best papers of EuroMPI 2026 &amp; IWOMP 2026</div>
+      <div class="session-title">Joint EuroMPI &amp; IWOMP session</div>
     </td>
   </tr>
   <tr>
     <td></td>
-    <td colspan="2">
+    <td>
       <div class="talk">
         <span class="talk-title">Leveraging the MPI ABI for Binary-Level Detection of MPI Traits</span> (EuroMPI 2026 best paper)<br>
         <span class="talk-presenter">Tim Jammer</span>
@@ -442,6 +442,8 @@ permalink: program
         </p>
         </details>
       </div>
+    </td>
+    <td>TBA
     </td>
   </tr>
 
