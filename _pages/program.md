@@ -294,7 +294,7 @@ permalink: program
 
   <tr class="program-panel">
     <td>11:30–12:30</td>
-    <td colspan="2"><strong>Joint Panel:</strong> TBA</td>
+    <td colspan="2"><strong>Joint Panel:</strong> What does AI and can provide for standards</td>
   </tr>
 
   <tr>
