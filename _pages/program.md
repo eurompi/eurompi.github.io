@@ -171,12 +171,6 @@ permalink: program
     <td>Session II</td>
   </tr>
 
-  <tr>
-    <td>15:00–15:15</td>
-    <td>Poster Short Presentations</td>
-    <td class="program-break">Coffee Break</td>
-  </tr>
-
   <tr class="program-break">
     <td>15:00–15:30</td>
     <td colspan="2">Coffee Break</td>
