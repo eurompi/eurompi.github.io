@@ -62,23 +62,6 @@ permalink: venue
   <a href="https://www.oebb.at/en/" target="_blank" rel="noopener">ÖBB</a>.
 </p>
 
-<h3>S7 to Wien Mitte</h3>
-
-<p>
-  The <strong>S7</strong> connects Vienna Airport with
-  <strong>Wien Mitte</strong>.
-</p>
-
-<ul>
-  <li>Journey time: approximately <strong>25 minutes</strong></li>
-  <li>Single ticket: approximately <strong>€5.30</strong>, including the Vienna urban area</li>
-  <li>From Wien Mitte, take <strong>U4</strong> towards Hütteldorf to <strong>Karlsplatz</strong></li>
-</ul>
-
-<p>
-  Tickets can be purchased at the airport railway station or online via
-  <a href="https://www.oebb.at/en/" target="_blank" rel="noopener">ÖBB</a>.
-</p>
 
 <h3>City Airport Train (CAT)</h3>
 
