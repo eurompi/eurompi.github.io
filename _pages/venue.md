@@ -71,9 +71,11 @@ permalink: venue
 </p>
 
 <ul>
+  <li>Temporary service with premium coaches between the airport and Vienna city center, operates every 12 minutes non-stop</li>
+  <li>Ticket can be purchased at the airport train station at the green (CAT) ticket machines or online at <a href="https://www.cityairporttrain.com/en/">https://www.cityairporttrain.com/en/</a></li>
+  <li>From Wien Mitte you have to take underground U4 (green, it’s 2 stops in direction Hütteldorf, you need an additional ticket valid within the Vienna urban area) to Karlsplatz (exit Karlsplatz or Resselpark).</li>
+  <li>single ticket €14.90 + single ticket for the Vienna urban area €3.20</li>
   <li>Journey time: approximately <strong>16 minutes</strong></li>
-  <li>From Wien Mitte, take <strong>U4</strong> towards Hütteldorf to <strong>Karlsplatz</strong></li>
-  <li>A separate Vienna public-transport ticket is required for the U4 journey</li>
 </ul>
 
 <p>
