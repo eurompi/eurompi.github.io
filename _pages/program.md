@@ -159,7 +159,16 @@ permalink: program
 
   <tr class="program-keynote">
     <td>09:00–10:00</td>
-    <td colspan="2"><strong>Joint Keynote 1:</strong> TBA</td>
+    <td colspan="2"><strong>Joint Keynote 1: From JUPITER to the Stars – Experience and Results from Europe’s First Exascale System</strong><br>
+      <i>Andreas Herten, Jülich Supercomputing Centre</i>
+      <details>
+      <summary>Abstract</summary>
+      <p>
+      JUPITER is Europe’s first Exascale system, utilizing about 24 000 GPUs to reach 1 ExaFLOP/s in the HPL benchmark. The system is hosted by Jülich Supercomputing Centre in Germany and currently finishing build-up procedures. The talk will show details of the system, its procurement and deployment, and also first results gained with these thousands of GPUs.</p>
+      <p><strong>Andreas Herten</strong>: Andreas Herten is a lead of the division “Novel System Architecture Design” at Jülich Supercomputing Centre, where his research focuses on accelerator-based computing. He and his team optimize applications, benchmark hardware, develop tools, and performance-critical libraries. He is part of the JUPITER core team and responsible for the benchmarking activities.
+      </p>
+      </details>
+    </td>
   </tr>
 
   <tr class="program-break">
