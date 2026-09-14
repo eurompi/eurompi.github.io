@@ -131,9 +131,9 @@ permalink: program
 
 
 
-<div class="program-intro"> <p> The <strong>EuroMPI &amp; IWOMP 2026</strong> preliminary program is available below. </p>
+<div class="program-intro"> <p> The <strong>EuroMPI &amp; IWOMP 2026</strong> program is available below. </p>
 
-<p> The program is <strong>preliminary and subject to change</strong>. Detailed session information, including individual talks and speakers, will be added as the program is finalized. </p> </div>
+<p> The IWOMP program is also available on the <a href="https://www.iwomp.org/2026-program/">IWOMP 2026 program page</a>. </p> </div>
 
 <h2>Wednesday, 7 October 2026</h2>
 
@@ -436,7 +436,7 @@ permalink: program
 
   <tr>
     <td>13:30–14:30</td>
-    <td>Invited Talk</td>
+    <td>Invited Talk: TBA</td>
     <td rowspan="2">
       <div class="session-title">Session V: Performance Tools</div>
       <div class="talk">
@@ -579,13 +579,13 @@ permalink: program
 
   <tr class="program-panel">
     <td>11:30–12:30</td>
-    <td colspan="2"><strong>Joint Panel:</strong> What does AI with and can it provide for standards?</td>
+    <td colspan="2"><strong>Joint Panel:</strong> What does AI do with, and can it provide for, standards?<br>
+      Panelists: TBA</td>
   </tr>
 
   <tr>
     <td>12:30–12:45</td>
-    <td>Closing Remarks</td>
-    <td></td>
+    <td colspan="2">Closing Remarks</td>
   </tr>
 
   <tr class="program-break">
@@ -601,5 +601,4 @@ permalink: program
 
 </table> </div>
 
-<p class="info-box"> <strong>Note:</strong> This is a preliminary program. Session titles, speakers, timings and room assignments may change. The final program will be published closer to the conference. </p>
-
+<p class="info-box"> <strong>Note:</strong> The program is subject to change. </p>
