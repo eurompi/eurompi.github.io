@@ -16,8 +16,8 @@ EuroMPI 2026 and IWOMP 2026 are co-located. Registration covers both conferences
 | Registration Category | Fee   | Registration Period |
 | ----------------------|-------|---------------------|
 | Full Early Bird       | 500 € | 22 June 2026 – 14 August 2026 |
-| Full Regular          | 600 € | 15 August 2026 – 15 September 2026 |
-| Full Late             | 650 € | 16 September 2026 – 6 October 2026 |
+| Full Regular          | 600 € | 15 August 2026 – 22 September 2026 |
+| Full Late             | 650 € | 23 September 2026 – 6 October 2026 |
 | Student               | 150 € | Available throughout the registration period |
 
 Please note that <b>every presenter must register at the full conference rate</b>, regardless of enrollment status (including students).
