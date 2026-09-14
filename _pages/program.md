@@ -179,7 +179,7 @@ permalink: program
   <tr>
     <td>10:30–12:00</td>
     <td class="session-title">Session I: Language Interfaces</td>
-    <td>Session I</td>
+    <td class="session-title">Session I: OpenMP Benchmarking Directions</td>
   </tr>
 
   <tr>
@@ -216,6 +216,20 @@ permalink: program
       </div>
     </td>
     <td>
+      <div class="talk">
+        <span class="talk-title">OpenMP Validation and Verification Suite: Status of OpenMP Compilers post ECP</span><br>
+        <span class="talk-presenter">Andrew Kallai, Swaroop Pophale, Seyong Lee and Sunita Chandrasekaran</span>
+      </div>
+
+      <div class="talk">
+        <span class="talk-title">A Microbenchmark Suite for OpenMP Target Offload</span><br>
+        <span class="talk-presenter">Weiyu Tu, Mark Bull and James Richings</span>
+      </div>
+
+      <div class="talk">
+        <span class="talk-title">HeCBench-Fortran-OMP: An OpenMP Offloading Benchmark Suite for Fortran Codes</span><br>
+        <span class="talk-presenter">Wael Elwasif, David E. Bernholdt and Swaroop Pophale</span>
+      </div>
     </td>
   </tr>
 
@@ -227,7 +241,7 @@ permalink: program
   <tr>
     <td>13:30–15:00</td>
     <td class="session-title">Session II: Correctness and Performance Profiling</td>
-    <td>Session II</td>
+    <td class="session-title">Session II: Memory and Offloading</td>
   </tr>
 
   <tr>
@@ -253,7 +267,22 @@ permalink: program
         </details>
       </div>
     </td>
-    <td></td>
+    <td>
+      <div class="talk">
+        <span class="talk-title">Unified Shared Memory in OpenMP: Implementation, Programmability, and Performance on Intel Accelerators</span><br>
+        <span class="talk-presenter">Harald Servat, Francois Dugast, Alejandro Duran, Abhinav Gaba and Rakesh Krishnaiyer</span>
+      </div>
+
+      <div class="talk">
+        <span class="talk-title">The access Clause: Combining Synchronizations and Lazy Memory Copies</span><br>
+        <span class="talk-presenter">Romain Pereira and Swann Perarnau</span>
+      </div>
+
+      <div class="talk">
+        <span class="talk-title">Hierarchical OpenMP Offloading in Heterogeneous Clusters</span><br>
+        <span class="talk-presenter">Rémy Neveu, Jhonatan Cléto, Sara Royuela, Jose Manuel Monsalve Diaz and Hervé Yviquel</span>
+      </div>
+    </td>
   </tr>
 
   <tr class="program-break">
@@ -263,8 +292,44 @@ permalink: program
 
   <tr>
     <td>15:30–17:00</td>
-    <td>Poster Short Presentations &amp; Posters</td>
-    <td>Session III</td>
+    <td class="session-title">Poster Short Presentations &amp; Posters</td>
+    <td class="session-title">Session III: Offload Advances</td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td>
+      <div class="talk">
+        <span class="talk-title">A Dynamic Execution Model for HPC Task Graphs Using MPI Sessions and DPP</span><br>
+        <span class="talk-presenter">Dominik Huber, Ali Berat Cetin, Martin Schreiber and Martin Schulz</span>
+      </div>
+
+      <div class="talk">
+        <span class="talk-title">A Faithful MPI-5.0 Reference for AI-Assisted Implementation Coverage Comparison</span><br>
+        <span class="talk-presenter">Anthony Skjellum and C. Nicole Avans</span>
+      </div>
+
+      <div class="talk">
+        <span class="talk-title">Evaluation of MPI's Derived Datatypes on modern GPU Systems</span><br>
+        <span class="talk-presenter">Mike Soehner, Christoph Niethammer and José Gracia</span>
+      </div>
+    </td>
+    <td>
+      <div class="talk">
+        <span class="talk-title">Evaluating UT-Helper for Background Work Offloading in OpenMP Applications</span><br>
+        <span class="talk-presenter">Masatoshi Kawai, Toshihiro Hanawa, Tetsuya Hoshino, Akihiro Ida and Takizawa Hiroyuki</span>
+      </div>
+
+      <div class="talk">
+        <span class="talk-title">OpenMP Tasking on the GPU</span><br>
+        <span class="talk-presenter">Ilias K. Kasmeridis and Vassilios V. Dimakopoulos</span>
+      </div>
+
+      <div class="talk">
+        <span class="talk-title">Efficient OpenMP Target Task Scheduling: An Event-Based Approach</span><br>
+        <span class="talk-presenter">Jan Kraus, Joachim Jenke and Christian Terboven</span>
+      </div>
+    </td>
   </tr>
 
   <tr class="program-social">
@@ -310,7 +375,7 @@ permalink: program
   <tr>
     <td>10:30–12:00</td>
     <td class="session-title">Session III: Collective Operations and Algorithms</td>
-    <td>Session IV</td>
+    <td class="session-title">Session IV: Applications</td>
   </tr>
   
   <tr>
@@ -346,7 +411,22 @@ permalink: program
         </details>
       </div>
     </td>
-    <td></td>
+    <td>
+      <div class="talk">
+        <span class="talk-title">Implementing a Cell Face Update Pattern on Structured Meshes in OpenMP</span><br>
+        <span class="talk-presenter">Mark Bull</span>
+      </div>
+
+      <div class="talk">
+        <span class="talk-title">OpenMP for GPU Data Management in CASTEP</span><br>
+        <span class="talk-presenter">Patrick Williams, Ben Durham, Matthew Smith, Phil Hasnip and Arjen Tamerus</span>
+      </div>
+
+      <div class="talk">
+        <span class="talk-title">Portable Acceleration of Learning With Errors KEMs for Post-Quantum Cryptography</span><br>
+        <span class="talk-presenter">Tiziana Liberati, Nitin Shukla, Simone Rizzo, Elisabetta Boella, Matteo Barbieri, Gabriella Bettonte, Daniele Gregori and Marco Pedicini</span>
+      </div>
+    </td>
   </tr>
 
   <tr class="program-break">
@@ -357,7 +437,23 @@ permalink: program
   <tr>
     <td>13:30–14:30</td>
     <td>Invited Talk</td>
-    <td rowspan="2">Session V</td>
+    <td rowspan="2">
+      <div class="session-title">Session V: Performance Tools</div>
+      <div class="talk">
+        <span class="talk-title">Score-P and OMPT: Bridging the Gap for Offloading in OpenMP Performance Analysis</span><br>
+        <span class="talk-presenter">Jan Andre Reuter and Bernd Mohr</span>
+      </div>
+
+      <div class="talk">
+        <span class="talk-title">Collecting Performance Metrics Along Critical Paths in OpenMP Tasking Applications</span><br>
+        <span class="talk-presenter">Ben Thärigen, Joachim Jenke and Alexander Optenhöfel</span>
+      </div>
+
+      <div class="talk">
+        <span class="talk-title">Challenges Implementing OMPT in the GNU Runtime</span><br>
+        <span class="talk-presenter">Joachim Jenke, Jan Kraus, Thomas Schwinge, Tobias Burnus and Andrew Stubbs</span>
+      </div>
+    </td>
   </tr>
 
   <tr>
@@ -373,7 +469,7 @@ permalink: program
   <tr>
     <td>15:30–17:00</td>
     <td class="session-title">Session IV: MPI Extensions and Data Compression</td>
-    <td>Session VI</td>
+    <td class="session-title">Session VI: Correctness, Faults and Verification</td>
   </tr>
   
   <tr>
@@ -409,7 +505,22 @@ permalink: program
         </details>
       </div>
     </td>
-    <td></td>
+    <td>
+      <div class="talk">
+        <span class="talk-title">Just the Races: Speeding Up Data Race Detection by Concentrating on Instrumentation</span><br>
+        <span class="talk-presenter">Tim Jammer, Simon Schwitanski, Jan Braun and Christian Bischof</span>
+      </div>
+
+      <div class="talk">
+        <span class="talk-title">Lightweight Fault Recovery Against Transient Faults with OpenMP</span><br>
+        <span class="talk-presenter">Marco Lucio Mangiacapre, Giuseppe Italia, Adrian Munera and Sara Royuela</span>
+      </div>
+
+      <div class="talk">
+        <span class="talk-title">LangPORT: Agentic Pipeline for OpenMP Code Translation and Verification</span><br>
+        <span class="talk-presenter">Swaroop Pophale, Wael Elwasif and David E. Bernholdt</span>
+      </div>
+    </td>
   </tr>
 
 </tbody>
@@ -452,7 +563,11 @@ permalink: program
         </details>
       </div>
     </td>
-    <td>TBA
+    <td>
+      <div class="talk">
+        <span class="talk-title">Expressing OpenMP Threading Concepts in the SPMD IR for Hybrid Static Analysis</span><br>
+        <span class="talk-presenter">Semih Burak, Felix Tomski, William Moses, Jens Domke and Matthias Müller</span>
+      </div>
     </td>
   </tr>
 
