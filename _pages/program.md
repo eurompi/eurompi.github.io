@@ -584,7 +584,7 @@ permalink: program
 
   <tr class="program-panel">
     <td>11:30–12:30</td>
-    <td colspan="2"><strong>Joint Panel:</strong> What does AI do with, and can it provide for, standards?<br>
+    <td colspan="2"><strong>Joint Panel:</strong> AI for Standards, Standards for AI<br>
       Panelists: TBA</td>
   </tr>
 
