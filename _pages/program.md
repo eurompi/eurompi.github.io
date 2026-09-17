@@ -313,6 +313,11 @@ permalink: program
         <span class="talk-title">Evaluation of MPI's Derived Datatypes on modern GPU Systems</span><br>
         <span class="talk-presenter">Mike Soehner, Christoph Niethammer and José Gracia</span>
       </div>
+	  
+	  <div class="talk">
+		<span class="talk-title">OSCAR: One-Sided Communications Automatic Rewriting</span><br>
+        <span class="talk-presenter">Radjasouria Vinayagame, Van Man Nguyen, Samuel Thibault and Emmanuelle Saillard</span>
+      </div>
     </td>
     <td>
       <div class="talk">
