@@ -448,7 +448,6 @@ permalink: program
 	  <td>14:30–15:00</td>
       <td>---</td>
       <td>
-		  <div class="session-title">Session V: Performance Tools</div>
 		  <div class="talk">
 			  <span class="talk-title">Score-P and OMPT: Bridging the Gap for Offloading in OpenMP Performance Analysis</span><br>
 			  <span class="talk-presenter">Jan Andre Reuter and Bernd Mohr</span>
