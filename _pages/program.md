@@ -494,6 +494,16 @@ permalink: program
       </div>
 
       <div class="talk">
+        <span class="talk-title">Adaptive compression techniques for ad-hoc parallel file systems based on MPI</span><br>
+        <span class="talk-presenter">Dario Muñoz-Muñoz</span>
+        <details>
+        <summary>Abstract</summary>
+        <p class="talk-abstract">The exponential growth of data-intensive workloads in high-performance computing has led to severe bottlenecks in traditional shared parallel file systems. As a high-performance alternative, ad-hoc parallel file systems leverage local node resources to provide ephemeral, low-latency storage. To achieve maximum portability and peak performance, some ad-hoc solutions rely on MPI as their underlying communication engine. However, because these ad-hoc file systems are located on the same compute nodes as the applications, they introduce critical resource contention. Both layers (application and ad-hoc file system) simultaneously compete for the same local storage, CPU, and MPI network infrastructure, which can degrade overall application throughput. This work addresses these limitations by introducing an adaptive compression technique explicitly designed to mitigate co-location contention in MPI-based ad-hoc storage. The core of this approach is an intelligent mechanism that dynamically decides when to compress data before transmission and stores it in a compressed format on the target server. Thereby reducing the data volume traversing the network and optimizing the limited local storage resources, minimizing the interference caused by the ad-hoc file system during application execution. To validate this approach, the proposed solution was integrated into Expand Ad-Hoc, an ad-hoc parallel file system that relies on an MPI client-server architecture and standard MPI. Evaluated on the C3 supercomputer using the IOR benchmark and the Nek5000 computational fluid dynamics application, our results demonstrate that adaptive compression significantly reduces network and disk contention. When data is compressed by half, write performance improves by 148% and read performance by 29%, highlighting the critical role of data reduction strategies in optimizing MPI-communicating storage software.
+        </p>
+        </details>
+      </div>
+	  
+	        <div class="talk">
         <span class="talk-title">Extending MPI for Portable Payload Compression</span><br>
         <span class="talk-presenter">Carsten Clauss</span>
         <details>
@@ -503,15 +513,6 @@ permalink: program
         </details>
       </div>
 
-      <div class="talk">
-        <span class="talk-title">Adaptive compression techniques for ad-hoc parallel file systems based on MPI</span><br>
-        <span class="talk-presenter">Dario Muñoz-Muñoz</span>
-        <details>
-        <summary>Abstract</summary>
-        <p class="talk-abstract">The exponential growth of data-intensive workloads in high-performance computing has led to severe bottlenecks in traditional shared parallel file systems. As a high-performance alternative, ad-hoc parallel file systems leverage local node resources to provide ephemeral, low-latency storage. To achieve maximum portability and peak performance, some ad-hoc solutions rely on MPI as their underlying communication engine. However, because these ad-hoc file systems are located on the same compute nodes as the applications, they introduce critical resource contention. Both layers (application and ad-hoc file system) simultaneously compete for the same local storage, CPU, and MPI network infrastructure, which can degrade overall application throughput. This work addresses these limitations by introducing an adaptive compression technique explicitly designed to mitigate co-location contention in MPI-based ad-hoc storage. The core of this approach is an intelligent mechanism that dynamically decides when to compress data before transmission and stores it in a compressed format on the target server. Thereby reducing the data volume traversing the network and optimizing the limited local storage resources, minimizing the interference caused by the ad-hoc file system during application execution. To validate this approach, the proposed solution was integrated into Expand Ad-Hoc, an ad-hoc parallel file system that relies on an MPI client-server architecture and standard MPI. Evaluated on the C3 supercomputer using the IOR benchmark and the Nek5000 computational fluid dynamics application, our results demonstrate that adaptive compression significantly reduces network and disk contention. When data is compressed by half, write performance improves by 148% and read performance by 29%, highlighting the critical role of data reduction strategies in optimizing MPI-communicating storage software.
-        </p>
-        </details>
-      </div>
     </td>
     <td>
       <div class="talk">
