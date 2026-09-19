@@ -440,16 +440,21 @@ permalink: program
   </tr>
 
   <tr>
-    <td>13:30–14:30</td>
-    <td>Invited Talk: TBA</td>
-    <td rowspan="2">
-      <div class="session-title">Session V: Performance Tools</div>
-      <div class="talk">
-        <span class="talk-title">Score-P and OMPT: Bridging the Gap for Offloading in OpenMP Performance Analysis</span><br>
-        <span class="talk-presenter">Jan Andre Reuter and Bernd Mohr</span>
-      </div>
+      <td>13:30–14:30</td>
+      <td class="session-title">Invited Talk: TBA</td>
+	  <td class="session-title">Session V: Performance Tools</td>
+  </tr>
+  <tr>
+	  <td>14:30–15:00</td>
+      <td>---</td>
+      <td>
+		  <div class="session-title">Session V: Performance Tools</div>
+		  <div class="talk">
+			  <span class="talk-title">Score-P and OMPT: Bridging the Gap for Offloading in OpenMP Performance Analysis</span><br>
+			  <span class="talk-presenter">Jan Andre Reuter and Bernd Mohr</span>
+		  </div>
 
-      <div class="talk">
+	<div class="talk">
         <span class="talk-title">Collecting Performance Metrics Along Critical Paths in OpenMP Tasking Applications</span><br>
         <span class="talk-presenter">Ben Thärigen, Joachim Jenke and Alexander Optenhöfel</span>
       </div>
@@ -459,11 +464,10 @@ permalink: program
         <span class="talk-presenter">Joachim Jenke, Jan Kraus, Thomas Schwinge, Tobias Burnus and Andrew Stubbs</span>
       </div>
     </td>
-  </tr>
+</tr>
 
   <tr>
-    <td>14:30–15:00</td>
-    <td>---</td>
+    
   </tr>
 
   <tr class="program-break">
