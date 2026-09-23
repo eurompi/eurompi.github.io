@@ -440,14 +440,26 @@ permalink: program
   </tr>
 
   <tr>
-      <td>13:30–14:30</td>
-      <td class="session-title">Invited Talk: TBA</td>
+      <td>13:30–15:00</td>
+      <td class="session-title"><strong>Invited Talk</strong></td>
 	  <td class="session-title">Session V: Performance Tools</td>
   </tr>
   <tr>
-	  <td>14:30–15:00</td>
-      <td>---</td>
-      <td>
+	  <td></td>
+      <td style="vertical-align:top;">What Happens in MPI Shouldn't Stay in MPI - Making Communication Visible for Learning and Performance Analysis (60 min)<br>
+      <i>Anna-Lena Roth</i>
+      <details>
+      <summary>Abstract</summary>
+      <p>Learning MPI means more than learning its syntax. Efficient parallel programs require understanding why communication is necessary but expensive, why an exchange within a node differs from one across the network, and which performance problems arise from communication itself. Such understanding is part of performance analysis, which typically appears late in curricula. Collective operations illustrate this: learners see a single call, while the communication actually carried out by the MPI library remains invisible.<br>
+
+      This talk presents approaches to teaching MPI in which communication itself becomes the central representation. Based on three years of classroom experience with EduMPI Suite, it discusses the near-real-time visualization of MPI communication, its mapping onto processes, nodes, and cores, and the decomposition of collective operations into their underlying point-to-point communication, which makes the selected algorithm observable. Obtaining this information currently requires a modified MPI implementation, as PMPI intercepts calls at the API boundary and MPI_T, although intended to expose internal information, remains limited in coverage and implementation support.<br>
+
+      Usability studies and classroom evaluations show which representations change how learners reason about communication, and how visible collective algorithms turn claims about efficiency into observations. In a comparative usability study, 96 % of analysis tasks were solved with EduMPI Suite, compared with 60 % using TAU or CUBE. This experience also indicates what the MPI standard could contribute to make such data more accessible to learning support and performance analysis tools. The same principle extends to asynchronous many-task runtimes, increasingly taught as a higher-level alternative to explicit MPI development. Where MPI serves as their backend, the communication they generate, including collective operations, is again hidden. Making this communication observable is the next step.</p>
+
+      <p><strong>Anna-Lena Roth</strong> is a computer scientist working at the intersection of High-Performance Computing (HPC) and education, with a focus on making MPI communication understandable through performance analysis and visualization. At Fulda University of Applied Sciences, Germany, she works as a postdoctoral researcher and completed her PhD in computer science in 2026 on integrating performance analysis into HPC education. She holds a Bachelor's degree in Digital Media and a Master's degree in Applied Computer Science. EduMPI Suite, the learning support tool she developed, provides near-real-time visualization of MPI communication, including the internal algorithms of collective operations. Beyond education, her current research addresses resource adaptivity for task-based applications on HPC clusters, investigating Asynchronous Many-Task (AMT) systems that adjust their resources dynamically at runtime.</p>
+      </details>
+      </td>
+      <td style="vertical-align:top;">
 		  <div class="talk">
 			  <span class="talk-title">Score-P and OMPT: Bridging the Gap for Offloading in OpenMP Performance Analysis</span><br>
 			  <span class="talk-presenter">Jan Andre Reuter and Bernd Mohr</span>
