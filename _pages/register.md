@@ -24,6 +24,15 @@ Please note that <b>every presenter must register at the full conference rate</b
 
 The student registration rate is available only to students who are not presenting a paper or poster. It includes one ticket for the social event on Wednesday.
 
+## Online registration
+
+<b>Online registration is now open.</b>
+
+EuroMPI 2026 provides a free online registration which grants access to the complete conference online.
+
+Please register through <a href="https://events.asc.ac.at/event/393/"> ASC EuroMPI remote access portal</a>.
+
+
 ## MPI Forum info
 The MPI Forum meeting will take place immediately before EuroMPI 2026 at the same venue.
 
