@@ -612,7 +612,8 @@ permalink: program
   <tr class="program-panel">
     <td>11:30–12:30</td>
     <td colspan="2"><strong>Joint Panel:</strong> AI for Standards, Standards for AI<br>
-      Panelists: C. Nicole Avans, Wes Bland, Jeff Hammond, Michael Klemm</td>
+      Panelists: C. Nicole Avans, Wes Bland, Jeff Hammond, Michael Klemm<br>
+      Moderator: Christoph Niethammer</td>
   </tr>
 
   <tr class="program-closing">
@@ -632,5 +633,3 @@ permalink: program
 </tbody>
 
 </table> </div>
-
-<p class="info-box"> <strong>Note:</strong> The program is subject to change. </p>
