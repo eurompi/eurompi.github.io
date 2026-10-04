@@ -59,6 +59,15 @@ permalink: program
     background: #f7f7f7;
   }
 
+  .program-registration td,
+  .program-welcome td,
+  .program-social td,
+  .program-joint-session td,
+  .program-closing td,
+  .program-end td {
+    text-align: center;
+  }
+
   .program-keynote td,
   .program-panel td {
     font-weight: 600;
@@ -567,7 +576,7 @@ permalink: program
     </td>
   </tr>
 
-  <tr>
+  <tr class="program-joint-session">
     <td>10:00–11:00</td>
     <td colspan="2">
       <div class="session-title">Joint EuroMPI &amp; IWOMP session</div>
@@ -606,7 +615,7 @@ permalink: program
       Panelists: C. Nicole Avans, Wes Bland, Jeff Hammond, Michael Klemm</td>
   </tr>
 
-  <tr>
+  <tr class="program-closing">
     <td>12:30–12:45</td>
     <td colspan="2">Closing Remarks</td>
   </tr>
