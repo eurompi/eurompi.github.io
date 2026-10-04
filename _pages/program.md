@@ -68,6 +68,14 @@ permalink: program
     text-align: center;
   }
 
+  .program-room {
+    font-size: 0.85em;
+    font-weight: normal;
+    font-style: normal;
+    color: #666;
+    white-space: nowrap;
+  }
+
   .program-keynote td,
   .program-panel td {
     font-weight: 600;
@@ -150,26 +158,26 @@ permalink: program
 <thead>
   <tr>
     <th class="program-time">Time</th>
-    <th>EuroMPI</th>
-    <th>IWOMP</th>
+    <th>EuroMPI <span class="program-room">· ADEG19</span></th>
+    <th>IWOMP <span class="program-room">· Böcklsaal (1st floor)</span></th>
   </tr>
 </thead>
 
 <tbody>
   <tr class="program-registration">
     <td>08:30–08:55</td>
-    <td colspan="2">Registration &amp; Coffee</td>
+    <td colspan="2">Registration &amp; Coffee <span class="program-room">· Böcklsaal or Foyer (1st floor)</span></td>
   </tr>
 
   <tr class="program-welcome">
     <td>08:55–09:00</td>
-    <td colspan="2">Welcome</td>
+    <td colspan="2">Welcome <span class="program-room">· Böcklsaal (1st floor)</span></td>
   </tr>
 
   <tr class="program-keynote">
     <td>09:00–10:00</td>
     <td colspan="2"><strong>Joint Keynote 1: From JUPITER to the Stars – Experience and Results from Europe’s First Exascale System</strong><br>
-      <i>Andreas Herten, Jülich Supercomputing Centre</i>
+      <i>Andreas Herten, Jülich Supercomputing Centre</i> <span class="program-room">· Böcklsaal (1st floor)</span>
       <details>
       <summary>Abstract</summary>
       <p>
@@ -182,7 +190,7 @@ permalink: program
 
   <tr class="program-break">
     <td>10:00–10:30</td>
-    <td colspan="2">Coffee Break</td>
+    <td colspan="2">Coffee Break <span class="program-room">· Foyer (1st floor)</span></td>
   </tr>
 
   <tr>
@@ -244,7 +252,7 @@ permalink: program
 
   <tr class="program-break">
     <td>12:00–13:30</td>
-    <td colspan="2">Lunch</td>
+    <td colspan="2">Lunch <span class="program-room">· Foyer (1st floor)</span></td>
   </tr>
 
   <tr>
@@ -296,7 +304,7 @@ permalink: program
 
   <tr class="program-break">
     <td>15:00–15:30</td>
-    <td colspan="2">Coffee Break</td>
+    <td colspan="2">Coffee Break <span class="program-room">· Foyer (1st floor)</span></td>
   </tr>
 
   <tr>
@@ -350,7 +358,8 @@ permalink: program
     <td>19:00</td>
     <td colspan="2">
       <strong>Social Event</strong><br>
-      EuroMPI &amp; IWOMP Joint Dinner
+      EuroMPI &amp; IWOMP Joint Dinner in the Grinzinger Keller at the Rathauskeller<br>
+      <a href="/venue#social-event">Location &amp; directions</a>
     </td>
   </tr>
 </tbody>
@@ -359,12 +368,12 @@ permalink: program
 
 <h2>Thursday, 8 October 2026</h2>
 
-<div class="program-day"> <table class="program-table"> <thead> <tr> <th class="program-time">Time</th> <th>EuroMPI</th> <th>IWOMP</th> </tr> </thead> <tbody> <tr class="program-registration"> <td>08:30–09:00</td> <td colspan="2">Registration &amp; Coffee</td> </tr>
+<div class="program-day"> <table class="program-table"> <thead> <tr> <th class="program-time">Time</th> <th>EuroMPI <span class="program-room">· ADEG19</span></th> <th>IWOMP <span class="program-room">· Böcklsaal (1st floor)</span></th> </tr> </thead> <tbody> <tr class="program-registration"> <td>08:30–09:00</td> <td colspan="2">Registration &amp; Coffee <span class="program-room">· Foyer (1st floor)</span></td> </tr>
 
   <tr class="program-keynote">
     <td>09:00–10:00</td>
     <td colspan="2"><strong>Joint Keynote 2:</strong> Who Decides? Beyond Runtime Defaults, Toward Adaptive Multi-Device OpenMP<br>
-      <i>Florina M. Ciorba, University of Basel</i>
+      <i>Florina M. Ciorba, University of Basel</i> <span class="program-room">· Böcklsaal (1st floor)</span>
       <details>
       <summary>Abstract</summary>
       <p>OpenMP has spent two decades making parallelism expressible. The harder question now is who decides how that parallelism is exploited. Every OpenMP program already delegates its most important choices (which schedule and chunk size, which task runs next, which device, how many teams) to a compiler, a runtime, an operating system, and a batch scheduler, and these rarely talk to one another. On heterogeneous multi-device systems, and with irregular, AI-augmented workloads, those choices can no longer be made once, statically, by whoever wrote or implemented the directive.<br>
@@ -383,7 +392,7 @@ permalink: program
 
   <tr class="program-break">
     <td>10:00–10:30</td>
-    <td colspan="2">Coffee Break</td>
+    <td colspan="2">Coffee Break <span class="program-room">· Foyer (1st floor)</span></td>
   </tr>
 
   <tr>
@@ -445,7 +454,7 @@ permalink: program
 
   <tr class="program-break">
     <td>12:00–13:30</td>
-    <td colspan="2">Lunch</td>
+    <td colspan="2">Lunch <span class="program-room">· Foyer (1st floor)</span></td>
   </tr>
 
   <tr>
@@ -492,7 +501,7 @@ permalink: program
 
   <tr class="program-break">
     <td>15:00–15:30</td>
-    <td colspan="2">Coffee Break</td>
+    <td colspan="2">Coffee Break <span class="program-room">· Foyer (1st floor)</span></td>
   </tr>
 
   <tr>
@@ -560,6 +569,8 @@ permalink: program
 </table> </div>
 
 <h2>Friday, 9 October 2026</h2>
+
+<p>Rooms: everything in ADEG19 (ground floor). See <a href="/venue#rooms">venue</a>.</p>
 
 <div class="program-day"> <table class="program-table"> <thead> <tr> <th class="program-time">Time</th> <th>EuroMPI</th> <th>IWOMP</th> </tr> </thead> <tbody> <tr class="program-registration"> <td>08:30–09:00</td> <td colspan="2">Registration &amp; Coffee</td> </tr>
 

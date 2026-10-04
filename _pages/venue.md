@@ -16,12 +16,19 @@ permalink: venue
   1040 Vienna, Austria
 </div>
 
-<p><strong>Local registration</strong> will take place at the <strong>Boecklsaal</strong>, 1st floor.</p>
-
 <p>
   <a href="https://maps.app.goo.gl/QKmLzFsUb6uGjGZL9" target="_blank" rel="noopener">Google Maps</a><br>
   <a href="https://maps.tuwien.ac.at/?q=AA0162" target="_blank" rel="noopener">TU Wien campus map</a>
 </p>
+
+<p><strong>Local registration</strong> will take place on <strong>Wednesday, 7 October 2026, from 08:30</strong> on the 1st floor, at the <strong>Böcklsaal</strong> or in the <strong>Foyer</strong>.</p>
+
+<h3 id="rooms">Rooms</h3>
+
+<ul>
+  <li><strong>Wednesday &amp; Thursday:</strong> keynotes and IWOMP in the <strong>Böcklsaal</strong> (1st floor), EuroMPI in <strong>ADEG19</strong>, catering in the <strong>Foyer</strong> (1st floor)</li>
+  <li><strong>Friday:</strong> everything in <strong>ADEG19</strong> (ground floor)</li>
+</ul>
 
 <h1>How to Get to Vienna and TU Wien</h1>
 
@@ -115,12 +122,12 @@ permalink: venue
 <p>A selection of hotels recommended for the event can be found in the <a href="https://www.tuwien.at/fileadmin/Assets/dienstleister/Eventmanagement/TU_Wien_Hotel_Kooperationen.pdf">list of hotels cooperating with TU Wien</a>.</p>
 
 
-<h1>Social Event: EuroMPI &amp; IWOMP Joint Dinner</h1>
+<h1 id="social-event">Social Event: EuroMPI &amp; IWOMP Joint Dinner</h1>
 
-<p>The joint EuroMPI &amp; IWOMP dinner will take place at <strong>Rathauskeller / Grinzinger Keller</strong> on <strong>Wednesday, 7 October 2026</strong></p>
+<p>The joint EuroMPI &amp; IWOMP dinner will take place in the <strong><a href="https://www.wiener-rathauskeller.at/en/venue-2/grinzinger-cellar/" target="_blank" rel="noopener">Grinzinger Keller</a></strong> at the <strong><a href="https://www.wiener-rathauskeller.at/en/" target="_blank" rel="noopener">Rathauskeller</a></strong> on <strong>Wednesday, 7 October 2026, at 19:00</strong>.</p>
 
 <div class="address-box">
-  <strong>Rathauskeller</strong><br>
+  <strong>Rathauskeller (Grinzinger Keller)</strong><br>
   Rathausplatz 1<br>
   1010 Vienna, Austria
 </div>
@@ -130,13 +137,17 @@ permalink: venue
 <p><a href="https://maps.app.goo.gl/T9dTZvok8sPNayQP9" target="_blank" rel="noopener">Google Maps</a></p>
 
 
-<h3>Sightseeing options</h3>
+<h3>Getting to the dinner</h3>
 
-<p>We are preparing two optional sightseeing routes for getting to the dinner.</p>
-
-<p>
-  The sightseeing options will be updated closer to the event.
-</p>
+<ul>
+  <li><strong>Walking tour (1 hour):</strong>
+    <a href="https://maps.app.goo.gl/9gGgRkzS6QiMSR8A9" target="_blank" rel="noopener">path 1 (via St. Stephen's Cathedral)</a> or
+    <a href="https://maps.app.goo.gl/jeJVyP3pmuzJApfn7" target="_blank" rel="noopener">path 2 (via Hofburg)</a></li>
+  <li><strong>Public transport including sightseeing light via tram number 2 (20 min):</strong>
+    from <strong>Oper, Karlsplatz U</strong> take <strong>tram 2</strong> (2 or 3 stops in direction Dornbach) to <strong>Ring/Volkstheater</strong> or to <strong>Rathaus</strong></li>
+  <li><strong>Public transport via underground U2 (15 min):</strong>
+    from <strong>Karlsplatz</strong> take <strong>U2</strong> (purple line, 3 stops in direction Seestadt) to <strong>Rathausplatz</strong></li>
+</ul>
 
 <h1>Invitation Letters</h1>
 
