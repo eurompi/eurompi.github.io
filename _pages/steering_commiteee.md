@@ -19,7 +19,7 @@ permalink: steering_committee
   * Term Expiry: 2027
 * Previous Past Chair: Claudia Blaas-Schenner, ASC Research Center, TU Wien
   * Term Expiry: 2026
-* Next Chair: TBD
+* Next Chair: Julien Jaeger, CEA
 
 ## Bylaws
 
