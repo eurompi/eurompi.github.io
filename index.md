@@ -15,7 +15,7 @@ permalink: index
 
 
   <p>
-  In 2026, EuroMPI Conference will take place in Vienna, Austria, in the week of October 7 - October 9, 2026. The conference will be co-located with the <a href="https://www.iwomp.org">22th International Workshop on OpenMP (IWOMP 2026)</a> that will be held the same week. The MPI Forum will also meet following the EuroMPI Conference. The dates will be updated once we get closer to the event.
+  In 2026, EuroMPI Conference will take place in Vienna, Austria, in the week of October 7 - October 9, 2026. The conference will be co-located with the <a href="https://www.iwomp.org">22th International Workshop on OpenMP (IWOMP 2026)</a> that will be held the same week. The MPI Forum will also meet before the EuroMPI Conference.
   </p>
 
   <p>
@@ -25,18 +25,6 @@ permalink: index
   <p>
   Through the presentation of contributed papers, posters and invited talks, the conference presents a complete overview of MPI, its current usage in the parallel programming landscape, and its future directions. The EuroMPI conference provides ample opportunities for attendees to interact and share ideas and experiences to contribute to the improvement and furthering of message-passing and related parallel programming paradigms.
   </p>
-<!---
-<p>
-EuroMPI/USA is made possible through the generous support of the following organisations and sponsors.
-<table border="0">
-  <tr>
-    <td><img src="assets/ansys-sponsor-180.png" alt="Ansys" width="180" style="margin-right: 1cm"></td>
-    <td><img src="assets/mpi-forum-logo.jpg" alt="MPI Forum" width="180" style="margin-left: 1em"></td>
-    <td><img src="assets/sponsor-logo-openmp.png" alt="OpenMP ARB" width="180" style="margin-left: 1em"></td>
-  </tr>
-</table>
-</p>
--->
 </div>
 
 
@@ -58,8 +46,6 @@ EuroMPI/USA is made possible through the generous support of the following organ
 <div class="text-justify conference-text">
 
 <h2>Contact</h2>
-
-<!--- EuroMPI/USA is on <a href="https://bsky.app/profile/eurompiconf.bsky.social">Bluesky</a>! --->
 
 <p>For queries relating to the conference or research papers (submission, deadlines, publishing, etc.) please contact <a href="eurompiconference@gmail.com">eurompiconference@gmail.com</a></p>
 

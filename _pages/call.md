@@ -10,7 +10,7 @@ permalink: call
 
 <p>EuroMPI 2026 will continue to focus on advancing the ubiquitous Message Passing Interface (MPI) model and specification for parallel programming. It will also encompass extensions and alternative interfaces for high-performance heterogeneous and hybrid systems, benchmarks, tools, parallel I/O, fault tolerance, and parallel applications using MPI and other interfaces.</p>  
 
-<p>EuroMPI 2026 will be hosted by TU Wien, in the center of Vienna, Austria and will be co-located with <a href="https://www.iwomp.org/">IWOMP 2026</a> (October 7 - October 9, 2026), with joint tutorials, and opportunities for interaction between the two communities.</p>
+<p>EuroMPI 2026 will be hosted by TU Wien, in the center of Vienna, Austria and will be co-located with <a href="https://www.iwomp.org/">IWOMP 2026</a> (October 7 - October 9, 2026), with joint keynotes, and opportunities for interaction between the two communities.</p>
 
 <p>Through the presentation of full papers, position papers, posters, and invited talks, the meeting will provide ample opportunities for attendees to interact and share ideas and experiences to contribute to the improvement and furthering of message-passing and related parallel programming paradigms.</p>
 
