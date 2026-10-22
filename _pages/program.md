@@ -176,7 +176,7 @@ permalink: program
 
   <tr class="program-keynote">
     <td>09:00–10:00</td>
-    <td colspan="2"><strong>Joint Keynote 1: From JUPITER to the Stars – Experience and Results from Europe’s First Exascale System</strong><br>
+    <td colspan="2"><strong>Joint Keynote 1: From JUPITER to the Stars – Experience and Results from Europe’s First Exascale System</strong> (<a href="/assets/slides/EuroMPI-IWOMP-2026_Keynote_Herten_From JUPITER to the Stars.pdf">slides</a>)<br>
       <i>Andreas Herten, Jülich Supercomputing Centre</i> <span class="program-room">· Böcklsaal (1st floor)</span>
       <details>
       <summary>Abstract</summary>
@@ -203,7 +203,7 @@ permalink: program
     <td></td>
     <td>
       <div class="talk">
-        <span class="talk-title">Core MPI</span><br>
+        <span class="talk-title">Core MPI</span> (<a href="/assets/slides/EuroMPI-2026-10-07-Zhou_Core MPI.pdf">slides</a>)<br>
         <span class="talk-presenter">Hui Zhou</span>
         <details>
         <summary>Abstract</summary>
@@ -213,7 +213,7 @@ permalink: program
       </div>
 
       <div class="talk">
-        <span class="talk-title">Concepts in Practice: C++ MPI Bindings for the HPC Ecosystem. From a Standardizable Core to a Composable Interface</span><br>
+        <span class="talk-title">Concepts in Practice: C++ MPI Bindings for the HPC Ecosystem. From a Standardizable Core to a Composable Interface</span> (<a href="/assets/slides/EuroMPI-2026-10-07-Uhl_Concepts in Practice: C++ MPI Bindings for the HPC Ecosystem. From a Standardizable Core to a Composable Interface.pdf">slides</a>)<br>
         <span class="talk-presenter">Tim Niklas Uhl</span>
         <details>
         <summary>Abstract</summary>
@@ -223,7 +223,7 @@ permalink: program
       </div>
 
       <div class="talk">
-        <span class="talk-title">Write Once, Communicate Anywhere: API Design for Performance-Portable Communication</span><br>
+        <span class="talk-title">Write Once, Communicate Anywhere: API Design for Performance-Portable Communication</span> (<a href="/assets/slides/EuroMPI-2026-10-07-DosSantos_Write Once, Communicate Anywhere_ API Design for Performance-Portable Communication.pdf">slides</a>)<br>
         <span class="talk-presenter">Gabriel Dos Santos</span>
         <details>
         <summary>Abstract</summary>
@@ -265,7 +265,7 @@ permalink: program
     <td></td>
     <td>
       <div class="talk">
-        <span class="talk-title">Allocation Tracking and Parameter Checking for Parallel Programming Models using Contracts</span><br>
+        <span class="talk-title">Allocation Tracking and Parameter Checking for Parallel Programming Models using Contracts</span> (<a href="/assets/slides/EuroMPI-2026-10-07-Oraji_Allocation Tracking and Parameter Checking for Parallel Programming Models using Contracts.pdf">slides</a>)<br>
         <span class="talk-presenter">Yussur Mustafa Oraji</span>
         <details>
         <summary>Abstract</summary>
@@ -275,7 +275,7 @@ permalink: program
       </div>
 
       <div class="talk">
-        <span class="talk-title">How Caching Distorts MPI Point-to-Point Performance</span><br>
+        <span class="talk-title">How Caching Distorts MPI Point-to-Point Performance</span> (<a href="/assets/slides/EuroMPI-2026-10-07-Bartelheimer_How Caching Distorts MPI Point-to-Point Performance.pdf">slides</a>)<br>
         <span class="talk-presenter">Niklas Bartelheimer</span>
         <details>
         <summary>Abstract</summary>
@@ -372,7 +372,7 @@ permalink: program
 
   <tr class="program-keynote">
     <td>09:00–10:00</td>
-    <td colspan="2"><strong>Joint Keynote 2:</strong> Who Decides? Beyond Runtime Defaults, Toward Adaptive Multi-Device OpenMP<br>
+    <td colspan="2"><strong>Joint Keynote 2:</strong> Who Decides? Beyond Runtime Defaults, Toward Adaptive Multi-Device OpenMP (<a href="/assets/slides/EuroMPI-IWOMP-2026_Keynote_Ciorba_Who Decides.pdf">slides</a>)<br>
       <i>Florina M. Ciorba, University of Basel</i> <span class="program-room">· Böcklsaal (1st floor)</span>
       <details>
       <summary>Abstract</summary>
@@ -405,7 +405,7 @@ permalink: program
     <td></td>
     <td>
       <div class="talk">
-        <span class="talk-title">Effective MPI: User-defined Datatypes and Cartesian Communicators for Zero-copy All-to-all Communication in Multidimensional Tori</span><br>
+        <span class="talk-title">Effective MPI: User-defined Datatypes and Cartesian Communicators for Zero-copy All-to-all Communication in Multidimensional Tori</span> (<a href="/assets/slides/EuroMPI-2026-10-08-Träff_Effective MPI: User-defined Datatypes and Cartesian Communicators for Zero-copy All-to-all Communication in Multidimensional Tori.pdf">slides</a>)<br>
         <span class="talk-presenter">Jesper Larsson Träff</span>
         <details>
         <summary>Abstract</summary>
@@ -415,7 +415,7 @@ permalink: program
       </div>
 
       <div class="talk">
-        <span class="talk-title">A Unified Two-Dimensional Design Space for the MPI All-to-All Collective</span><br>
+        <span class="talk-title">A Unified Two-Dimensional Design Space for the MPI All-to-All Collective</span> (<a href="/assets/slides/EuroMPI-2026-10-08-Fan_A Unified Two-Dimensional Design Space for the MPI All-to-All Collective.pdf">slides</a>)<br>
         <span class="talk-presenter">Ke Fan</span>
         <details>
         <summary>Abstract</summary>
@@ -425,7 +425,7 @@ permalink: program
       </div>
 
       <div class="talk">
-        <span class="talk-title">The Allgather-merge Collective Operation: Algorithms, Implementation, Performance</span><br>
+        <span class="talk-title">The Allgather-merge Collective Operation: Algorithms, Implementation, Performance</span> (<a href="/assets/slides/EuroMPI-2026-10-08-Ender_The Allgather-merge Collective Operation: Algorithms, Implementation, Performance.pdf">slides</a>)<br>
         <span class="talk-presenter">Leonhard Ender</span>
         <details>
         <summary>Abstract</summary>
@@ -464,7 +464,7 @@ permalink: program
   </tr>
   <tr>
 	  <td></td>
-      <td style="vertical-align:top;">What Happens in MPI Shouldn't Stay in MPI - Making Communication Visible for Learning and Performance Analysis (60 min)<br>
+      <td style="vertical-align:top;">What Happens in MPI Shouldn't Stay in MPI - Making Communication Visible for Learning and Performance Analysis (60 min) (<a href="/assets/slides/EuroMPI-2026_Invited_talk_Roth_What Happens in MPI Shouldn&apos;t Stay in MPI.pdf">slides</a>)<br>
       <i>Anna-Lena Roth</i>
       <details>
       <summary>Abstract</summary>
@@ -514,7 +514,7 @@ permalink: program
     <td></td>
     <td>
        <div class="talk">
-        <span class="talk-title">Extending MPI for Portable Payload Compression</span><br>
+        <span class="talk-title">Extending MPI for Portable Payload Compression</span> (<a href="/assets/slides/EuroMPI-2026-10-08-Clauss_Extending MPI for Portable Payload Compression.pdf">slides</a>)<br>
         <span class="talk-presenter">Carsten Clauss</span>
         <details>
         <summary>Abstract</summary>
@@ -525,7 +525,7 @@ permalink: program
 
 
       <div class="talk">
-        <span class="talk-title">Adaptive compression techniques for ad-hoc parallel file systems based on MPI</span><br>
+        <span class="talk-title">Adaptive compression techniques for ad-hoc parallel file systems based on MPI</span> (<a href="/assets/slides/EuroMPI-2026-10-08-Muñoz_Adaptive compression techniques for ad-hoc parallel file systems based on MPI.pdf">slides</a>)<br>
         <span class="talk-presenter">Dario Muñoz-Muñoz</span>
         <details>
         <summary>Abstract</summary>
@@ -535,7 +535,7 @@ permalink: program
       </div>
 	  
       <div class="talk">
-        <span class="talk-title">Making MPI Collectives Pluggable</span><br>
+        <span class="talk-title">Making MPI Collectives Pluggable</span> (<a href="/assets/slides/EuroMPI-2026-10-08-Clauss_Making MPI Collectives Pluggable.pdf">slides</a>)<br>
         <span class="talk-presenter">Carsten Clauss</span>
         <details>
         <summary>Abstract</summary>
@@ -576,7 +576,7 @@ permalink: program
 
   <tr class="program-keynote">
     <td>09:00–10:00</td>
-    <td colspan="2"><strong>Joint Keynote 3:</strong> Experiences with AI-Driven Development in HPC Software<br>
+    <td colspan="2"><strong>Joint Keynote 3:</strong> Experiences with AI-Driven Development in HPC Software (<a href="/assets/slides/EuroMPI-IWOMP-2026_Keynote_Hammond_Experiences with AI-Driven Development in HPC Software.pdf">slides</a>)<br>
       <i>Jeff Hammond, NVIDIA</i>
 
       <details><summary>Abstract</summary>
@@ -597,7 +597,7 @@ permalink: program
     <td></td>
     <td>
       <div class="talk">
-        <span class="talk-title">Leveraging the MPI ABI for Binary-Level Detection of MPI Traits</span> (EuroMPI 2026 best paper)<br>
+        <span class="talk-title">Leveraging the MPI ABI for Binary-Level Detection of MPI Traits</span> (EuroMPI 2026 best paper) (<a href="/assets/slides/EuroMPI-2026-10-09-Jammer_Leveraging the MPI ABI for Binary-Level Detection of MPI Traits.pdf">slides</a>)<br>
         <span class="talk-presenter">Tim Jammer</span>
         <details>
         <summary>Abstract</summary>
