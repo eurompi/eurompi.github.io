@@ -318,22 +318,22 @@ permalink: program
     <td>
       <div class="talk">
         <span class="talk-title">A Dynamic Execution Model for HPC Task Graphs Using MPI Sessions and DPP</span><br>
-        <span class="talk-presenter">Dominik Huber, Ali Berat Cetin, Martin Schreiber and Martin Schulz</span>
+        <span class="talk-presenter">Dominik Huber, Ali Berat Cetin, Martin Schreiber and Martin Schulz</span> (<a href="/assets/posters/eurompi2026_poster-official_dominik_huber.pdf">poster</a>)
       </div>
 
       <div class="talk">
         <span class="talk-title">A Faithful MPI-5.0 Reference for AI-Assisted Implementation Coverage Comparison</span><br>
-        <span class="talk-presenter">Anthony Skjellum and C. Nicole Avans</span>
+        <span class="talk-presenter">Anthony Skjellum and C. Nicole Avans</span> (<a href="/assets/posters/eurompi2026_poster-official_nicole_avans.pdf">poster</a>)
       </div>
 
       <div class="talk">
         <span class="talk-title">Evaluation of MPI's Derived Datatypes on modern GPU Systems</span><br>
-        <span class="talk-presenter">Mike Soehner, Christoph Niethammer and José Gracia</span>
+        <span class="talk-presenter">Mike Soehner, Christoph Niethammer and José Gracia</span> (<a href="/assets/posters/eurompi2026_poster-official_mike_soehner.pdf">poster</a>)
       </div>
 	  
 	  <div class="talk">
 		<span class="talk-title">OSCAR: One-Sided Communications Automatic Rewriting</span><br>
-        <span class="talk-presenter">Radjasouria Vinayagame, Van Man Nguyen, Samuel Thibault and Emmanuelle Saillard</span>
+        <span class="talk-presenter">Radjasouria Vinayagame, Van Man Nguyen, Samuel Thibault and Emmanuelle Saillard</span> (<a href="/assets/posters/eurompi2026_poster-official_radjasouria_vinayagame.pdf">poster</a>)
       </div>
     </td>
     <td>
